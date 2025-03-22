@@ -2,7 +2,7 @@
 
 > Acest document conține toate cele 666 servicii publice, reorganizate în 21 de categorii tematice. Fiecare categorie include subcategorii logice, serviciile sunt ordonate după relevanță, iar fiecare descriere conține pașii și informația despre eServiciu.
 
-## Cuprins
+# Categorie: Cuprins
 - [Pensii și beneficii sociale](#pensii-si-beneficii-sociale)
 - [Familie și copii](#familie-si-copii)
 - [Naștere, căsătorie, divorț și deces](#nastere,-casatorie,-divort-si-deces)
@@ -28,9 +28,9 @@
 ---
 
 
-## Pensii și beneficii sociale
+# Categorie: Pensii și beneficii sociale
 
-## Service: Alocaţie lunară nominală de stat pentru persoanele cu merite deosebite faţă de stat
+# Categorie: Service: Alocaţie lunară nominală de stat pentru persoanele cu merite deosebite faţă de stat
 **E-Service Available:** No
 
 **Service Description:**
@@ -49,7 +49,7 @@ Acordarea unui drept bănesc beneficiarilor de pensii sau alocații sociale de s
 
 ---
 
-## Service: Alocaţie socială de stat pentru copii în cazul pierderii întreţinătorului
+# Categorie: Service: Alocaţie socială de stat pentru copii în cazul pierderii întreţinătorului
 **E-Service Available:** No
 
 **Service Description:**
@@ -67,7 +67,7 @@ Acordarea unui drept bănesc copiilor în cazul pierderii întreţinătorului da
 
 ---
 
-## Service: Alocaţie socială de stat pentru persoanele cu dizabilităţi severe, accentuate şi medii, persoanelor cu dizabilităţi din copilărie severe, accentuate şi medie
+# Categorie: Service: Alocaţie socială de stat pentru persoanele cu dizabilităţi severe, accentuate şi medii, persoanelor cu dizabilităţi din copilărie severe, accentuate şi medie
 **E-Service Available:** No
 
 **Service Description:**
@@ -84,7 +84,7 @@ Acordarea unui drept bănesc persoanelor încadrate într
 
 ---
 
-## Service: Alocaţie socială de stat pentru persoanele vârstnice
+# Categorie: Service: Alocaţie socială de stat pentru persoanele vârstnice
 **E-Service Available:** No
 
 **Service Description:**
@@ -104,7 +104,7 @@ Acordarea unui drept bănesc persoanelor care au atins vârsta de pensionare și
 
 ---
 
-## Service: Alocație lunară de stat pentru protecția socială suplimentară a unor beneficiari de pensii şi a unor categorii de populaţie
+# Categorie: Service: Alocație lunară de stat pentru protecția socială suplimentară a unor beneficiari de pensii şi a unor categorii de populaţie
 **E-Service Available:** No
 
 **Service Description:**
@@ -120,7 +120,7 @@ Acordarea unui drept bănesc unor categorii de populaţie din rândul beneficiar
 
 ---
 
-## Service: Pensie anticipată pentru carieră lungă
+# Categorie: Service: Pensie anticipată pentru carieră lungă
 **E-Service Available:** No
 
 **Service Description:**
@@ -138,7 +138,7 @@ Acordarea unui drept bănesc, proporţional contribuţiilor de asigurări social
 
 ---
 
-## Service: Pensie de dizabilitate
+# Categorie: Service: Pensie de dizabilitate
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -166,7 +166,7 @@ Acordarea unui drept bănesc persoanei asigurate încadrată într
 
 ---
 
-## Service: Pensie de dizabilitate acordată în baza prevederilor acordurilor internaționale
+# Categorie: Service: Pensie de dizabilitate acordată în baza prevederilor acordurilor internaționale
 **E-Service Available:** No
 
 **Service Description:**
@@ -195,7 +195,7 @@ Acordarea unui drept bănesc persoanei asigurate încadrată într
 
 ---
 
-## Service: Pensie de dizabilitate cetăţenilor care au participat la lichidarea urmărilor avariei de la C.A.E Cernobîl
+# Categorie: Service: Pensie de dizabilitate cetăţenilor care au participat la lichidarea urmărilor avariei de la C.A.E Cernobîl
 **E-Service Available:** No
 
 **Service Description:**
@@ -211,7 +211,7 @@ Acordarea unui drept bănesc cetăţenilor încadraţi în grad de dizabilitate 
 
 ---
 
-## Service: Pensie de dizabilitate militarilor în termen
+# Categorie: Service: Pensie de dizabilitate militarilor în termen
 **E-Service Available:** No
 
 **Service Description:**
@@ -227,7 +227,7 @@ Acordarea unui drept bănesc militarilor în termen, dacă dizabilitatea a surve
 
 ---
 
-## Service: Pensie de dizabilitate militarilor şi persoanelor din corpul de comandă și trupele organelor afacerilor interne
+# Categorie: Service: Pensie de dizabilitate militarilor şi persoanelor din corpul de comandă și trupele organelor afacerilor interne
 **E-Service Available:** No
 
 **Service Description:**
@@ -243,7 +243,7 @@ Acordarea unui drept bănesc militarilor, care îndeplinesc serviciu prin contra
 
 ---
 
-## Service: Pensie de urmaş în baza prevederilor acordurilor internaţionale
+# Categorie: Service: Pensie de urmaş în baza prevederilor acordurilor internaţionale
 **E-Service Available:** No
 
 **Service Description:**
@@ -270,7 +270,7 @@ Acordarea unui drept bănensc urmaşilor ca urmare a decesului întreţinătorul
 
 ---
 
-## Service: Pensie de urmaș
+# Categorie: Service: Pensie de urmaș
 **E-Service Available:** No
 
 **Service Description:**
@@ -292,7 +292,7 @@ Acordarea unui drept bănesc urmaşilor ca urmare a decesului întreţinătorulu
 
 ---
 
-## Service: Pensie pentru funcţionarii publici
+# Categorie: Service: Pensie pentru funcţionarii publici
 **E-Service Available:** No
 
 **Service Description:**
@@ -308,7 +308,7 @@ Acordarea dreptului bănesc asiguratului cu statut de funcţionar public, care l
 
 ---
 
-## Service: Pensie pentru judecători
+# Categorie: Service: Pensie pentru judecători
 **E-Service Available:** No
 
 **Service Description:**
@@ -324,7 +324,7 @@ Acordarea unui drept bănesc judecătorului care a atins vârsta de pensionare �
 
 ---
 
-## Service: Pensie pentru limita de vârstă cetăţenilor care au participat la lichidarea urmărilor avariei de la C.A.E Cernobîl
+# Categorie: Service: Pensie pentru limita de vârstă cetăţenilor care au participat la lichidarea urmărilor avariei de la C.A.E Cernobîl
 **E-Service Available:** No
 
 **Service Description:**
@@ -352,7 +352,7 @@ Acordarea unui drept bănesc cetăţenilor care au participat la lichidarea urm�
 
 ---
 
-## Service: Pensie pentru limită de vârstă
+# Categorie: Service: Pensie pentru limită de vârstă
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -383,7 +383,7 @@ Acordarea unui drept bănesc persoanelor care au atins vârsta de pensionare și
 
 ---
 
-## Service: Pensie pentru limită de vârstă acordată în baza prevederilor acordurilor internaționale
+# Categorie: Service: Pensie pentru limită de vârstă acordată în baza prevederilor acordurilor internaționale
 **E-Service Available:** No
 
 **Service Description:**
@@ -416,7 +416,7 @@ Acordarea unui drept bănesc persoanelor care au atins vârsta de pensionare și
 
 ---
 
-## Service: Pensie pentru unele categorii de angajaţi din aviaţia civilă
+# Categorie: Service: Pensie pentru unele categorii de angajaţi din aviaţia civilă
 **E-Service Available:** No
 
 **Service Description:**
@@ -432,7 +432,7 @@ Acordarea unui drept bănesc unor categorii de angajaţi din aviaţia civilă ca
 
 ---
 
-## Service: Pensie pentru unele categorii de angajaţi din domeniul culturii
+# Categorie: Service: Pensie pentru unele categorii de angajaţi din domeniul culturii
 **E-Service Available:** No
 
 **Service Description:**
@@ -451,7 +451,7 @@ Acordarea unui drept bănesc unor categorii de angajaţi din instituţiile de cu
 
 ---
 
-## Service: Pensie viageră pentru vechime în muncă militarilor, persoanelor din corpul de comandă și din trupele organelor afacerilor interne
+# Categorie: Service: Pensie viageră pentru vechime în muncă militarilor, persoanelor din corpul de comandă și din trupele organelor afacerilor interne
 **E-Service Available:** No
 
 **Service Description:**
@@ -467,7 +467,7 @@ Acordarea unui drept bănesc militarilor, care îndeplinesc serviciu prin contra
 
 ---
 
-## Service: Pensie în cazul pierderii întreţinătorului membrilor familiilor persoanelor care au decedat în urma schilodirii sau îmbolnăvirii provocate de avaria de la C.A.E. Cernobîl
+# Categorie: Service: Pensie în cazul pierderii întreţinătorului membrilor familiilor persoanelor care au decedat în urma schilodirii sau îmbolnăvirii provocate de avaria de la C.A.E. Cernobîl
 **E-Service Available:** No
 
 **Service Description:**
@@ -486,7 +486,7 @@ Acordarea unui drept bănesc membrilor familiilor persoanelor decedate în urma 
 
 ---
 
-## Service: Pensie în cazul pierderii întreţinătorului militar în termen
+# Categorie: Service: Pensie în cazul pierderii întreţinătorului militar în termen
 **E-Service Available:** No
 
 **Service Description:**
@@ -502,7 +502,7 @@ Acordarea unui drept bănesc urmașilor ca urmare a decesului întreţinătorulu
 
 ---
 
-## Service: Pensie în cazul pierderii întreţinătorului militarilor, persoanelor din corpul de comandă și din trupele organelor afacerilor interne
+# Categorie: Service: Pensie în cazul pierderii întreţinătorului militarilor, persoanelor din corpul de comandă și din trupele organelor afacerilor interne
 **E-Service Available:** No
 
 **Service Description:**
@@ -518,7 +518,7 @@ Acordarea unui drept bănesc familiilor militarilor, persoanelor din corpul de c
 
 ---
 
-## Service: Pensie și indemnizație de dizabilitate în urma accidentului de muncă sau a unei boli profesionale acordată în baza prevederilor acordurilor internaționale
+# Categorie: Service: Pensie și indemnizație de dizabilitate în urma accidentului de muncă sau a unei boli profesionale acordată în baza prevederilor acordurilor internaționale
 **E-Service Available:** No
 
 **Service Description:**
@@ -540,7 +540,7 @@ Acordarea unui drept bănesc persoanei încadrată într
 
 ---
 
-## Service: Reexaminarea pensiilor de dizabilitate
+# Categorie: Service: Reexaminarea pensiilor de dizabilitate
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -571,7 +571,7 @@ Reexaminarea pensiei de dizabilitate. Reexaminarea drepturilor la pensie se efec
 
 ---
 
-## Service: Reexaminarea pensiilor pentru limită de vârstă
+# Categorie: Service: Reexaminarea pensiilor pentru limită de vârstă
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -610,7 +610,7 @@ Reexaminarea cuantumului pensiei pentru limită de vârstă. Reexaminarea dreptu
 
 ---
 
-## Service: Ajutor de deces acordat beneficiarilor instituţiilor de forţă
+# Categorie: Service: Ajutor de deces acordat beneficiarilor instituţiilor de forţă
 **E-Service Available:** No
 
 **Service Description:**
@@ -627,7 +627,7 @@ Acordarea unui drept bănesc persoanei care a suportat cheltuielile în caz de d
 
 ---
 
-## Service: Ajutor de deces persoanelor asigurate
+# Categorie: Service: Ajutor de deces persoanelor asigurate
 **E-Service Available:** No
 
 **Service Description:**
@@ -644,7 +644,7 @@ Acordarea unui sprijin financiar unic în cazul decesului persoanelor asigurate 
 
 ---
 
-## Service: Ajutor de deces persoanelor neasigurate
+# Categorie: Service: Ajutor de deces persoanelor neasigurate
 **E-Service Available:** No
 
 **Service Description:**
@@ -661,7 +661,7 @@ Acordarea unui sprijin financiar unic în cazul decesului persoanelor neasigurat
 
 ---
 
-## Service: Ajutor de deces în baza prevederilor acordurilor internaționale
+# Categorie: Service: Ajutor de deces în baza prevederilor acordurilor internaționale
 **E-Service Available:** No
 
 **Service Description:**
@@ -683,7 +683,7 @@ Acordarea unui drept bănesc persoanei care a suportat cheltuielile în caz de d
 
 ---
 
-## Service: Indemnizația în cazul decesului unuia dintre soți
+# Categorie: Service: Indemnizația în cazul decesului unuia dintre soți
 **E-Service Available:** No
 
 **Service Description:**
@@ -705,7 +705,7 @@ Acordarea unui drept bănesc soțului supraviețuitor al beneficiarului de pensi
 
 ---
 
-## Service: Alocaţie socială de stat pentru îngrijire, însoţire şi supraveghere
+# Categorie: Service: Alocaţie socială de stat pentru îngrijire, însoţire şi supraveghere
 **E-Service Available:** No
 
 **Service Description:**
@@ -722,7 +722,7 @@ Acordarea unui drept bănesc persoanelor care îngrijesc, însoţesc şi suprave
 
 ---
 
-## Service: Compensație unică pentru prejudiciul adus sănătății persoanelor cu dizabilităţi din rândul participanţilor la lichidarea consecinţelor catastrofei de la Cernobîl şi la experienţele nucleare, avariilor cu radiaţie ionizată şi a consecinţelor lor la obiectivele atomice civile sau militare
+# Categorie: Service: Compensație unică pentru prejudiciul adus sănătății persoanelor cu dizabilităţi din rândul participanţilor la lichidarea consecinţelor catastrofei de la Cernobîl şi la experienţele nucleare, avariilor cu radiaţie ionizată şi a consecinţelor lor la obiectivele atomice civile sau militare
 **E-Service Available:** No
 
 **Service Description:**
@@ -739,7 +739,7 @@ Acordarea unui ajutor material persoanelor cu dizabilități din rândul partici
 
 ---
 
-## Service: Indemnizaţie de dizabilitate ca urmare a unui accident de muncă sau a unei boli profesionale
+# Categorie: Service: Indemnizaţie de dizabilitate ca urmare a unui accident de muncă sau a unei boli profesionale
 **E-Service Available:** No
 
 **Service Description:**
@@ -758,7 +758,7 @@ Acordarea unui drept bănesc persoanelor asigurate care şi
 
 ---
 
-## Service: Înregistrarea oficială în calitate de șomer
+# Categorie: Service: Înregistrarea oficială în calitate de șomer
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -785,7 +785,7 @@ Un set de servicii sau evenimente de viață legate de inundații, reciclare, st
 
 ---
 
-## Service: Raportarea informației de evidență nominală a persoanelor neangajate asigurate de Guvern
+# Categorie: Service: Raportarea informației de evidență nominală a persoanelor neangajate asigurate de Guvern
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -815,7 +815,7 @@ Obligaţia de prezentare a Listei de evidență nominală a persoanelor neangaja
 
 ---
 
-## Service: Certificat de arhivă/extras din documentele Fondului Agenției Naționale a Arhivelor (cu excepția: certificatelor de naștere, căsătorie și deces, 1820-1922)
+# Categorie: Service: Certificat de arhivă/extras din documentele Fondului Agenției Naționale a Arhivelor (cu excepția: certificatelor de naștere, căsătorie și deces, 1820-1922)
 **E-Service Available:** No
 
 **Service Description:**
@@ -851,7 +851,7 @@ Certificatul de arhivă constituie un document cu putere juridică, ce conţine 
 
 ---
 
-## Service: Contract de asigurare socială
+# Categorie: Service: Contract de asigurare socială
 **E-Service Available:** No
 
 **Service Description:**
@@ -869,9 +869,9 @@ Certificatul de arhivă constituie un document cu putere juridică, ce conţine 
 
 ---
 
-## Familie și copii
+# Categorie: Familie și copii
 
-## Service: Bilet de tratament balneosanatorial pentru veterani
+# Categorie: Service: Bilet de tratament balneosanatorial pentru veterani
 **E-Service Available:** No
 
 **Service Description:**
@@ -890,7 +890,7 @@ Eliberarea unui document bănesc care acordă veteranilor dreptul la tratament b
 
 ---
 
-## Service: Suport financiar de stat
+# Categorie: Service: Suport financiar de stat
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -912,7 +912,7 @@ Un set de servicii sau evenimente de viață legate de nașterea unui copil, că
 
 ---
 
-## Service: Certificate de naștere, căsătorie și deces din fondurile Agenției Naționale a Arhivelor, întocmite în baza registrelor parohiale pentru perioada anilor 1820-1922
+# Categorie: Service: Certificate de naștere, căsătorie și deces din fondurile Agenției Naționale a Arhivelor, întocmite în baza registrelor parohiale pentru perioada anilor 1820-1922
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -937,7 +937,7 @@ Certificatul de arhivă constituie un document cu putere juridică, ce conţine 
 
 ---
 
-## Service: Indemnizaţia unică la naşterea copilului
+# Categorie: Service: Indemnizaţia unică la naşterea copilului
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -955,7 +955,7 @@ Acordarea unui sprijin financiar unic mamei la nașterea copilului, iar în cazu
 
 ---
 
-## Service: Indemnizaţie lunară de suport pentru creşterea până la vârsta de 3 ani a copiilor gemeni sau a mai multor copii născuţi dintr-o singură sarcină
+# Categorie: Service: Indemnizaţie lunară de suport pentru creşterea până la vârsta de 3 ani a copiilor gemeni sau a mai multor copii născuţi dintr-o singură sarcină
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -976,7 +976,7 @@ Acordarea unui sprijin financiar mamei, iar în cazul decesului ei – altui rep
 
 ---
 
-## Service: Înregistrarea căsătoriei
+# Categorie: Service: Înregistrarea căsătoriei
 **E-Service Available:** No
 
 **Service Description:**
@@ -1007,7 +1007,7 @@ Acordarea unui sprijin financiar mamei, iar în cazul decesului ei – altui rep
 
 ---
 
-## Service: Înregistrarea decesului
+# Categorie: Service: Înregistrarea decesului
 **E-Service Available:** No
 
 **Service Description:**
@@ -1035,7 +1035,7 @@ Acordarea unui sprijin financiar mamei, iar în cazul decesului ei – altui rep
 
 ---
 
-## Service: Înregistrarea decesului la misiunile diplomatice sau oficiile consulare ale Republicii Moldova
+# Categorie: Service: Înregistrarea decesului la misiunile diplomatice sau oficiile consulare ale Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -1053,7 +1053,7 @@ Acordarea unui sprijin financiar mamei, iar în cazul decesului ei – altui rep
 
 ---
 
-## Service: Înregistrarea nașterii
+# Categorie: Service: Înregistrarea nașterii
 **E-Service Available:** No
 
 **Service Description:**
@@ -1093,7 +1093,7 @@ Acordarea unui sprijin financiar mamei, iar în cazul decesului ei – altui rep
 
 ---
 
-## Service: Înregistrarea nașterii la misiunile diplomatice sau oficiile consulare ale Republicii Moldova
+# Categorie: Service: Înregistrarea nașterii la misiunile diplomatice sau oficiile consulare ale Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -1117,7 +1117,7 @@ Un set de servicii sau evenimente de viață legate de procedura de licențiere,
 
 ---
 
-## Service: Înregistrarea de stat a gospodăriilor ţărăneşti (de fermier)
+# Categorie: Service: Înregistrarea de stat a gospodăriilor ţărăneşti (de fermier)
 **E-Service Available:** No
 
 **Service Description:**
@@ -1145,7 +1145,7 @@ Gospodăria ţărănească (de fermie
 
 ---
 
-## Service: Înregistrarea și reânregistrarea dispozitivelor medicale
+# Categorie: Service: Înregistrarea și reânregistrarea dispozitivelor medicale
 **E-Service Available:** No
 
 **Service Description:**
@@ -1171,7 +1171,7 @@ Un set de servicii sau evenimente de viață legate de susținerea și îngrijir
 
 ---
 
-## Service: Certificat/duplicat al certificatului de adopție
+# Categorie: Service: Certificat/duplicat al certificatului de adopție
 **E-Service Available:** No
 
 **Service Description:**
@@ -1199,7 +1199,7 @@ Duplicatul certificatul de adopţie reprezintă documentul eliberat persoanei fi
 
 ---
 
-## Service: Certificat/duplicat al certificatului de stabilire a paternității
+# Categorie: Service: Certificat/duplicat al certificatului de stabilire a paternității
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -1229,7 +1229,7 @@ Duplicatul certificatului de stabilire a paternității reprezintă documentul e
 
 ---
 
-## Service: Indemnizaţia unică pentru perioada de încredinţare a copilului adoptabil
+# Categorie: Service: Indemnizaţia unică pentru perioada de încredinţare a copilului adoptabil
 **E-Service Available:** No
 
 **Service Description:**
@@ -1246,7 +1246,7 @@ Acordarea unui sprijin bănesc ce se stabilește și se acordă prin sistemul pu
 
 ---
 
-## Service: Indemnizaţie lunară pentru creşterea copilului, conform opțiunilor (persoanelor asigurate)
+# Categorie: Service: Indemnizaţie lunară pentru creşterea copilului, conform opțiunilor (persoanelor asigurate)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -1266,7 +1266,7 @@ Acordarea unei prestații sociale lunare persoanelor asigurate pentru creşterea
 
 ---
 
-## Service: Indemnizaţie lunară pentru îngrijirea copilului până la vârsta de 2 ani
+# Categorie: Service: Indemnizaţie lunară pentru îngrijirea copilului până la vârsta de 2 ani
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -1284,7 +1284,7 @@ Acordarea unui sprijin financiar mamei, iar în cazul decesului ei sau în cazul
 
 ---
 
-## Service: Indemnizaţie lunară pentru îngrijirea copilului până la vârsta de 3 ani (pentru persoanele asigurate, acordată în baza prevederilor acordurilor internaționale)
+# Categorie: Service: Indemnizaţie lunară pentru îngrijirea copilului până la vârsta de 3 ani (pentru persoanele asigurate, acordată în baza prevederilor acordurilor internaționale)
 **E-Service Available:** No
 
 **Service Description:**
@@ -1310,7 +1310,7 @@ Acordarea unei prestații lunare persoanelor asigurate pentru creşterea copilul
 
 ---
 
-## Service: Indemnizaţie paternală
+# Categorie: Service: Indemnizaţie paternală
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -1339,7 +1339,7 @@ Acordarea unui sprijin bănesc acordat pentru îngrijirea copilului nou
 
 ---
 
-## Service: Indemnizație de maternitate femeilor asigurate și soțiilor aflate la întreținerea soților asigurați
+# Categorie: Service: Indemnizație de maternitate femeilor asigurate și soțiilor aflate la întreținerea soților asigurați
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -1357,7 +1357,7 @@ Acordarea unei prestaţii sociale femeilor asigurate, şomerelor şi soţiilor a
 
 ---
 
-## Service: Indemnizație pentru creșterea copilului cu vârsta mai mare de 3 ani adoptat sau luat în plasament în serviciul de tutelă/curatelă
+# Categorie: Service: Indemnizație pentru creșterea copilului cu vârsta mai mare de 3 ani adoptat sau luat în plasament în serviciul de tutelă/curatelă
 **E-Service Available:** No
 
 **Service Description:**
@@ -1375,7 +1375,7 @@ Acordarea unui sprijin bănesc ce se stabilește și se acordă prin sistemul pu
 
 ---
 
-## Service: Indemnizație pentru incapacitate temporară de muncă și de maternitate acordată în baza prevederilor acordurilor internaționale în domeniul securității sociale la care Republica Moldova este parte
+# Categorie: Service: Indemnizație pentru incapacitate temporară de muncă și de maternitate acordată în baza prevederilor acordurilor internaționale în domeniul securității sociale la care Republica Moldova este parte
 **E-Service Available:** No
 
 **Service Description:**
@@ -1402,7 +1402,7 @@ Acordarea unui drept bănesc persoanei asigurate și şomerilor iar în caz de i
 
 ---
 
-## Service: Indemnizație unică pentru copilul adoptat sau luat în plasament în serviciul de tutelă/curatelă
+# Categorie: Service: Indemnizație unică pentru copilul adoptat sau luat în plasament în serviciul de tutelă/curatelă
 **E-Service Available:** No
 
 **Service Description:**
@@ -1420,7 +1420,7 @@ Acordarea unui sprijin bănesc ce se stabilește și se acordă prin sistemul pu
 
 ---
 
-## Service: Înregistrarea faptului recunoașterii paternității
+# Categorie: Service: Înregistrarea faptului recunoașterii paternității
 **E-Service Available:** No
 
 **Service Description:**
@@ -1443,7 +1443,7 @@ Un set de servicii sau evenimente de viață legate de cetățenie și rezidenț
 
 ---
 
-## Service: Examinarea cererii privind renunțarea la cetățenia Republicii Moldova și perfectarea setului de documente respectiv, cu eliberarea adeverinței corespunzătoare.
+# Categorie: Service: Examinarea cererii privind renunțarea la cetățenia Republicii Moldova și perfectarea setului de documente respectiv, cu eliberarea adeverinței corespunzătoare.
 **E-Service Available:** No
 
 **Service Description:**
@@ -1456,7 +1456,7 @@ Renunțarea la cetățenia Republicii Moldova se depune prin cererea cetățeanu
 
 ---
 
-## Service: Înregistrarea la domiciliu și/sau la reședința temporară sau radierea din evidență
+# Categorie: Service: Înregistrarea la domiciliu și/sau la reședința temporară sau radierea din evidență
 **E-Service Available:** No
 
 **Service Description:**
@@ -1488,7 +1488,7 @@ Un set de servicii sau evenimente de viață legate de procesele juridice, insta
 
 ---
 
-## Service: Alocaţie socială de stat pentru copii în vârstă de până la 18 ani cu dizabilitate severă, accentuată şi medie
+# Categorie: Service: Alocaţie socială de stat pentru copii în vârstă de până la 18 ani cu dizabilitate severă, accentuată şi medie
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -1509,7 +1509,7 @@ Acordarea unui drept bănesc copiilor în vârstă de până la 18 ani cu dizabi
 
 ---
 
-## Service: Recunoașterea și echivalarea actelor de studii și a calificărilor obținute în străinătate
+# Categorie: Service: Recunoașterea și echivalarea actelor de studii și a calificărilor obținute în străinătate
 **E-Service Available:** No
 
 **Service Description:**
@@ -1550,7 +1550,7 @@ Un set de servicii sau evenimente de viață legate de căutarea unui loc de mun
 
 ---
 
-## Service: <p>Paşaport al cetățeanului Republicii Moldova</p>
+# Categorie: Service: <p>Paşaport al cetățeanului Republicii Moldova</p>
 **E-Service Available:** No
 
 **Service Description:**
@@ -1579,7 +1579,7 @@ Paşaportul cetăţeanului Republicii Moldova este un act de identitate din sist
 
 ---
 
-## Service: Aviz privind afirmarea/infirmarea schimbării numelui de familie şi/sau prenumelui
+# Categorie: Service: Aviz privind afirmarea/infirmarea schimbării numelui de familie şi/sau prenumelui
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -1609,7 +1609,7 @@ Avizul privind afirmarea/infirmarea schimbării numelui de familie și/sau prenu
 
 ---
 
-## Service: Buletin de identitate al cetățeanului Republicii Moldova
+# Categorie: Service: Buletin de identitate al cetățeanului Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -1638,7 +1638,7 @@ Buletinul de identitate al cetăţeanului Republicii Moldova reprezintă actul d
 
 ---
 
-## Service: Certificarea faptelor de stare civilă consemnate în localitățile din stânga Nistrului și municipiul Bender
+# Categorie: Service: Certificarea faptelor de stare civilă consemnate în localitățile din stânga Nistrului și municipiul Bender
 **E-Service Available:** No
 
 **Service Description:**
@@ -1654,7 +1654,7 @@ Prin certificarea faptului de stare civilă consemnat în stânga Nistrului şi 
 
 ---
 
-## Service: Certificat de capacitate matrimonială
+# Categorie: Service: Certificat de capacitate matrimonială
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -1683,7 +1683,7 @@ Certificat de capacitate matrimonială reprezintă documentul de stare civilă c
 
 ---
 
-## Service: Certificat de identificare a numelui, prenumelui de persoană, denumirii de localitate
+# Categorie: Service: Certificat de identificare a numelui, prenumelui de persoană, denumirii de localitate
 **E-Service Available:** No
 
 **Service Description:**
@@ -1704,7 +1704,7 @@ Serviciul este destinat persoanelor fizice pentru identificarea numelui de famil
 
 ---
 
-## Service: Certificat/duplicat al certificatului de naștere
+# Categorie: Service: Certificat/duplicat al certificatului de naștere
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -1736,7 +1736,7 @@ Certificatul de naștere Prin certificat de naștere se înțelege documentul el
 
 ---
 
-## Service: Examinarea cererii privind schimbarea numelui și/sau prenumelui, și/sau patronimicului, cu eliberarea certificatului respectiv.
+# Categorie: Service: Examinarea cererii privind schimbarea numelui și/sau prenumelui, și/sau patronimicului, cu eliberarea certificatului respectiv.
 **E-Service Available:** No
 
 **Service Description:**
@@ -1757,7 +1757,7 @@ Numele de familie şi prenumele constituie atributele de baza prin care se ident
 
 ---
 
-## Service: Extras de pe actul de naștere
+# Categorie: Service: Extras de pe actul de naștere
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -1788,7 +1788,7 @@ Prin extrasul de pe actul de naștere se înțelege documentul eliberat în teme
 
 ---
 
-## Service: Extras din Registrul de stat al populaţiei (inclusiv electronic)
+# Categorie: Service: Extras din Registrul de stat al populaţiei (inclusiv electronic)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -1817,7 +1817,7 @@ Extras (adeverință) din registru – reprezintă reproducerea unei părţi din
 
 ---
 
-## Service: Extras multilingv de pe actul de naștere
+# Categorie: Service: Extras multilingv de pe actul de naștere
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -1847,7 +1847,7 @@ Extrasul multilingv de pe actul de naștere (pluriling
 
 ---
 
-## Service: Reconstituirea actului de stare civilă
+# Categorie: Service: Reconstituirea actului de stare civilă
 **E-Service Available:** No
 
 **Service Description:**
@@ -1868,7 +1868,7 @@ Reconstituirea actului de stare civilă reprezintă o procedură de restabilire 
 
 ---
 
-## Service: Transcrierea actului de stare civilă
+# Categorie: Service: Transcrierea actului de stare civilă
 **E-Service Available:** No
 
 **Service Description:**
@@ -1891,7 +1891,7 @@ Transcrierea actului de stare civilă reprezintă procedura prin care actele de 
 
 ---
 
-## Service: Înregistrarea schimbării numelui și/sau a prenumelui
+# Categorie: Service: Înregistrarea schimbării numelui și/sau a prenumelui
 **E-Service Available:** No
 
 **Service Description:**
@@ -1918,7 +1918,7 @@ Numele de familie şi prenumele constituie atributele de baza prin care se ident
 
 ---
 
-## Service: Înregistrarea ulterioară a actului de stare civilă
+# Categorie: Service: Înregistrarea ulterioară a actului de stare civilă
 **E-Service Available:** No
 
 **Service Description:**
@@ -1940,7 +1940,7 @@ Serviciul de înregistrare ulterioară a actului de stare civilă se prestează 
 
 ---
 
-## Service: Adeverinţa privind confirmarea statutului străinului pe teritoriul Republicii Moldova
+# Categorie: Service: Adeverinţa privind confirmarea statutului străinului pe teritoriul Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -1959,7 +1959,7 @@ Adeverința se eliberează pentru necesitatea serviciilor publice: înscrierea c
 
 ---
 
-## Service: Autorizarea emigrării cetățeanului Republicii Moldova
+# Categorie: Service: Autorizarea emigrării cetățeanului Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -1980,7 +1980,7 @@ Autorizaţie de emigrare – menţiune aplicată în paşaportul cetăţeanului 
 
 ---
 
-## Service: Aviz pentru reîntregirea familiei
+# Categorie: Service: Aviz pentru reîntregirea familiei
 **E-Service Available:** No
 
 **Service Description:**
@@ -2016,7 +2016,7 @@ Aviz pentru reîntregirea familiei – act eliberat de autoritatea competentă p
 
 ---
 
-## Service: Drept de ședere
+# Categorie: Service: Drept de ședere
 **E-Service Available:** No
 
 **Service Description:**
@@ -2054,7 +2054,7 @@ Drept de şedere – drept de a
 
 ---
 
-## Service: Invitație pentru cetățenii străini
+# Categorie: Service: Invitație pentru cetățenii străini
 **E-Service Available:** No
 
 **Service Description:**
@@ -2101,7 +2101,7 @@ Invitația este un document oficial eliberat la cererea persoanei fizice cu domi
 
 ---
 
-## Service: Bilet de tratament balneosanatorial pentru veterani
+# Categorie: Service: Bilet de tratament balneosanatorial pentru veterani
 **E-Service Available:** No
 
 **Service Description:**
@@ -2120,7 +2120,7 @@ Eliberarea unui document bănesc care acordă veteranilor dreptul la tratament b
 
 ---
 
-## Service: Raportarea informației privind inițierea/încetarea raporturilor de muncă
+# Categorie: Service: Raportarea informației privind inițierea/încetarea raporturilor de muncă
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -2138,7 +2138,7 @@ IRM19
 
 ---
 
-## Service: Înregistrarea la medicul de familie
+# Categorie: Service: Înregistrarea la medicul de familie
 **E-Service Available:** No
 
 **Service Description:**
@@ -2157,7 +2157,7 @@ Pentru a beneficia de asistenţă medicală primară achitată din fondurile de 
 
 ---
 
-## Service: Legitimaţie de veteran de război
+# Categorie: Service: Legitimaţie de veteran de război
 **E-Service Available:** No
 
 **Service Description:**
@@ -2174,7 +2174,7 @@ Obținerea legitimației de veteran de război şi de membru al familiei acestui
 
 ---
 
-## Service: Informația privind starea contului personal de asigurări sociale
+# Categorie: Service: Informația privind starea contului personal de asigurări sociale
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -2195,9 +2195,9 @@ Extrasul din contul personal de asigurări sociale reflectă datele angajatorulu
 
 ---
 
-## Naștere, căsătorie, divorț și deces
+# Categorie: Naștere, căsătorie, divorț și deces
 
-## Service: Indemnizație urmașilor personalului medical decedat ca urmare a desfășurării activității medicale în lupta cu COVID-19
+# Categorie: Service: Indemnizație urmașilor personalului medical decedat ca urmare a desfășurării activității medicale în lupta cu COVID-19
 **E-Service Available:** No
 
 **Service Description:**
@@ -2215,7 +2215,7 @@ Acordarea unui drept bănesc urmașilor personalului medical decedat, survenit c
 
 ---
 
-## Service: Certificat/duplicat al certificatului de căsătorie
+# Categorie: Service: Certificat/duplicat al certificatului de căsătorie
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -2246,7 +2246,7 @@ Certificatul de căsătorie Prin certificat de căsătorie se înțelege documen
 
 ---
 
-## Service: Certificat/duplicat al certificatului de deces
+# Categorie: Service: Certificat/duplicat al certificatului de deces
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -2278,7 +2278,7 @@ Certificatul de deces Prin certificat de deces se înțelege documentul eliberat
 
 ---
 
-## Service: Extras de pe actul de căsătorie
+# Categorie: Service: Extras de pe actul de căsătorie
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -2309,7 +2309,7 @@ Prin extrasul de pe actul de căsătorie se înțelege documentul eliberat în t
 
 ---
 
-## Service: Extras de pe actul de deces
+# Categorie: Service: Extras de pe actul de deces
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -2340,7 +2340,7 @@ Prin extrasul de pe actul de deces se înțelege documentul eliberat în temeiul
 
 ---
 
-## Service: Extras multilingv de pe actul de deces
+# Categorie: Service: Extras multilingv de pe actul de deces
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -2371,7 +2371,7 @@ Extrasul multilingv de pe actul de deces (pluriling
 
 ---
 
-## Service: Indemnizație de deces ca urmare a unui accident de muncă sau a unei boli profesionale
+# Categorie: Service: Indemnizație de deces ca urmare a unui accident de muncă sau a unei boli profesionale
 **E-Service Available:** No
 
 **Service Description:**
@@ -2394,7 +2394,7 @@ Acordarea unui drept bănesc unic în sumă fixă, persoanelor aflate la între�
 
 ---
 
-## Service: Indemnizație unică de deces beneficiarilor instituţiilor de forţă
+# Categorie: Service: Indemnizație unică de deces beneficiarilor instituţiilor de forţă
 **E-Service Available:** No
 
 **Service Description:**
@@ -2411,7 +2411,7 @@ Acordarea unui drept bănesc familiilor beneficiarilor instituţiilor de forţă
 
 ---
 
-## Service: Înregistrarea căsătoriei la misiunile diplomatice sau oficiile consulare ale Republicii Moldova
+# Categorie: Service: Înregistrarea căsătoriei la misiunile diplomatice sau oficiile consulare ale Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -2427,7 +2427,7 @@ Acordarea unui drept bănesc familiilor beneficiarilor instituţiilor de forţă
 
 ---
 
-## Service: Înregistrarea divorțului
+# Categorie: Service: Înregistrarea divorțului
 **E-Service Available:** No
 
 **Service Description:**
@@ -2463,7 +2463,7 @@ Acordarea unui drept bănesc familiilor beneficiarilor instituţiilor de forţă
 
 ---
 
-## Service: Certificat privind starea civilă
+# Categorie: Service: Certificat privind starea civilă
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -2494,7 +2494,7 @@ Certificatul de starea civilă este actul oficial eliberat pentru confirmarea st
 
 ---
 
-## Service: Certificat/duplicat al certificatului de divorț
+# Categorie: Service: Certificat/duplicat al certificatului de divorț
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -2526,7 +2526,7 @@ Certificatul de divorț Prin certificat de divorț se înțelege documentul elib
 
 ---
 
-## Service: Extras de pe actul de divorț
+# Categorie: Service: Extras de pe actul de divorț
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -2557,7 +2557,7 @@ Prin extrasul de pe actul de divorț se înțelege documentul eliberat în temei
 
 ---
 
-## Service: Extras multilingv de pe actul de căsătorie
+# Categorie: Service: Extras multilingv de pe actul de căsătorie
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -2588,7 +2588,7 @@ Extrasul multilingv de pe actul de căsătorie (pluriling
 
 ---
 
-## Service: Transcrierea actelor de stare civilă
+# Categorie: Service: Transcrierea actelor de stare civilă
 **E-Service Available:** No
 
 **Service Description:**
@@ -2605,7 +2605,7 @@ Transcrierea actelor de stare civilă reprezintă o procedură de recunoaştere 
 
 ---
 
-## Service: Înregistrarea divorțului la misiunile diplomatice sau oficiile consulare ale Republicii Moldova
+# Categorie: Service: Înregistrarea divorțului la misiunile diplomatice sau oficiile consulare ale Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -2622,7 +2622,7 @@ Cetățenii Republicii Moldova pot depune cererea de înregistrare a divorțului
 
 ---
 
-## Service: Înregistrarea și\sau radierea din evidență la domiciliu sau la reședința temporară
+# Categorie: Service: Înregistrarea și\sau radierea din evidență la domiciliu sau la reședința temporară
 **E-Service Available:** No
 
 **Service Description:**
@@ -2651,7 +2651,7 @@ Un set de servicii sau evenimente de viață legate de asigurarea serviciilor de
 
 ---
 
-## Service: Certificat ce confirmă decesul militarilor în acţiuni de luptă şi la datorie pe timp de pace
+# Categorie: Service: Certificat ce confirmă decesul militarilor în acţiuni de luptă şi la datorie pe timp de pace
 **E-Service Available:** No
 
 **Service Description:**
@@ -2666,7 +2666,7 @@ Obținerea certificatului ce confirmă decesul militarilor în acţiuni de lupt�
 
 ---
 
-## Service: Duplicat al actului notarial din fondul de arhivă notarială de stat
+# Categorie: Service: Duplicat al actului notarial din fondul de arhivă notarială de stat
 **E-Service Available:** No
 
 **Service Description:**
@@ -2683,9 +2683,9 @@ Duplicat al actului notarial din fondul de arhivă notarială de stat La cererea
 
 ---
 
-## Emigrare, imigrare și cetățenie
+# Categorie: Emigrare, imigrare și cetățenie
 
-## Service: <p>Acordarea autorizației pentru utilizarea regimului vamal de admitere temporară</p>
+# Categorie: Service: <p>Acordarea autorizației pentru utilizarea regimului vamal de admitere temporară</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -2712,7 +2712,7 @@ Mărfurile străine destinate reexportului pot face obiectul unei utilizări spe
 
 ---
 
-## Service: Pașaport al stupinei
+# Categorie: Service: Pașaport al stupinei
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -2735,7 +2735,7 @@ Obținerea pașaportului stupinei (prisăci
 
 ---
 
-## Service: <p>Dobândirea cetățeniei Republicii Moldova prin recunoaștere în temeiul prevederilor art. 12, alin. (1<sup>1</sup>) din Legea cetăţeniei Republicii Moldova nr. 1024/2000</p>
+# Categorie: Service: <p>Dobândirea cetățeniei Republicii Moldova prin recunoaștere în temeiul prevederilor art. 12, alin. (1<sup>1</sup>) din Legea cetăţeniei Republicii Moldova nr. 1024/2000</p>
 **E-Service Available:** No
 
 **Service Description:**
@@ -2751,7 +2751,7 @@ Persoanele cu vârsta de peste 18 ani, născute pe teritoriul Republicii Moldova
 
 ---
 
-## Service: Dobândirea cetățeniei Republicii Moldova prin naturalizare
+# Categorie: Service: Dobândirea cetățeniei Republicii Moldova prin naturalizare
 **E-Service Available:** No
 
 **Service Description:**
@@ -2770,7 +2770,7 @@ Cetăţenia Republicii Moldova poate fi acordată la cerere cetăţeanului stră
 
 ---
 
-## Service: Dobândirea cetățeniei Republicii Moldova prin recunoaștere în temeiul prevederilor art. 12, alin. (2) din Legea cetăţeniei Republicii Moldova nr. 1024/2000
+# Categorie: Service: Dobândirea cetățeniei Republicii Moldova prin recunoaștere în temeiul prevederilor art. 12, alin. (2) din Legea cetăţeniei Republicii Moldova nr. 1024/2000
 **E-Service Available:** No
 
 **Service Description:**
@@ -2788,7 +2788,7 @@ Sunt recunoscute ca cetăţeni ai Republicii Moldova persoanele care şi
 
 ---
 
-## Service: Examinarea cererii privind redobândirea cetățeniei Republicii Moldova pentru persoanele stabilite cu domiciliu permanent în străinătate, cu eliberarea adeverinței
+# Categorie: Service: Examinarea cererii privind redobândirea cetățeniei Republicii Moldova pentru persoanele stabilite cu domiciliu permanent în străinătate, cu eliberarea adeverinței
 **E-Service Available:** No
 
 **Service Description:**
@@ -2805,7 +2805,7 @@ Persoanele care au renunțat la cetățenia Republicii Moldova și au domiciliu 
 
 ---
 
-## Service: Redobândirea cetățeniei Republicii Moldova
+# Categorie: Service: Redobândirea cetățeniei Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -2830,7 +2830,7 @@ Persoana care a avut anterior cetăţenia Republicii Moldova o poate redobândi 
 
 ---
 
-## Service: Documentarea cu acte de identitate pentru străini
+# Categorie: Service: Documentarea cu acte de identitate pentru străini
 **E-Service Available:** No
 
 **Service Description:**
@@ -2878,7 +2878,7 @@ Act de identitate
 
 ---
 
-## Service: Extras din Registrul de stat al populaţiei destinat persoanelor juridice de drept public şi privat
+# Categorie: Service: Extras din Registrul de stat al populaţiei destinat persoanelor juridice de drept public şi privat
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -2899,7 +2899,7 @@ Extras din registru – reprezintă reproducerea unei părți din resursele info
 
 ---
 
-## Service: Întocmirea și eliberarea actelor de identitate a marinarului pentru cetățenii Republicii Moldova
+# Categorie: Service: Întocmirea și eliberarea actelor de identitate a marinarului pentru cetățenii Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -2925,7 +2925,7 @@ Un set de servicii sau evenimente de viață legate de procesele de emigrare și
 
 ---
 
-## Service: Documentarea cu acte de identitate pentru străini
+# Categorie: Service: Documentarea cu acte de identitate pentru străini
 **E-Service Available:** No
 
 **Service Description:**
@@ -2973,7 +2973,7 @@ Act de identitate
 
 ---
 
-## Service: Luarea si scoaterea din evidenta a străinilor care intră în Republica Moldova prin Transnistria
+# Categorie: Service: Luarea si scoaterea din evidenta a străinilor care intră în Republica Moldova prin Transnistria
 **E-Service Available:** No
 
 **Service Description:**
@@ -2991,7 +2991,7 @@ Luarea si scoaterea din evidenta a străinilor care intră în RM prin Transnist
 
 ---
 
-## Service: Adeverinţă privind excluderea din evidenţa militară
+# Categorie: Service: Adeverinţă privind excluderea din evidenţa militară
 **E-Service Available:** No
 
 **Service Description:**
@@ -3010,7 +3010,7 @@ Obținerea adeverinţei privind excluderea din evidenţa militară
 
 ---
 
-## Service: Certificat pentru circulația necomercială a animalelor de companie
+# Categorie: Service: Certificat pentru circulația necomercială a animalelor de companie
 **E-Service Available:** No
 
 **Service Description:**
@@ -3030,9 +3030,9 @@ Certificat pentru circulația necomercială a animalelor de companie
 
 ---
 
-## Educație și cercetare
+# Categorie: Educație și cercetare
 
-## Service: Indemnizația viageră sportivilor de performanță.
+# Categorie: Service: Indemnizația viageră sportivilor de performanță.
 **E-Service Available:** No
 
 **Service Description:**
@@ -3052,7 +3052,7 @@ Sportivii cetățeni și rezidenți ai Republicii Moldova care au obținut pentr
 
 ---
 
-## Service: Atribuirea statutului de instituție-gazdă a activității de voluntariat persoanelor juridice de drept public sau privat fără scop lucrativ
+# Categorie: Service: Atribuirea statutului de instituție-gazdă a activității de voluntariat persoanelor juridice de drept public sau privat fără scop lucrativ
 **E-Service Available:** No
 
 **Service Description:**
@@ -3069,7 +3069,7 @@ Persoanele juridice înregistrate în Republica Moldova care desfășoară activ
 
 ---
 
-## Service: Autorizarea radiologică
+# Categorie: Service: Autorizarea radiologică
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -3106,7 +3106,7 @@ Actul permisiv prin care persoanele juridice și fizice sunt autorizate să desf
 
 ---
 
-## Service: Întocmirea documentelor cu privire la sosirea navelor din mare (indiferent de pavilion) și perceperea tarifului naval la chei
+# Categorie: Service: Întocmirea documentelor cu privire la sosirea navelor din mare (indiferent de pavilion) și perceperea tarifului naval la chei
 **E-Service Available:** No
 
 **Service Description:**
@@ -3135,7 +3135,7 @@ Un set de servicii sau evenimente de viață legate de înregistrarea unei insti
 
 ---
 
-## Service: Admiterea la instituțiile de învățământ superior
+# Categorie: Service: Admiterea la instituțiile de învățământ superior
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -3151,7 +3151,7 @@ eAdmitere este un sistem informațional modern și inovativ de admitere în inst
 
 ---
 
-## Service: Autentificarea actelor de studii
+# Categorie: Service: Autentificarea actelor de studii
 **E-Service Available:** No
 
 **Service Description:**
@@ -3169,7 +3169,7 @@ Procedura de autentificare a actelor de studii și a documentelor complementare 
 
 ---
 
-## Service: Coordonarea programelor de formare profesională a adulților furnizate de prestatorii de servicii educaționale în baza rezultatelor evaluării externe realizate de către Agenția Națională de Asigurare a Calității în Educație și Cercetare (ANACEC)
+# Categorie: Service: Coordonarea programelor de formare profesională a adulților furnizate de prestatorii de servicii educaționale în baza rezultatelor evaluării externe realizate de către Agenția Națională de Asigurare a Calității în Educație și Cercetare (ANACEC)
 **E-Service Available:** No
 
 **Service Description:**
@@ -3185,7 +3185,7 @@ Programele de formare profesională continuă pe domenii de activitate se elabor
 
 ---
 
-## Service: Evaluarea externă a calității în vederea autorizării de funcționare provizorie şi acreditării programelor de studii şi a instituțiilor de învățământ profesional tehnic, superior şi de formare continuă.
+# Categorie: Service: Evaluarea externă a calității în vederea autorizării de funcționare provizorie şi acreditării programelor de studii şi a instituțiilor de învățământ profesional tehnic, superior şi de formare continuă.
 **E-Service Available:** No
 
 **Service Description:**
@@ -3205,7 +3205,7 @@ Evaluarea externă a calității în vederea autorizării de funcționare proviz
 
 ---
 
-## Service: Evaluarea personalului științifico-didactic
+# Categorie: Service: Evaluarea personalului științifico-didactic
 **E-Service Available:** No
 
 **Service Description:**
@@ -3232,7 +3232,7 @@ Activitatea de evaluare a personalului științific și științifico
 
 ---
 
-## Service: Actul de confirmare a perimetrului geologic pentru explorarea subsolului
+# Categorie: Service: Actul de confirmare a perimetrului geologic pentru explorarea subsolului
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -3254,7 +3254,7 @@ Act permisiv, care confirmă dreptul de folosință a beneficiarului asupra sect
 
 ---
 
-## Service: Raportarea informației geologice  Fondului de stat de informaţii privind subsolul
+# Categorie: Service: Raportarea informației geologice  Fondului de stat de informaţii privind subsolul
 **E-Service Available:** No
 
 **Service Description:**
@@ -3275,7 +3275,7 @@ Raportarea informației geologice Fondului de stat de informaţii privind subsol
 
 ---
 
-## Service: Înregistrarea de stat a lucrărilor de cercetare geologică a subsolului
+# Categorie: Service: Înregistrarea de stat a lucrărilor de cercetare geologică a subsolului
 **E-Service Available:** No
 
 **Service Description:**
@@ -3300,7 +3300,7 @@ Un set de servicii sau evenimente de viață legate de  înregistrarea propriet�
 
 ---
 
-## Service: Efectuarea cercetării documentare pentru o cerere de brevet publicată
+# Categorie: Service: Efectuarea cercetării documentare pentru o cerere de brevet publicată
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -3347,7 +3347,7 @@ Serviciul este destinat nu numai solicitantului, dar și terților persoane care
 
 ---
 
-## Service: Prelungirea protecției invenției prin brevet de invenție de scurtă durată
+# Categorie: Service: Prelungirea protecției invenției prin brevet de invenție de scurtă durată
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -3384,7 +3384,7 @@ Titularii brevetelor de invenţie de scurtă durată au posibilitatea de aşi pr
 
 ---
 
-## Service: Selectarea şi furnizarea, la cerere, a informaţiilor analitice sau de sinteză pentru obiectele de proprietate intelectuală
+# Categorie: Service: Selectarea şi furnizarea, la cerere, a informaţiilor analitice sau de sinteză pentru obiectele de proprietate intelectuală
 **E-Service Available:** No
 
 **Service Description:**
@@ -3418,7 +3418,7 @@ Selectarea şi furnizarea, la cerere, a informaţiilor analitice sau de sinteză
 
 ---
 
-## Service: Certificat de omologare (înregistrare) a produsului de uz fitosanitar sau a fertilizantului (cu excepţia celor marcaţi cu menţiunea 'Îngrăşămintele CE')
+# Categorie: Service: Certificat de omologare (înregistrare) a produsului de uz fitosanitar sau a fertilizantului (cu excepţia celor marcaţi cu menţiunea 'Îngrăşămintele CE')
 **E-Service Available:** No
 
 **Service Description:**
@@ -3452,7 +3452,7 @@ Eliberarea certificatului de omologare (înregistrar
 
 ---
 
-## Service: Certificat social-juridic tematic
+# Categorie: Service: Certificat social-juridic tematic
 **E-Service Available:** No
 
 **Service Description:**
@@ -3476,9 +3476,9 @@ Obținerea certificatului social
 
 ---
 
-## Sănătate
+# Categorie: Sănătate
 
-## Service: Bilet de tratament balneosanatorial persoanelor asigurate
+# Categorie: Service: Bilet de tratament balneosanatorial persoanelor asigurate
 **E-Service Available:** No
 
 **Service Description:**
@@ -3494,7 +3494,7 @@ Eliberarea, prin intermediul angajatorului, a unui document bănesc care acordă
 
 ---
 
-## Service: Bilet de tratament în instituţiile balneosanatoriale persoanelor care au avut de suferit de pe urma catastrofei de la C.A.E. Cernobîl şi unor categorii de persoane
+# Categorie: Service: Bilet de tratament în instituţiile balneosanatoriale persoanelor care au avut de suferit de pe urma catastrofei de la C.A.E. Cernobîl şi unor categorii de persoane
 **E-Service Available:** No
 
 **Service Description:**
@@ -3513,7 +3513,7 @@ Eliberarea unui document bănesc care acordă dreptul la tratament balneosanator
 
 ---
 
-## Service: Certificat privind beneficierea/nebeneficierea de bilete de tratament balneosanatorial prin intermediul casei teritoriale de asigurări sociale
+# Categorie: Service: Certificat privind beneficierea/nebeneficierea de bilete de tratament balneosanatorial prin intermediul casei teritoriale de asigurări sociale
 **E-Service Available:** No
 
 **Service Description:**
@@ -3527,7 +3527,7 @@ Act oficial eliberat pentru confirmarea beneficierii/nebeneficierii de bilete de
 
 ---
 
-## Service: Compensaţie anuală bănească în mărimea costului mediu al biletului
+# Categorie: Service: Compensaţie anuală bănească în mărimea costului mediu al biletului
 **E-Service Available:** No
 
 **Service Description:**
@@ -3545,7 +3545,7 @@ Acordarea unui drept bănesc în mărimea costului mediu al unui bilet beneficia
 
 ---
 
-## Service: Compensaţie bănească în locul biletelor de tratament sanatorial gratuit persoanelor cu dizabilități de pe urma războiului
+# Categorie: Service: Compensaţie bănească în locul biletelor de tratament sanatorial gratuit persoanelor cu dizabilități de pe urma războiului
 **E-Service Available:** No
 
 **Service Description:**
@@ -3571,7 +3571,7 @@ Acordarea unui drept bănesc în locul biletelor de tratament gratuit invalizilo
 
 ---
 
-## Service: Corectarea plăților administrate de CNAS achitate incorect sau în plus la bugetul asigurărilor sociale de stat
+# Categorie: Service: Corectarea plăților administrate de CNAS achitate incorect sau în plus la bugetul asigurărilor sociale de stat
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -3591,7 +3591,7 @@ Corectarea în baza cererii depuse de către plătitorul de contribuții la buge
 
 ---
 
-## Service: Indemnizaţie pentru incapacitate temporară de muncă
+# Categorie: Service: Indemnizaţie pentru incapacitate temporară de muncă
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -3607,7 +3607,7 @@ Acordarea unui drept bănesc persoanei asigurate și şomerilor care beneficiaz�
 
 ---
 
-## Service: Autorizarea produselor medicamentoase de uz uman
+# Categorie: Service: Autorizarea produselor medicamentoase de uz uman
 **E-Service Available:** No
 
 **Service Description:**
@@ -3624,7 +3624,7 @@ Autorizarea produselor medicamentoase de uz uman
 
 ---
 
-## Service: Autorizarea transportului bunurilor periculoase
+# Categorie: Service: Autorizarea transportului bunurilor periculoase
 **E-Service Available:** No
 
 **Service Description:**
@@ -3645,7 +3645,7 @@ Bunuri periculoase (dangerous goods – DG) : articole sau substanţe care pot r
 
 ---
 
-## Service: Autorizarea, redactarea, coordonarea textelor publicitare
+# Categorie: Service: Autorizarea, redactarea, coordonarea textelor publicitare
 **E-Service Available:** No
 
 **Service Description:**
@@ -3664,7 +3664,7 @@ Serviciul este prestat persoanelor juridice – furnizori de publicitate pentru 
 
 ---
 
-## Service: Autorizație de fabricare a medicamentelor
+# Categorie: Service: Autorizație de fabricare a medicamentelor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -3689,7 +3689,7 @@ Permisiunea pentru fabricația medicamentelor /substanțelor medicamentoase, ți
 
 ---
 
-## Service: Avizarea şi înregistrarea preţurilor de producător la medicamente
+# Categorie: Service: Avizarea şi înregistrarea preţurilor de producător la medicamente
 **E-Service Available:** No
 
 **Service Description:**
@@ -3710,7 +3710,7 @@ Permisiunea pentru fabricația medicamentelor /substanțelor medicamentoase, ți
 
 ---
 
-## Service: Certificarea sanitar-veterinară a produselor de origine animală
+# Categorie: Service: Certificarea sanitar-veterinară a produselor de origine animală
 **E-Service Available:** No
 
 **Service Description:**
@@ -3744,7 +3744,7 @@ Certificarea sanitar veterinară presupune efectuarea controlului veterinar, a i
 
 ---
 
-## Service: Certificat al personalului aeronautic
+# Categorie: Service: Certificat al personalului aeronautic
 **E-Service Available:** No
 
 **Service Description:**
@@ -3763,7 +3763,7 @@ Document individual cu termen de valabilitate, emis de Autoritatea Aeronautică 
 
 ---
 
-## Service: Certificat de bună practică de fabricație a medicamentelor de uz veterinar
+# Categorie: Service: Certificat de bună practică de fabricație a medicamentelor de uz veterinar
 **E-Service Available:** No
 
 **Service Description:**
@@ -3780,7 +3780,7 @@ Certificat de bună practică de fabricație (GMP) – certificat care confirmă
 
 ---
 
-## Service: Certificat de centru de medicină aeronautică
+# Categorie: Service: Certificat de centru de medicină aeronautică
 **E-Service Available:** No
 
 **Service Description:**
@@ -3798,7 +3798,7 @@ Act, emis în condițiile legii de Autoritatea Aeronautică Civilă, care atest�
 
 ---
 
-## Service: Certificat de sănătate pentru produsele alimentare
+# Categorie: Service: Certificat de sănătate pentru produsele alimentare
 **E-Service Available:** No
 
 **Service Description:**
@@ -3818,7 +3818,7 @@ Certificatul de sănătate este un document opțional, care poate fi obținut de
 
 ---
 
-## Service: Certificat de înregistrare a medicamentului de uz veterinar
+# Categorie: Service: Certificat de înregistrare a medicamentului de uz veterinar
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -3841,7 +3841,7 @@ Certificat de înregistrare a medicamentului de uz veterinar – document oficia
 
 ---
 
-## Service: Controlul de stat al calității medicamentelor
+# Categorie: Service: Controlul de stat al calității medicamentelor
 **E-Service Available:** No
 
 **Service Description:**
@@ -3891,7 +3891,7 @@ Controlul de stat al calității medicamentelor se efectuează conform prevederi
 
 ---
 
-## Service: Licenţă pentru colectarea, păstrarea, prelucrarea, comercializarea; exportul resturilor şi deşeurilor de metale feroase şi neferoase, de baterii; acumulatori uzaţi, inclusiv în stare prelucrată
+# Categorie: Service: Licenţă pentru colectarea, păstrarea, prelucrarea, comercializarea; exportul resturilor şi deşeurilor de metale feroase şi neferoase, de baterii; acumulatori uzaţi, inclusiv în stare prelucrată
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -3924,7 +3924,7 @@ Act permisiv emis în condițiile legii de autoritatea competentă, prin care se
 
 ---
 
-## Service: Licenţă pentru producerea, asamblarea, importul, exportul, reexportul, depozitarea, comercializarea articolelor pirotehnice şi/sau prestarea serviciului "Spectacole pirotehnice şi focuri de artificii" cu articole pirotehnice de divertisment de destinaţie profesională
+# Categorie: Service: Licenţă pentru producerea, asamblarea, importul, exportul, reexportul, depozitarea, comercializarea articolelor pirotehnice şi/sau prestarea serviciului "Spectacole pirotehnice şi focuri de artificii" cu articole pirotehnice de divertisment de destinaţie profesională
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -3957,7 +3957,7 @@ Document, emis în condițiile legii de autoritatea competentă, prin care se at
 
 ---
 
-## Service: Licență pentru producerea, asamblarea, importul şi/sau exportul, reexportul, comercializarea armelor şi munițiilor cu destinație civilă şi repararea armelor cu destinație civilă
+# Categorie: Service: Licență pentru producerea, asamblarea, importul şi/sau exportul, reexportul, comercializarea armelor şi munițiilor cu destinație civilă şi repararea armelor cu destinație civilă
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -4033,7 +4033,7 @@ Act permisiv, ce confirmă dreptul titularului de a întreprinde activități cu
 
 ---
 
-## Service: Notificare pentru activitatea de detectiv particular
+# Categorie: Service: Notificare pentru activitatea de detectiv particular
 **E-Service Available:** No
 
 **Service Description:**
@@ -4067,7 +4067,7 @@ Activitate particulară de detectiv este un gen de activitate care constă în a
 
 ---
 
-## Service: Permis de exercitare pentru personalul care activează în domeniul nuclear și radiologic
+# Categorie: Service: Permis de exercitare pentru personalul care activează în domeniul nuclear și radiologic
 **E-Service Available:** No
 
 **Service Description:**
@@ -4083,7 +4083,7 @@ Permis de exercitare pentru personalul care activează în domeniul nuclear și 
 
 ---
 
-## Service: Înregistrarea de stat a  organizaţiilor necomerciale şi a sucursalelor acestora
+# Categorie: Service: Înregistrarea de stat a  organizaţiilor necomerciale şi a sucursalelor acestora
 **E-Service Available:** No
 
 **Service Description:**
@@ -4108,7 +4108,7 @@ Decizia privind înregistrarea de stat a persoanei juridice, emisă în condiți
 
 ---
 
-## Service: Înregistrarea de stat a persoanelor juridice și a sucursalelor acestora
+# Categorie: Service: Înregistrarea de stat a persoanelor juridice și a sucursalelor acestora
 **E-Service Available:** No
 
 **Service Description:**
@@ -4137,7 +4137,7 @@ Decizia privind înregistrarea de stat a persoanei juridice, emisă în condiți
 
 ---
 
-## Service: Înregistrarea de stat a întreprinzătorilor individuali
+# Categorie: Service: Înregistrarea de stat a întreprinzătorilor individuali
 **E-Service Available:** No
 
 **Service Description:**
@@ -4155,7 +4155,7 @@ Pentru înregistrarea de stat a întreprinzătorilor individuali se depun următ
 
 ---
 
-## Service: Înregistrarea depozitului pentru păstrarea produselor de uz fitosanitar şi a fertilizanţilor
+# Categorie: Service: Înregistrarea depozitului pentru păstrarea produselor de uz fitosanitar şi a fertilizanţilor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -4177,7 +4177,7 @@ Depozitele specializate (magazinel
 
 ---
 
-## Service: Compensaţie bănească în locul biletelor de tratament sanatorial gratuit persoanelor cu dizabilități de pe urma războiului
+# Categorie: Service: Compensaţie bănească în locul biletelor de tratament sanatorial gratuit persoanelor cu dizabilități de pe urma războiului
 **E-Service Available:** No
 
 **Service Description:**
@@ -4203,7 +4203,7 @@ Acordarea unui drept bănesc în locul biletelor de tratament gratuit invalizilo
 
 ---
 
-## Service: Determinarea gradului de dizabilitate și cauzei dizabilităţii şi perioadei pentru care a fost determinat gradul de dizabilitate.
+# Categorie: Service: Determinarea gradului de dizabilitate și cauzei dizabilităţii şi perioadei pentru care a fost determinat gradul de dizabilitate.
 **E-Service Available:** No
 
 **Service Description:**
@@ -4222,7 +4222,7 @@ Acordarea unui drept bănesc în locul biletelor de tratament gratuit invalizilo
 
 ---
 
-## Service: Elaborarea recomandărilor generale privind necesităţile de reabilitare și incluziune socială ale persoanei cu dizabilităţi.
+# Categorie: Service: Elaborarea recomandărilor generale privind necesităţile de reabilitare și incluziune socială ale persoanei cu dizabilităţi.
 **E-Service Available:** No
 
 **Service Description:**
@@ -4241,7 +4241,7 @@ Recomandările generale privind necesităţile de reabilitare și incluziune soc
 
 ---
 
-## Service: Emiterea Concluziei privind necesitatea deservirii cu transport, conform prevederilor actelor normative.
+# Categorie: Service: Emiterea Concluziei privind necesitatea deservirii cu transport, conform prevederilor actelor normative.
 **E-Service Available:** No
 
 **Service Description:**
@@ -4260,7 +4260,7 @@ Concluzia este emisă de Consiliul Naţional pentru Determinarea Dizabilităţii
 
 ---
 
-## Service: Stabilirea procentului pierderii capacităţii de muncă ca urmare a accidentului de muncă sau bolii profesionale
+# Categorie: Service: Stabilirea procentului pierderii capacităţii de muncă ca urmare a accidentului de muncă sau bolii profesionale
 **E-Service Available:** No
 
 **Service Description:**
@@ -4285,7 +4285,7 @@ Un set de servicii sau evenimente de viață legate de obținerea permisului de 
 
 ---
 
-## Service: <p>Examinarea conducătorului de vehicule</p>
+# Categorie: Service: <p>Examinarea conducătorului de vehicule</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -4315,7 +4315,7 @@ Examinarea candidaţilor la proba teoretică pentru obţinerea dreptului de a co
 
 ---
 
-## Service: <p>Permis de conducere (documentarea primară, preschimbarea, restabilirea)</p>
+# Categorie: Service: <p>Permis de conducere (documentarea primară, preschimbarea, restabilirea)</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -4335,7 +4335,7 @@ Documentarea primară cu permis de conducere al Republicii Moldova sau obținere
 
 ---
 
-## Service: Inspecția privind verificarea mijloacelor tehnice de aplicare a produselor fitosanitare în scop profesional
+# Categorie: Service: Inspecția privind verificarea mijloacelor tehnice de aplicare a produselor fitosanitare în scop profesional
 **E-Service Available:** No
 
 **Service Description:**
@@ -4348,7 +4348,7 @@ Eliberearea Tichetului și Certificatelor de inspecție privind verificarea mijl
 
 ---
 
-## Service: Adeverință de absolvire a cursului de instruire pentru mânuirea armei
+# Categorie: Service: Adeverință de absolvire a cursului de instruire pentru mânuirea armei
 **E-Service Available:** No
 
 **Service Description:**
@@ -4376,7 +4376,7 @@ Obținerea adeverinței de absolvire a cursului de instruire pentru mânuirea ar
 
 ---
 
-## Service: Înregistrarea contractelor individuale de muncă ale emigranților
+# Categorie: Service: Înregistrarea contractelor individuale de muncă ale emigranților
 **E-Service Available:** No
 
 **Service Description:**
@@ -4401,7 +4401,7 @@ Agenția Națională înregistrează contractele individuale de muncă, indifere
 
 ---
 
-## Service: Act permisiv care oferă posibilitatea persoanelor fizice și juridice să colecteze obiecte ale regnului vegetal (plantele spontane, inclusiv medicinale naturale) și a părților acestora
+# Categorie: Service: Act permisiv care oferă posibilitatea persoanelor fizice și juridice să colecteze obiecte ale regnului vegetal (plantele spontane, inclusiv medicinale naturale) și a părților acestora
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -4420,7 +4420,7 @@ Act permisiv care oferă posibilitatea persoanelor fizice și juridice să colec
 
 ---
 
-## Service: Buletin de identitate provizoriu al cetățeanului Republicii Moldova
+# Categorie: Service: Buletin de identitate provizoriu al cetățeanului Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -4440,7 +4440,7 @@ Buletinul de identitate provizoriu reprezintă actul de identitate care se elibe
 
 ---
 
-## Service: Acordarea/suspendarea statutului de persoană asigurată în sistemul asigurării obligatorii de asistenţă medicală
+# Categorie: Service: Acordarea/suspendarea statutului de persoană asigurată în sistemul asigurării obligatorii de asistenţă medicală
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -4469,7 +4469,7 @@ Buletinul de identitate provizoriu reprezintă actul de identitate care se elibe
 
 ---
 
-## Service: Autorizarea produselor medicamentoase de uz uman
+# Categorie: Service: Autorizarea produselor medicamentoase de uz uman
 **E-Service Available:** No
 
 **Service Description:**
@@ -4486,7 +4486,7 @@ Autorizarea produselor medicamentoase de uz uman
 
 ---
 
-## Service: Autorizarea studiilor clinice cu medicamente de uz uman
+# Categorie: Service: Autorizarea studiilor clinice cu medicamente de uz uman
 **E-Service Available:** No
 
 **Service Description:**
@@ -4512,7 +4512,7 @@ Autorizarea studiilor clinice cu medicamente de uz uman presupune obținerea dec
 
 ---
 
-## Service: Autorizarea: - instituțiilor medico-sanitare pentru desfășurarea activităților de prelevare și transplant de organe, țesuturi și celule umane; - băncilor de țesuturi și/sau celule; - persoanelor juridice care desfășoară activități de prelevare, transport și livrare de țesuturi sau celule umane
+# Categorie: Service: Autorizarea: - instituțiilor medico-sanitare pentru desfășurarea activităților de prelevare și transplant de organe, țesuturi și celule umane; - băncilor de țesuturi și/sau celule; - persoanelor juridice care desfășoară activități de prelevare, transport și livrare de țesuturi sau celule umane
 **E-Service Available:** No
 
 **Service Description:**
@@ -4555,7 +4555,7 @@ Notă: Depunerea solicitării pentru prestarea serviciului dat este posibilă do
 
 ---
 
-## Service: Autorizație de fabricare a medicamentelor
+# Categorie: Service: Autorizație de fabricare a medicamentelor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -4580,7 +4580,7 @@ Permisiunea pentru fabricația medicamentelor /substanțelor medicamentoase, ți
 
 ---
 
-## Service: Autorizație de import al medicamentelor înregistrate, materiei prime medicamentoase, al materialelor, al articolelor, al ambalajului primar şi secundar utilizate la prepararea şi producerea medicamentelor
+# Categorie: Service: Autorizație de import al medicamentelor înregistrate, materiei prime medicamentoase, al materialelor, al articolelor, al ambalajului primar şi secundar utilizate la prepararea şi producerea medicamentelor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -4605,7 +4605,7 @@ Permisiunea pentru efectuarea tranzacțiilor de comerț exterior (impor
 
 ---
 
-## Service: Avizarea şi înregistrarea preţurilor de producător la medicamente
+# Categorie: Service: Avizarea şi înregistrarea preţurilor de producător la medicamente
 **E-Service Available:** No
 
 **Service Description:**
@@ -4626,7 +4626,7 @@ Permisiunea pentru efectuarea tranzacțiilor de comerț exterior (impor
 
 ---
 
-## Service: Bilet de tratament balneosanatorial persoanelor asigurate
+# Categorie: Service: Bilet de tratament balneosanatorial persoanelor asigurate
 **E-Service Available:** No
 
 **Service Description:**
@@ -4642,7 +4642,7 @@ Eliberarea, prin intermediul angajatorului, a unui document bănesc care acordă
 
 ---
 
-## Service: Bilet de tratament în instituţiile balneosanatoriale persoanelor care au avut de suferit de pe urma catastrofei de la C.A.E. Cernobîl şi unor categorii de persoane
+# Categorie: Service: Bilet de tratament în instituţiile balneosanatoriale persoanelor care au avut de suferit de pe urma catastrofei de la C.A.E. Cernobîl şi unor categorii de persoane
 **E-Service Available:** No
 
 **Service Description:**
@@ -4661,7 +4661,7 @@ Eliberarea unui document bănesc care acordă dreptul la tratament balneosanator
 
 ---
 
-## Service: Certificat privind beneficierea/nebeneficierea de bilete de tratament balneosanatorial prin intermediul casei teritoriale de asigurări sociale
+# Categorie: Service: Certificat privind beneficierea/nebeneficierea de bilete de tratament balneosanatorial prin intermediul casei teritoriale de asigurări sociale
 **E-Service Available:** No
 
 **Service Description:**
@@ -4675,7 +4675,7 @@ Act oficial eliberat pentru confirmarea beneficierii/nebeneficierii de bilete de
 
 ---
 
-## Service: Compensaţie anuală bănească în mărimea costului mediu al biletului
+# Categorie: Service: Compensaţie anuală bănească în mărimea costului mediu al biletului
 **E-Service Available:** No
 
 **Service Description:**
@@ -4693,7 +4693,7 @@ Acordarea unui drept bănesc în mărimea costului mediu al unui bilet beneficia
 
 ---
 
-## Service: Controlul Tutunului
+# Categorie: Service: Controlul Tutunului
 **E-Service Available:** No
 
 **Service Description:**
@@ -4707,7 +4707,7 @@ Act administrativ prin care asigură un proces corect şi complet de notificare 
 
 ---
 
-## Service: Controlul de stat al calității medicamentelor
+# Categorie: Service: Controlul de stat al calității medicamentelor
 **E-Service Available:** No
 
 **Service Description:**
@@ -4757,7 +4757,7 @@ Controlul de stat al calității medicamentelor se efectuează conform prevederi
 
 ---
 
-## Service: Eliberare certificat al produsului farmaceutic (CPF) în format OMS
+# Categorie: Service: Eliberare certificat al produsului farmaceutic (CPF) în format OMS
 **E-Service Available:** No
 
 **Service Description:**
@@ -4783,7 +4783,7 @@ Certificatul de produs farmaceutic (CPF) este un document emis de AMDM la solici
 
 ---
 
-## Service: Eliberarea adeverinței ce confirmă statutul persoanei în cadrul sistemului asigurării obligatorii de asistenţă medicală
+# Categorie: Service: Eliberarea adeverinței ce confirmă statutul persoanei în cadrul sistemului asigurării obligatorii de asistenţă medicală
 **E-Service Available:** No
 
 **Service Description:**
@@ -4798,7 +4798,7 @@ Obținerea adeverinței ce confirmă statutul persoanei în cadrul sistemului as
 
 ---
 
-## Service: Evaluarea și acreditarea prestatorilor de servicii medicale
+# Categorie: Service: Evaluarea și acreditarea prestatorilor de servicii medicale
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -4822,7 +4822,7 @@ Procedură prin care organismul național de evaluare și acreditare în sănăt
 
 ---
 
-## Service: Notificarea activităţii de îngrijire alternativă a copiilor
+# Categorie: Service: Notificarea activităţii de îngrijire alternativă a copiilor
 **E-Service Available:** No
 
 **Service Description:**
@@ -4839,7 +4839,7 @@ Solicitantul (sau reprezentantul său lega
 
 ---
 
-## Service: Notificarea produselor cosmetice
+# Categorie: Service: Notificarea produselor cosmetice
 **E-Service Available:** No
 
 **Service Description:**
@@ -4852,7 +4852,7 @@ Act administrativ prin care se asigură un proces corect şi complet de notifica
 
 ---
 
-## Service: Obținerea certificatului privind conformitatea cu buna practică de distribuție pentru medicamentele de uz uman (GDP)
+# Categorie: Service: Obținerea certificatului privind conformitatea cu buna practică de distribuție pentru medicamentele de uz uman (GDP)
 **E-Service Available:** No
 
 **Service Description:**
@@ -4872,7 +4872,7 @@ Act administrativ prin care se asigură un proces corect şi complet de notifica
 
 ---
 
-## Service: Obținerea certificatului privind conformitatea cu buna practică de fabricație a medicamentelor (GMP) de uz uman
+# Categorie: Service: Obținerea certificatului privind conformitatea cu buna practică de fabricație a medicamentelor (GMP) de uz uman
 **E-Service Available:** No
 
 **Service Description:**
@@ -4891,7 +4891,7 @@ Act administrativ prin care se asigură un proces corect şi complet de notifica
 
 ---
 
-## Service: Restituirea primelor de asigurare obligatorie de asistență medicală achitate în plus sau eronat la fondurile asigurării obligatorii de asistență medicală
+# Categorie: Service: Restituirea primelor de asigurare obligatorie de asistență medicală achitate în plus sau eronat la fondurile asigurării obligatorii de asistență medicală
 **E-Service Available:** No
 
 **Service Description:**
@@ -4906,7 +4906,7 @@ Plăţile administrate de CNAM (cu excepţia codurilor ECO 122100, 143322 și 14
 
 ---
 
-## Service: Solicitare de distrugere inofensivă a medicamentelor (inclusiv a medicamentelor veterinare) și a suplimentelor alimentare
+# Categorie: Service: Solicitare de distrugere inofensivă a medicamentelor (inclusiv a medicamentelor veterinare) și a suplimentelor alimentare
 **E-Service Available:** No
 
 **Service Description:**
@@ -4936,7 +4936,7 @@ Distrugerea (nimicire
 
 ---
 
-## Service: Înregistrarea suplimentelor alimentare
+# Categorie: Service: Înregistrarea suplimentelor alimentare
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -4965,7 +4965,7 @@ Act administrativ prin care suplimentele alimentare sau produsele alimentare noi
 
 ---
 
-## Service: Înregistrarea și reânregistrarea dispozitivelor medicale
+# Categorie: Service: Înregistrarea și reânregistrarea dispozitivelor medicale
 **E-Service Available:** No
 
 **Service Description:**
@@ -4991,7 +4991,7 @@ Un set de servicii sau evenimente de viață legate de proprietatea intelectual�
 
 ---
 
-## Service: Obținerea certificatului complementar de protecție asupra produsului medicamentos/fitofarmaceutic
+# Categorie: Service: Obținerea certificatului complementar de protecție asupra produsului medicamentos/fitofarmaceutic
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5050,7 +5050,7 @@ Serviciul este destinat pentru titulrii de brevet a căror obiect sunt substanţ
 
 ---
 
-## Service: Înregistrarea dactiloscopică obligatorie
+# Categorie: Service: Înregistrarea dactiloscopică obligatorie
 **E-Service Available:** No
 
 **Service Description:**
@@ -5096,7 +5096,7 @@ Alte servicii
 
 ---
 
-## Service: Acreditarea organismelor de evaluare a conformității
+# Categorie: Service: Acreditarea organismelor de evaluare a conformității
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5134,9 +5134,9 @@ Acreditarea constituie un mijloc excelent de furnizare a încrederii, care permi
 
 ---
 
-## Muncă și ocuparea forței de muncă
+# Categorie: Muncă și ocuparea forței de muncă
 
-## Service: Acordarea indemnizației de șomaj
+# Categorie: Service: Acordarea indemnizației de șomaj
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5156,7 +5156,7 @@ Stabilirea dreptului la indemnizația de șomaj
 
 ---
 
-## Service: <p>Licență pentru activitate de întreținere a cazinoului</p>
+# Categorie: Service: <p>Licență pentru activitate de întreținere a cazinoului</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5207,7 +5207,7 @@ Act permisiv, ce confirmă dreptul titularului de a întreprinde activități de
 
 ---
 
-## Service: Licenţă pentru activitatea legată de plasarea în câmpul muncii a cetăţenilor în ţară şi/sau în străinătate, activitatea de încadrare/înscriere a studenţilor în programe de schimb educaţional-cultural care prevăd componenta de angajare remunerată în câmpul muncii pentru o perioadă determinată de timp, în perioada vacanţei de vară
+# Categorie: Service: Licenţă pentru activitatea legată de plasarea în câmpul muncii a cetăţenilor în ţară şi/sau în străinătate, activitatea de încadrare/înscriere a studenţilor în programe de schimb educaţional-cultural care prevăd componenta de angajare remunerată în câmpul muncii pentru o perioadă determinată de timp, în perioada vacanţei de vară
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5244,7 +5244,7 @@ Act permisiv, ce confirmă dreptul titularului de a întreprinde activități de
 
 ---
 
-## Service: Servicii de ghidare în carieră pentru persoanele aflate în căutarea unui loc de muncă
+# Categorie: Service: Servicii de ghidare în carieră pentru persoanele aflate în căutarea unui loc de muncă
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5263,7 +5263,7 @@ Susținem persoanele aflate în căutarea unui loc de muncă în identificarea o
 
 ---
 
-## Service: Servicii de informare privind piața muncii pentru persoanele aflate în căutarea unui loc de muncă
+# Categorie: Service: Servicii de informare privind piața muncii pentru persoanele aflate în căutarea unui loc de muncă
 **E-Service Available:** No
 
 **Service Description:**
@@ -5278,9 +5278,9 @@ Oferim informații asupra situației generale a pieței muncii și a principalel
 
 ---
 
-## Persoanele cu dizabilități
+# Categorie: Persoanele cu dizabilități
 
-## Service: Alocație lunară de stat pentru protecția socială suplimentară a unor categorii de populație
+# Categorie: Service: Alocație lunară de stat pentru protecția socială suplimentară a unor categorii de populație
 **E-Service Available:** No
 
 **Service Description:**
@@ -5312,7 +5312,7 @@ Acordarea unui drept bănesc unor categorii de populaţie din rândul beneficiar
 
 ---
 
-## Service: Compensaţie bănească lunară în schimbul asigurării cu produse alimentare şi suplimente alimentare
+# Categorie: Service: Compensaţie bănească lunară în schimbul asigurării cu produse alimentare şi suplimente alimentare
 **E-Service Available:** No
 
 **Service Description:**
@@ -5329,7 +5329,7 @@ Acordarea unui ajutor material lunar în schimbul asigurării cu produse aliment
 
 ---
 
-## Service: Plata pentru concediu suplimentar de 14 zile calendaristice cetățenilor care au suferit de pe urma catastrofei de la Cernobîl
+# Categorie: Service: Plata pentru concediu suplimentar de 14 zile calendaristice cetățenilor care au suferit de pe urma catastrofei de la Cernobîl
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5346,7 +5346,7 @@ Acordarea unui ajutor material pentru concediul suplimentar de 14 zile calendari
 
 ---
 
-## Service: Ajutor material unic pentru însănătoșire cetățenilor care au avut de suferit de pe urma catastrofei de la C. A. E. Cernobîl
+# Categorie: Service: Ajutor material unic pentru însănătoșire cetățenilor care au avut de suferit de pe urma catastrofei de la C. A. E. Cernobîl
 **E-Service Available:** No
 
 **Service Description:**
@@ -5367,7 +5367,7 @@ Acordarea ajutorului material unic pentru însănătoșire cetățenilor care au
 
 ---
 
-## Service: Alocaţie lunară pentru îngrijire, însoţire şi supraveghere persoanelor cu dizabilități severe imobilizate la pat, care au avut de suferit de pe urma catastrofei de la C.A.E. Cernobîl
+# Categorie: Service: Alocaţie lunară pentru îngrijire, însoţire şi supraveghere persoanelor cu dizabilități severe imobilizate la pat, care au avut de suferit de pe urma catastrofei de la C.A.E. Cernobîl
 **E-Service Available:** No
 
 **Service Description:**
@@ -5385,7 +5385,7 @@ Acordarea unui drept bănesc persoanelor cu dizabilități severe imobilizate la
 
 ---
 
-## Service: Ajutor material anual pentru participanţii la Cel de-al Doilea Război Mondial din rândul categoriilor specificate la art.7 alin.(2) pct.1) lit.a)–e) din Legea nr.190/2003 cu privire la veterani, pentru persoanele cu dizabilităţi de pe urma Celui de-al Doilea Război Mondial din rândul categoriilor specificate la art.8 alin.(2) lit.a) din legea indicată, precum şi pentru persoanele care au fost încadrate în grad de dizabilitate în urma rănirii, contuziei, schilodirii, fiind antrenate de autorităţile administraţiei publice locale la strângerea muniţiilor şi a tehnicii militare, la deminarea teritoriului şi a obiectelor în anii Celui de-al Doilea Război Mondial
+# Categorie: Service: Ajutor material anual pentru participanţii la Cel de-al Doilea Război Mondial din rândul categoriilor specificate la art.7 alin.(2) pct.1) lit.a)–e) din Legea nr.190/2003 cu privire la veterani, pentru persoanele cu dizabilităţi de pe urma Celui de-al Doilea Război Mondial din rândul categoriilor specificate la art.8 alin.(2) lit.a) din legea indicată, precum şi pentru persoanele care au fost încadrate în grad de dizabilitate în urma rănirii, contuziei, schilodirii, fiind antrenate de autorităţile administraţiei publice locale la strângerea muniţiilor şi a tehnicii militare, la deminarea teritoriului şi a obiectelor în anii Celui de-al Doilea Război Mondial
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5426,7 +5426,7 @@ De dreptul la ajutor material anual beneficiază: Participanţii la război:
 
 ---
 
-## Service: Ajutor material anual pentru persoanele cu dizabilităţi a căror dizabilitate este cauzată de participarea la lichidarea consecinţelor avariei de la C.A.E. Cernobîl, pentru persoanele care s-au îmbolnăvit şi au suferit de boală actinică sau au devenit cu dizabilităţi în urma experienţelor nucleare, avariilor cu radiaţie ionizată şi a consecinţelor acestora la obiectivele atomice civile sau militare în timpul îndeplinirii serviciului militar ori special şi pentru membrii familiilor participanţilor la lichidarea consecinţelor avariei de la C.A.E. Cernobîl decedaţi (soţi şi unul dintre părinţi)
+# Categorie: Service: Ajutor material anual pentru persoanele cu dizabilităţi a căror dizabilitate este cauzată de participarea la lichidarea consecinţelor avariei de la C.A.E. Cernobîl, pentru persoanele care s-au îmbolnăvit şi au suferit de boală actinică sau au devenit cu dizabilităţi în urma experienţelor nucleare, avariilor cu radiaţie ionizată şi a consecinţelor acestora la obiectivele atomice civile sau militare în timpul îndeplinirii serviciului militar ori special şi pentru membrii familiilor participanţilor la lichidarea consecinţelor avariei de la C.A.E. Cernobîl decedaţi (soţi şi unul dintre părinţi)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5443,9 +5443,9 @@ De dreptul la ajutor material anual beneficiază persoanele cu dizabilităţi a 
 
 ---
 
-## Locuințe și utilități
+# Categorie: Locuințe și utilități
 
-## Service: Licenţă pentru producerea gazelor naturale; transportul gazelor naturale; distribuţia gazelor naturale; stocarea gazelor naturale; tradingul de gaze naturale; vânzarea gazelor naturale comprimate pentru vehicule la stațiile de alimentare
+# Categorie: Service: Licenţă pentru producerea gazelor naturale; transportul gazelor naturale; distribuţia gazelor naturale; stocarea gazelor naturale; tradingul de gaze naturale; vânzarea gazelor naturale comprimate pentru vehicule la stațiile de alimentare
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5478,7 +5478,7 @@ Act permisiv, emis în condițiile legii de autoritatea competentă, prin care s
 
 ---
 
-## Service: Licența pentru activitatea cu metale prețioase și pietre prețioase; funcționarea caselor de amanet
+# Categorie: Service: Licența pentru activitatea cu metale prețioase și pietre prețioase; funcționarea caselor de amanet
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5517,7 +5517,7 @@ Act permisiv, ce confirmă dreptul titularului de a întreprinde activități cu
 
 ---
 
-## Service: Licență pentru importul și comercializarea cu ridicata și/sau cu amănuntul a benzinei, motorinei și/sau a gazului lichefiat la stațiile de alimentare
+# Categorie: Service: Licență pentru importul și comercializarea cu ridicata și/sau cu amănuntul a benzinei, motorinei și/sau a gazului lichefiat la stațiile de alimentare
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5550,7 +5550,7 @@ Act permisiv, emis în condițiile legii de autoritatea competentă, prin care s
 
 ---
 
-## Service: Licență pentru producerea energiei electrice din surse regenerabile; producerea energiei termice din surse regenerabile; producerea biogazului ce urmează a fi livrat în rețelele de gaze naturale; producerea bio-carburantului care urmează a fi procurat de importatorii de produse petroliere principale
+# Categorie: Service: Licență pentru producerea energiei electrice din surse regenerabile; producerea energiei termice din surse regenerabile; producerea biogazului ce urmează a fi livrat în rețelele de gaze naturale; producerea bio-carburantului care urmează a fi procurat de importatorii de produse petroliere principale
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5581,9 +5581,9 @@ Act permisiv, emis în condițiile legii de autoritatea competentă, prin care s
 
 ---
 
-## Transport și infrastructură
+# Categorie: Transport și infrastructură
 
-## Service: <p>Acordarea autorizației de utilizare a sigiliilor speciale</p>
+# Categorie: Service: <p>Acordarea autorizației de utilizare a sigiliilor speciale</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5600,7 +5600,7 @@ Aparatul central al Serviciului Vamal, în baza unei cereri, autorizează o pers
 
 ---
 
-## Service: <p>Autorizaţie pentru executarea zborurilor internaţionale aferente operaţiunilor de transport aerian comercial efectuate prin curse regulate, cu aterizare/decolare pe/de pe teritoriul Republicii Moldova.</p>
+# Categorie: Service: <p>Autorizaţie pentru executarea zborurilor internaţionale aferente operaţiunilor de transport aerian comercial efectuate prin curse regulate, cu aterizare/decolare pe/de pe teritoriul Republicii Moldova.</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5620,7 +5620,7 @@ Autorizația respectivă reprezintă un act permisiv, emis în condițiile legii
 
 ---
 
-## Service: <p>Certificat de operator de aerodrom/heliport (eliberat conform Regulamentului privind procedurile administrative referitoare la aerodromuri, aprobat prin Hotărârea de Guvern nr. 653/2018)</p>
+# Categorie: Service: <p>Certificat de operator de aerodrom/heliport (eliberat conform Regulamentului privind procedurile administrative referitoare la aerodromuri, aprobat prin Hotărârea de Guvern nr. 653/2018)</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5640,7 +5640,7 @@ Act permisiv, emis în condițiile legii de Autoritatea Aeronautică Civilă, ca
 
 ---
 
-## Service: Acordarea Autorizației de Agent Economic Autorizat
+# Categorie: Service: Acordarea Autorizației de Agent Economic Autorizat
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5665,7 +5665,7 @@ Statutul de Agent Economic Autorizat (AEO) se acordă de Serviciul Vamal prin el
 
 ---
 
-## Service: Acordarea statutului de exportator aprobat
+# Categorie: Service: Acordarea statutului de exportator aprobat
 **E-Service Available:** No
 
 **Service Description:**
@@ -5695,7 +5695,7 @@ Statutul de exportator aprobat se aplică în comerțul preferențial cu țăril
 
 ---
 
-## Service: Agrearea vehiculelor rutiere pentru transportarea mărfurilor sub sigiliul vamal
+# Categorie: Service: Agrearea vehiculelor rutiere pentru transportarea mărfurilor sub sigiliul vamal
 **E-Service Available:** No
 
 **Service Description:**
@@ -5715,7 +5715,7 @@ Procedura de agreare a vehiculelor rutiere reprezintă totalitatea acţiunilor �
 
 ---
 
-## Service: Aprobarea programelor/procedurilor de securitate aeronautică
+# Categorie: Service: Aprobarea programelor/procedurilor de securitate aeronautică
 **E-Service Available:** No
 
 **Service Description:**
@@ -5730,7 +5730,7 @@ Serviciul presupune : examinarea și aprobarea de către AAC a programelor de se
 
 ---
 
-## Service: Autorizare generală de furnizare a serviciilor poștale
+# Categorie: Service: Autorizare generală de furnizare a serviciilor poștale
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5758,7 +5758,7 @@ Autorizarea generală reprezintă regimul juridic care stabilește drepturile ș
 
 ---
 
-## Service: Autorizare sanitar-veterinară pentru mijloacele de transport
+# Categorie: Service: Autorizare sanitar-veterinară pentru mijloacele de transport
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5782,7 +5782,7 @@ Autorizarea sanitar veterinară pentru mijloacele de transport este eliberată a
 
 ---
 
-## Service: Autorizarea accesului la transportarea internațională a mărfurilor sub acoperirea carnetelor T.I.R.
+# Categorie: Service: Autorizarea accesului la transportarea internațională a mărfurilor sub acoperirea carnetelor T.I.R.
 **E-Service Available:** No
 
 **Service Description:**
@@ -5806,7 +5806,7 @@ Autorizarea accesului la transportarea internaţională a mărfurilor sub acoper
 
 ---
 
-## Service: Autorizarea radiologică parțială
+# Categorie: Service: Autorizarea radiologică parțială
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5846,7 +5846,7 @@ Document ce permite desfășurarea activităților nucleare și radiologice numa
 
 ---
 
-## Service: Autorizaţie pentru executarea zborurilor internaționale aferente operațiunilor de transport aerian comercial efectuate prin curse neregulate, cu aterizare/decolare pe/de pe teritoriul Republicii Moldova
+# Categorie: Service: Autorizaţie pentru executarea zborurilor internaționale aferente operațiunilor de transport aerian comercial efectuate prin curse neregulate, cu aterizare/decolare pe/de pe teritoriul Republicii Moldova
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5863,7 +5863,7 @@ Autorizația respectivă reprezintă un act permisiv, emis în condițiile legii
 
 ---
 
-## Service: Autorizaţie pentru operaţiuni comerciale specializate
+# Categorie: Service: Autorizaţie pentru operaţiuni comerciale specializate
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5888,7 +5888,7 @@ Document, emis în condițiile legii de Autoritatea Aeronautică Civilă, care a
 
 ---
 
-## Service: Autorizație individuală de export al mărfurilor strategice (cu dublă destinație)
+# Categorie: Service: Autorizație individuală de export al mărfurilor strategice (cu dublă destinație)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5911,7 +5911,7 @@ Permisiune unică de transfer al mărfurilor strategice supuse controlului, care
 
 ---
 
-## Service: Autorizație individuală de reexport al mărfurilor strategice (cu dublă destinație)
+# Categorie: Service: Autorizație individuală de reexport al mărfurilor strategice (cu dublă destinație)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5935,7 +5935,7 @@ Permisiune unică de transfer al mărfurilor strategice, provenite din alte ţă
 
 ---
 
-## Service: Autorizație individuală de tranzit al mărfurilor strategice (cu dublă destinație)
+# Categorie: Service: Autorizație individuală de tranzit al mărfurilor strategice (cu dublă destinație)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -5958,7 +5958,7 @@ Permisiune unică de transportare a mărfurilor strategice prin teritoriul Repub
 
 ---
 
-## Service: Avizarea construcţiei şi reconstrucţiei aerodromurilor/aeroporturilor/heliporturilor şi a obiectelor speciale
+# Categorie: Service: Avizarea construcţiei şi reconstrucţiei aerodromurilor/aeroporturilor/heliporturilor şi a obiectelor speciale
 **E-Service Available:** No
 
 **Service Description:**
@@ -5978,7 +5978,7 @@ Documentele de construcţie sau reconstrucţie a aerodromurilor/aeroporturilor/h
 
 ---
 
-## Service: Calificarea auditorilor energetici
+# Categorie: Service: Calificarea auditorilor energetici
 **E-Service Available:** No
 
 **Service Description:**
@@ -5997,7 +5997,7 @@ Procedura de calificare a auditorilor energetici este reglementată prin Regulam
 
 ---
 
-## Service: Certificat de operator aerian
+# Categorie: Service: Certificat de operator aerian
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6021,7 +6021,7 @@ Act permisiv, emis în condițiile legii de Autoritatea Aeronautică Civilă, ca
 
 ---
 
-## Service: Certificat de operator de aerodrom/heliport (eliberat conform Regulamentului privind cerinţele administrative referitoare la anumite categorii de aerodromuri, aprobat prin Hotărârea de Guvern nr. 737/2020)
+# Categorie: Service: Certificat de operator de aerodrom/heliport (eliberat conform Regulamentului privind cerinţele administrative referitoare la anumite categorii de aerodromuri, aprobat prin Hotărârea de Guvern nr. 737/2020)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6037,7 +6037,7 @@ Act permisiv , emis de AAC în condițiile legii, care atestă dreptul unei pers
 
 ---
 
-## Service: Certificat de origine nepreferențiala a marfurilor
+# Categorie: Service: Certificat de origine nepreferențiala a marfurilor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6056,7 +6056,7 @@ Obținerea certificatului de origine nepreferențiala a marfurilor Certificate d
 
 ---
 
-## Service: Certificat de rasă al mătcii de albine
+# Categorie: Service: Certificat de rasă al mătcii de albine
 **E-Service Available:** No
 
 **Service Description:**
@@ -6076,7 +6076,7 @@ Certificarea materialului genitor apicol (
 
 ---
 
-## Service: Certificat de securitate în domeniul nuclear și radiologic
+# Categorie: Service: Certificat de securitate în domeniul nuclear și radiologic
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6116,7 +6116,7 @@ Permisiunea care atestă corespunderea instalației (utilajulu
 
 ---
 
-## Service: Licenţă pentru producerea, importul, exportul, reexportul, comercializarea, depozitarea materialelor explozive şi/sau efectuarea lucrărilor cu explozibil de uz civil
+# Categorie: Service: Licenţă pentru producerea, importul, exportul, reexportul, comercializarea, depozitarea materialelor explozive şi/sau efectuarea lucrărilor cu explozibil de uz civil
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6149,7 +6149,7 @@ Act permisiv, ce confirmă dreptul titularului de a întreprinde activități de
 
 ---
 
-## Service: Licență pentru producerea energiei electrice; operarea pieței energiei electrice; transportul energiei electrice; conducerea centralizată a sistemului electroenergetic; distribuția energiei electrice; furnizarea energiei electrice
+# Categorie: Service: Licență pentru producerea energiei electrice; operarea pieței energiei electrice; transportul energiei electrice; conducerea centralizată a sistemului electroenergetic; distribuția energiei electrice; furnizarea energiei electrice
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6182,7 +6182,7 @@ Act permisiv, emis în condițiile legii de autoritatea competentă, prin care s
 
 ---
 
-## Service: Certificat despre unitatea de transport în căutare locală
+# Categorie: Service: Certificat despre unitatea de transport în căutare locală
 **E-Service Available:** No
 
 **Service Description:**
@@ -6198,7 +6198,7 @@ Obținerea certificatului despre unitatea de transport în căutare
 
 ---
 
-## Service: Act de coordonare a traseului de transportare a mărfurilor periculoase
+# Categorie: Service: Act de coordonare a traseului de transportare a mărfurilor periculoase
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6218,7 +6218,7 @@ Cererea de solicitare se face cu semnătura electronică în sistemul informaţi
 
 ---
 
-## Service: Autorizarea activităţii de cîntărire a vehiculelor rutiere în vederea eliberării certificatului internaţional de cîntărire a vehiculului rutier
+# Categorie: Service: Autorizarea activităţii de cîntărire a vehiculelor rutiere în vederea eliberării certificatului internaţional de cîntărire a vehiculului rutier
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6236,7 +6236,7 @@ Se definește modul de autorizare pentru desfășurarea activității de cîntă
 
 ---
 
-## Service: Autorizaţie pentru activitatea de inspecţie tehnică periodică a vehiculelor rutiere
+# Categorie: Service: Autorizaţie pentru activitatea de inspecţie tehnică periodică a vehiculelor rutiere
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6254,7 +6254,7 @@ Se definește modul de autorizare pentru desfășurarea activității de inspec�
 
 ---
 
-## Service: Autorizație de transport rutier  în trafic internațional
+# Categorie: Service: Autorizație de transport rutier  în trafic internațional
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6273,7 +6273,7 @@ Autorizația reprezintă permisiunea operatorului de transport rutier să efectu
 
 ---
 
-## Service: Autorizație multilaterală CEMT cu carnet de drum (anuală sau pe termen scurt)
+# Categorie: Service: Autorizație multilaterală CEMT cu carnet de drum (anuală sau pe termen scurt)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6293,7 +6293,7 @@ Obținerea autorizațiilor multilaterale CEMT cu carnet de drum (anuală sau pe 
 
 ---
 
-## Service: Autorizație pentru servicii ocazionale neliberalizate de transport persoane
+# Categorie: Service: Autorizație pentru servicii ocazionale neliberalizate de transport persoane
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6312,7 +6312,7 @@ Autorizaţie care permite efectuarea transporturilor rutiere neliberalizate de p
 
 ---
 
-## Service: Autorizație pentru transportatorii străini care efectuează rute regulate bilaterale sau tranzit pe teritoriul Republicii Moldova
+# Categorie: Service: Autorizație pentru transportatorii străini care efectuează rute regulate bilaterale sau tranzit pe teritoriul Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -6329,7 +6329,7 @@ Eliberarea autorizatiilor pentru operatiunile de transport rutier prin servicii 
 
 ---
 
-## Service: Autorizație specială de transport pentru drumurile publice a transporturilor rutiere cu depășirea masei totale, a maselor pe axe și/sau a dimensiunilor maxime admise
+# Categorie: Service: Autorizație specială de transport pentru drumurile publice a transporturilor rutiere cu depășirea masei totale, a maselor pe axe și/sau a dimensiunilor maxime admise
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6349,7 +6349,7 @@ Autorizație specială de transport (AST) reprezintă actul care permite circula
 
 ---
 
-## Service: Autorizații de transport rutier de persoane prin servicii regulate
+# Categorie: Service: Autorizații de transport rutier de persoane prin servicii regulate
 **E-Service Available:** No
 
 **Service Description:**
@@ -6365,7 +6365,7 @@ Autorizarea reprezintă permisiunea operatorului de transport rutier să efectue
 
 ---
 
-## Service: Carnet de drum suplimentar care însoțește autorizația CEMT
+# Categorie: Service: Carnet de drum suplimentar care însoțește autorizația CEMT
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6382,7 +6382,7 @@ Operatorul de transport rutier poate solicita un carnet de drum suplimentar numa
 
 ---
 
-## Service: Carnetul INTERBUS
+# Categorie: Service: Carnetul INTERBUS
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6401,7 +6401,7 @@ Document în care se înscriu numele persoanelor transportate şi care permite o
 
 ---
 
-## Service: Carnetul foii de parcurs (CFP)
+# Categorie: Service: Carnetul foii de parcurs (CFP)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6418,7 +6418,7 @@ Docum ﻿ ent în care se înscriu numele persoanelor transportate şi care perm
 
 ---
 
-## Service: Cartela tahografică
+# Categorie: Service: Cartela tahografică
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6451,7 +6451,7 @@ Cartelă tahografică
 
 ---
 
-## Service: Certificat CEMT pentru condițiile controlului tehnic al autovehiculelor și remorcilor
+# Categorie: Service: Certificat CEMT pentru condițiile controlului tehnic al autovehiculelor și remorcilor
 **E-Service Available:** No
 
 **Service Description:**
@@ -6466,7 +6466,7 @@ Obținerea certificatului CEMT pentru condițiile controlului tehnic al autovehi
 
 ---
 
-## Service: Certificat de agreare pentru vehiculele care transportă substanţe periculoase (ADR)
+# Categorie: Service: Certificat de agreare pentru vehiculele care transportă substanţe periculoase (ADR)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6486,7 +6486,7 @@ Certificat care atestă că vehiculul îndeplinește condițiile cerute de Acord
 
 ---
 
-## Service: Certificat de competență profesională în domeniul transporturilor rutiere și cel conex transporturilor rutiere
+# Categorie: Service: Certificat de competență profesională în domeniul transporturilor rutiere și cel conex transporturilor rutiere
 **E-Service Available:** No
 
 **Service Description:**
@@ -6508,7 +6508,7 @@ Certificatul de competenţă profesională se eliberează de către Agenţie în
 
 ---
 
-## Service: Certificat de naţionalitate a navei
+# Categorie: Service: Certificat de naţionalitate a navei
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6533,7 +6533,7 @@ Asigură exploatarea transportului naval în condiții de legalitate si siguran�
 
 ---
 
-## Service: Coordonarea itinerarelor pentru instruirea șoferilor
+# Categorie: Service: Coordonarea itinerarelor pentru instruirea șoferilor
 **E-Service Available:** No
 
 **Service Description:**
@@ -6551,7 +6551,7 @@ Coordonarea itinerarelor pentru instruirea șoferilor
 
 ---
 
-## Service: Coordonarea proiectelor şi inspecţia obiectelor de arhitectură mică şi a reclamei amplasate în zona de protecţie a drumurilor
+# Categorie: Service: Coordonarea proiectelor şi inspecţia obiectelor de arhitectură mică şi a reclamei amplasate în zona de protecţie a drumurilor
 **E-Service Available:** No
 
 **Service Description:**
@@ -6570,7 +6570,7 @@ Coordonarea proiectelor şi inspecţia obiectelor de arhitectură mică şi a re
 
 ---
 
-## Service: Coordonarea schemelor de amplasare afişajului electoral pe mijloacele de transport
+# Categorie: Service: Coordonarea schemelor de amplasare afişajului electoral pe mijloacele de transport
 **E-Service Available:** No
 
 **Service Description:**
@@ -6587,7 +6587,7 @@ Serviciul dat presupune eliberarea avizului/coordonării de amplasare a afişaju
 
 ---
 
-## Service: Coordonarea schemelor de distribuire a inscripţiei şi reclamei pe mijloacele de transport
+# Categorie: Service: Coordonarea schemelor de distribuire a inscripţiei şi reclamei pe mijloacele de transport
 **E-Service Available:** No
 
 **Service Description:**
@@ -6613,7 +6613,7 @@ Serviciul prestat constă în coordonarea/avizarea imaginilor publicitare pe/în
 
 ---
 
-## Service: Diapazonul numerelor unicate ale rapoartelor de inspecție tehnică periodică
+# Categorie: Service: Diapazonul numerelor unicate ale rapoartelor de inspecție tehnică periodică
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6629,7 +6629,7 @@ Agenției Naționale Transport Auto i se atribuie funcţiile de autorizare, gest
 
 ---
 
-## Service: Eliberearea certificatului de tractorist-mecanic
+# Categorie: Service: Eliberearea certificatului de tractorist-mecanic
 **E-Service Available:** No
 
 **Service Description:**
@@ -6648,7 +6648,7 @@ Certificatul de tractorist
 
 ---
 
-## Service: Extras din Registrul de stat al conducătorilor de vehicule (adeverință)
+# Categorie: Service: Extras din Registrul de stat al conducătorilor de vehicule (adeverință)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6668,7 +6668,7 @@ Eliberarea extrasului din Registrul de stat al conducătorilor de vehicule (adev
 
 ---
 
-## Service: Extras din Registrul de stat al vehiculelor (inclusiv electronic)
+# Categorie: Service: Extras din Registrul de stat al vehiculelor (inclusiv electronic)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6689,7 +6689,7 @@ Eliberarea extrasului din Registrul de stat al vehiculelor (adeverinţă), privi
 
 ---
 
-## Service: Inspecția tehnică periodică a tractoarelor, mașinilor şi mecanismelor specializate pentru construirea drumurilor, pentru ameliorări, mașinilor agricole şi remorcilor acestora.
+# Categorie: Service: Inspecția tehnică periodică a tractoarelor, mașinilor şi mecanismelor specializate pentru construirea drumurilor, pentru ameliorări, mașinilor agricole şi remorcilor acestora.
 **E-Service Available:** No
 
 **Service Description:**
@@ -6702,7 +6702,7 @@ Inspecția tehnică periodică a tractoarelor, mașinilor şi mecanismelor speci
 
 ---
 
-## Service: Inspecția vehiculelor reutilate, reconstruite, supuse reparației capitale și construite în mod individual, cu formularea concluziei privind corespunderea stării tehnice a acestora cu cerințele securității circulației rutiere
+# Categorie: Service: Inspecția vehiculelor reutilate, reconstruite, supuse reparației capitale și construite în mod individual, cu formularea concluziei privind corespunderea stării tehnice a acestora cu cerințele securității circulației rutiere
 **E-Service Available:** No
 
 **Service Description:**
@@ -6735,7 +6735,7 @@ Eliberarea avizului/coordonării privind permisiunea reutilării vehiculelor, re
 
 ---
 
-## Service: Permis de conducere internațional
+# Categorie: Service: Permis de conducere internațional
 **E-Service Available:** No
 
 **Service Description:**
@@ -6755,7 +6755,7 @@ Titularul permisului de conducere naţional al Republicii Moldova, la solicitare
 
 ---
 
-## Service: Permis pentru conducătorii unor categorii speciale de automobile
+# Categorie: Service: Permis pentru conducătorii unor categorii speciale de automobile
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6770,7 +6770,7 @@ Document, emis în condițiile legii de autoritatea competentă, prin care se at
 
 ---
 
-## Service: Radierea din evidenţă a vehiculelor
+# Categorie: Service: Radierea din evidenţă a vehiculelor
 **E-Service Available:** No
 
 **Service Description:**
@@ -6787,7 +6787,7 @@ Radierea din Registrul de stat al transporturilor se efectuează la cererea prop
 
 ---
 
-## Service: Transcrierea transmiterii dreptului de proprietate asupra vehiculului
+# Categorie: Service: Transcrierea transmiterii dreptului de proprietate asupra vehiculului
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6810,7 +6810,7 @@ Radierea din Registrul de stat al transporturilor se efectuează la cererea prop
 
 ---
 
-## Service: Înmatricularea autovehiculelor și remorcilor
+# Categorie: Service: Înmatricularea autovehiculelor și remorcilor
 **E-Service Available:** No
 
 **Service Description:**
@@ -6828,7 +6828,7 @@ Radierea din Registrul de stat al transporturilor se efectuează la cererea prop
 
 ---
 
-## Service: Înmatricularea tractoarelor, maşinilor autopropulsate, ameliorative de construcţie a drumurilor, a altor maşini şi remorcilor acestora
+# Categorie: Service: Înmatricularea tractoarelor, maşinilor autopropulsate, ameliorative de construcţie a drumurilor, a altor maşini şi remorcilor acestora
 **E-Service Available:** No
 
 **Service Description:**
@@ -6842,7 +6842,7 @@ Serviciul de Înmatricularea tractoarelor, maşinilor autopropulsate, ameliorati
 
 ---
 
-## Service: Înregistrarea activităţii de autogară
+# Categorie: Service: Înregistrarea activităţii de autogară
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6856,7 +6856,7 @@ Se definește modul de înregistrare a activităţii de autogară, precum şi mo
 
 ---
 
-## Service: Înregistrarea activităţii de autoservice
+# Categorie: Service: Înregistrarea activităţii de autoservice
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6873,7 +6873,7 @@ Se definește modul de înregistrare a activităţii de autoservice precum şi m
 
 ---
 
-## Service: Înregistrarea activităţii de montare, reparare şi verificare a tahografelor şi a limitatoarelor de viteză
+# Categorie: Service: Înregistrarea activităţii de montare, reparare şi verificare a tahografelor şi a limitatoarelor de viteză
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6890,7 +6890,7 @@ Se definește modul de notificare şi înregistrare a activităţii de montare, 
 
 ---
 
-## Service: Înregistrarea oficială a operatorilor de transport rutier
+# Categorie: Service: Înregistrarea oficială a operatorilor de transport rutier
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6914,7 +6914,7 @@ Prestarea serviciilor de transport rutier contra cost este condiționată de no
 
 ---
 
-## Service: Înregistrarea în Registrul de Stat al Întreprinderilor ce desfășoară activitate de transport rutier în cont propriu (RSITRCP)
+# Categorie: Service: Înregistrarea în Registrul de Stat al Întreprinderilor ce desfășoară activitate de transport rutier în cont propriu (RSITRCP)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6932,7 +6932,7 @@ Pentru a efectua transport rutier în cont propriu, o întreprindere trebuie să
 
 ---
 
-## Service: Autorizație de mediu privind gestionarea deșeurilor
+# Categorie: Service: Autorizație de mediu privind gestionarea deșeurilor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6952,7 +6952,7 @@ Autorizația de mediu pentru gestionarea deșeurilor este un act permisiv emis d
 
 ---
 
-## Service: Autorizație pentru tăieri ale vegetației forestiere
+# Categorie: Service: Autorizație pentru tăieri ale vegetației forestiere
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -6985,7 +6985,7 @@ Act permisiv care confirmă autorizarea următoarelor tipuri de tăieri:
 
 ---
 
-## Service: Extras din capitolul supliment al Registrului bunurilor imobile
+# Categorie: Service: Extras din capitolul supliment al Registrului bunurilor imobile
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7013,7 +7013,7 @@ Extrasul din capitolul supliment al Registrului bunurilor imobile este eliberat 
 
 ---
 
-## Service: Obținerea protecției asupra topografiilor circuitelor integrate
+# Categorie: Service: Obținerea protecției asupra topografiilor circuitelor integrate
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7086,7 +7086,7 @@ Certificatul de înregistrare a topografiei circuitului integrat acordă titular
 
 ---
 
-## Service: Obținerea protecției prin brevet de invenție
+# Categorie: Service: Obținerea protecției prin brevet de invenție
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7164,7 +7164,7 @@ Brevetul de invenție acordă titularului dreptul exclusiv de exploatare a inven
 
 ---
 
-## Service: Obținerea protecției prin brevet de invenții de scurtă durată
+# Categorie: Service: Obținerea protecției prin brevet de invenții de scurtă durată
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7248,7 +7248,7 @@ Brevetul de invenție acordă titularului dreptul exclusiv de exploatare a inven
 
 ---
 
-## Service: Transformarea Brevetului European acordat în una din formele de protecție prin brevet la nivel național
+# Categorie: Service: Transformarea Brevetului European acordat în una din formele de protecție prin brevet la nivel național
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7310,7 +7310,7 @@ Pentru a proteja obiectul invenţiei invocate într
 
 ---
 
-## Service: Validarea brevetului European în RM
+# Categorie: Service: Validarea brevetului European în RM
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7368,7 +7368,7 @@ Titularii brevetelor Europene au posibilitate de a valida efectele brevetelor eu
 
 ---
 
-## Service: Extras din sistemul informațional integrat al Poliției de Frontieră
+# Categorie: Service: Extras din sistemul informațional integrat al Poliției de Frontieră
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7396,7 +7396,7 @@ Cerere privind eliberarea informațiilor – solicitare, adresată de către per
 
 ---
 
-## Service: Permis de transport al armelor și al munițiilor pentru scoatere temporară din țară pentru persoană juridică
+# Categorie: Service: Permis de transport al armelor și al munițiilor pentru scoatere temporară din țară pentru persoană juridică
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7417,7 +7417,7 @@ Document, emis în condițiile legii de autoritatea competentă, prin care se at
 
 ---
 
-## Service: Permis de transport al armelor și munițiilor pentru persoană juridică
+# Categorie: Service: Permis de transport al armelor și munițiilor pentru persoană juridică
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7438,7 +7438,7 @@ Document, emis în condițiile legii de autoritatea competentă, prin care se at
 
 ---
 
-## Service: Permis de transport al armelor/munițiilor pentru scoaterea temporară din țară pentru persoana fizică
+# Categorie: Service: Permis de transport al armelor/munițiilor pentru scoaterea temporară din țară pentru persoana fizică
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7459,9 +7459,9 @@ Obținerea permisului de transport al armelor/munițiilor pentru scoaterea tempo
 
 ---
 
-## Energie și mediu
+# Categorie: Energie și mediu
 
-## Service: <p class="ql-align-justify">Acordarea autorizației de utilizare a garanției globale</p>
+# Categorie: Service: <p class="ql-align-justify">Acordarea autorizației de utilizare a garanției globale</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7475,7 +7475,7 @@ Conform prevederilor Codului vamal nr.95/2021, operatorii economici urmează să
 
 ---
 
-## Service: <p>Acordarea autorizației de destinatar agreat în sensul TIR</p>
+# Categorie: Service: <p>Acordarea autorizației de destinatar agreat în sensul TIR</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7492,7 +7492,7 @@ Aparatul central al Serviciului Vamal, în baza unei cereri, autorizează o pers
 
 ---
 
-## Service: <p>Acordarea autorizației de destinatar agreat</p>
+# Categorie: Service: <p>Acordarea autorizației de destinatar agreat</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7509,7 +7509,7 @@ Aparatul central al Serviciului Vamal, în baza unei cereri, autorizează o pers
 
 ---
 
-## Service: <p>Acordarea autorizației de expeditor agreat</p>
+# Categorie: Service: <p>Acordarea autorizației de expeditor agreat</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7528,7 +7528,7 @@ Aparatul central al Serviciului Vamal, în baza unei cereri, autorizează o pers
 
 ---
 
-## Service: <p>Certificarea specialiștilor pentru obținerea certificatului topogeodezic și cartografic</p>
+# Categorie: Service: <p>Certificarea specialiștilor pentru obținerea certificatului topogeodezic și cartografic</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7557,7 +7557,7 @@ Confirmă faptul că titularul certificatului deține cunoștințele și compete
 
 ---
 
-## Service: <p>Licență pentru activitatea de protecție a informației: importul, exportul, proiectarea, producerea şi comercializarea mijloacelor tehnice speciale destinate pentru obținerea ascunsă a informației (cu excepția activității desfășurate de autoritățile publice învestite cu acest drept prin lege); și/sau prestarea serviciilor în domeniul protecției criptografice a informației (cu excepția activității de protecție a secretului de stat); și/sau prestarea serviciilor în domeniul protecției tehnice a informației (cu excepția activității de protecție a secretului de stat)</p>
+# Categorie: Service: <p>Licență pentru activitatea de protecție a informației: importul, exportul, proiectarea, producerea şi comercializarea mijloacelor tehnice speciale destinate pentru obținerea ascunsă a informației (cu excepția activității desfășurate de autoritățile publice învestite cu acest drept prin lege); și/sau prestarea serviciilor în domeniul protecției criptografice a informației (cu excepția activității de protecție a secretului de stat); și/sau prestarea serviciilor în domeniul protecției tehnice a informației (cu excepția activității de protecție a secretului de stat)</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7597,7 +7597,7 @@ Act permisiv, ce confirmă dreptul titularului de a întreprinde activități de
 
 ---
 
-## Service: <p>Protecția proprietății intelectuale în cadrul controalelor vamale</p>
+# Categorie: Service: <p>Protecția proprietății intelectuale în cadrul controalelor vamale</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7618,7 +7618,7 @@ Titularii de drepturi pentru obiectele de proprietate intelectuală (protejate j
 
 ---
 
-## Service: Aprobarea programelor de pregătire pentru organizații
+# Categorie: Service: Aprobarea programelor de pregătire pentru organizații
 **E-Service Available:** No
 
 **Service Description:**
@@ -7656,7 +7656,7 @@ Aprobarea programelor de pregătire pentru organizațiile de pregătire aprobate
 
 ---
 
-## Service: Atestat de mediator
+# Categorie: Service: Atestat de mediator
 **E-Service Available:** No
 
 **Service Description:**
@@ -7674,7 +7674,7 @@ Obținerea atestatului de mediator
 
 ---
 
-## Service: Autorizare sanitar-veterinară de funcţionare
+# Categorie: Service: Autorizare sanitar-veterinară de funcţionare
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7701,7 +7701,7 @@ Autorizaţie sanitară veterinară – este document oficial, emis de autoritate
 
 ---
 
-## Service: Autorizarea electricianului autorizat
+# Categorie: Service: Autorizarea electricianului autorizat
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7725,7 +7725,7 @@ Electricianul autorizat este persoană fizică autorizată de organul supraveghe
 
 ---
 
-## Service: Autorizaţia de import/export al substanţelor stupefiante, psihotrope şi al precursorilor
+# Categorie: Service: Autorizaţia de import/export al substanţelor stupefiante, psihotrope şi al precursorilor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7748,7 +7748,7 @@ Permisiunea de a importa și /sau exporta substanţe stupefiante, psihotrope şi
 
 ---
 
-## Service: Autorizaţie pentru exercitarea activității de interpret şi/sau traducător
+# Categorie: Service: Autorizaţie pentru exercitarea activității de interpret şi/sau traducător
 **E-Service Available:** No
 
 **Service Description:**
@@ -7769,7 +7769,7 @@ Obținerea autorizației pentru exercitarea activității de interpret şi/sau t
 
 ---
 
-## Service: Autorizația cu privire la laboratorul electrotehnic
+# Categorie: Service: Autorizația cu privire la laboratorul electrotehnic
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7801,7 +7801,7 @@ Laboratorul electrotehnic este laborator autorizat de organul supravegherii en
 
 ---
 
-## Service: Autorizația pentru activitatea de administrator autorizat
+# Categorie: Service: Autorizația pentru activitatea de administrator autorizat
 **E-Service Available:** No
 
 **Service Description:**
@@ -7821,7 +7821,7 @@ Obținerea autorizației pentru activitatea de administrator autorizat
 
 ---
 
-## Service: Calificarea instalatorilor de cazane, furnale sau sobe pe bază de biomasă, de sisteme fotovoltaice și termice solare, de sisteme geotermale de mică adâncime și de pompe de căldură
+# Categorie: Service: Calificarea instalatorilor de cazane, furnale sau sobe pe bază de biomasă, de sisteme fotovoltaice și termice solare, de sisteme geotermale de mică adâncime și de pompe de căldură
 **E-Service Available:** No
 
 **Service Description:**
@@ -7842,7 +7842,7 @@ Procedura de calificarea și înregistrarea instalatorilor de cazane, furnale sa
 
 ---
 
-## Service: Certificarea fitosanitara pentru export sau reexport
+# Categorie: Service: Certificarea fitosanitara pentru export sau reexport
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7860,7 +7860,7 @@ Certificatul fitosanitar este un document oficial, care certifică faptul că pl
 
 ---
 
-## Service: Certificat al întreprinderii de deservire la sol
+# Categorie: Service: Certificat al întreprinderii de deservire la sol
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7877,7 +7877,7 @@ Act permisiv, emis în condițiile legii de Autoritatea Aeronautică Civilă, ca
 
 ---
 
-## Service: Certificat de autorizare a întreprinderii cu atribuții de întreţinere
+# Categorie: Service: Certificat de autorizare a întreprinderii cu atribuții de întreţinere
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7902,7 +7902,7 @@ Act permisiv, emis în condițiile legii de Autoritatea Aeronautică Civilă, ca
 
 ---
 
-## Service: Certificat de calificare a echipamentelor de pregătire sintetică pentru zbor (FSTD)
+# Categorie: Service: Certificat de calificare a echipamentelor de pregătire sintetică pentru zbor (FSTD)
 **E-Service Available:** No
 
 **Service Description:**
@@ -7918,7 +7918,7 @@ Echipament de pregătire sintetică pentru zbor (Flight Simulation Training Devi
 
 ---
 
-## Service: Certificat de calitate a materialului de înmulțire și a celui săditor importat la necesitate
+# Categorie: Service: Certificat de calitate a materialului de înmulțire și a celui săditor importat la necesitate
 **E-Service Available:** No
 
 **Service Description:**
@@ -7938,7 +7938,7 @@ Certificat de calitate a materialului de înmulțire și a celui săditor import
 
 ---
 
-## Service: Certificat de calitate la exportul materialului de înmulțire și a celui săditor
+# Categorie: Service: Certificat de calitate la exportul materialului de înmulțire și a celui săditor
 **E-Service Available:** No
 
 **Service Description:**
@@ -7956,7 +7956,7 @@ Certificat de calitate a materialului de înmulțire și a celui săditor import
 
 ---
 
-## Service: Certificat de desemnare a persoanelor juridice pentru efectuarea verificărilor metrologice ale mijloacelor de măsurare utilizate în domeniile de interes public sau desemnarea persoanelor juridice pentru efectuarea măsurilor în domeniile de interes public.
+# Categorie: Service: Certificat de desemnare a persoanelor juridice pentru efectuarea verificărilor metrologice ale mijloacelor de măsurare utilizate în domeniile de interes public sau desemnarea persoanelor juridice pentru efectuarea măsurilor în domeniile de interes public.
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -7983,7 +7983,7 @@ Persoanele juridice care efectuează verificări metrologice ale mijloacelor de 
 
 ---
 
-## Service: Certificat de furnizor de servicii ATM/ANS
+# Categorie: Service: Certificat de furnizor de servicii ATM/ANS
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -8000,7 +8000,7 @@ Act permisiv, emis în condițiile legii de Autoritatea Aeronautică Civilă, ca
 
 ---
 
-## Service: Certificat de navigabilitate
+# Categorie: Service: Certificat de navigabilitate
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -8026,7 +8026,7 @@ Act permisiv, emis în condițiile legii de Autoritatea Aeronautică Civilă, ca
 
 ---
 
-## Service: Certificat de zgomot
+# Categorie: Service: Certificat de zgomot
 **E-Service Available:** No
 
 **Service Description:**
@@ -8051,7 +8051,7 @@ Document, emis de Autoritatea Aeronautică Civilă, pentru fiecare aeronavă civ
 
 ---
 
-## Service: Certificat de înmatriculare
+# Categorie: Service: Certificat de înmatriculare
 **E-Service Available:** No
 
 **Service Description:**
@@ -8074,7 +8074,7 @@ Document individual emis de către Autoritatea Aeronautică Civilă pentru fieca
 
 ---
 
-## Service: Certificat de înregistrare a utilajului tehnologic în Registrul de Stat al utilajului tehnologic principal folosit la fabricarea distilatelor de origine agricolă sau la producerea băuturilor alcoolice tari
+# Categorie: Service: Certificat de înregistrare a utilajului tehnologic în Registrul de Stat al utilajului tehnologic principal folosit la fabricarea distilatelor de origine agricolă sau la producerea băuturilor alcoolice tari
 **E-Service Available:** No
 
 **Service Description:**
@@ -8100,7 +8100,7 @@ Se supun înregistrării oficiale utilajul tehnologic principal utilizat la prac
 
 ---
 
-## Service: Certificat de înregistrare în domeniul siguranței alimentelor
+# Categorie: Service: Certificat de înregistrare în domeniul siguranței alimentelor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -8122,7 +8122,7 @@ Certificatul de înregistrare în domeniul siguranței alimentelor este actul pe
 
 ---
 
-## Service: Difuzarea, la solicitare, a buletinelor de avertizare (pentru un obiect nociv)
+# Categorie: Service: Difuzarea, la solicitare, a buletinelor de avertizare (pentru un obiect nociv)
 **E-Service Available:** No
 
 **Service Description:**
@@ -8139,7 +8139,7 @@ Difuzarea buletinelor de avertizare  reprezintă un element al  sistemului integ
 
 ---
 
-## Service: Duplicatul licenței, atestatului, autorizației persoanei autorizate
+# Categorie: Service: Duplicatul licenței, atestatului, autorizației persoanei autorizate
 **E-Service Available:** No
 
 **Service Description:**
@@ -8156,7 +8156,7 @@ Obținerea duplicatului licenței, atestatului, autorizației persoanei autoriza
 
 ---
 
-## Service: Efectuarea verificărilor din domeniul protecția plantelor
+# Categorie: Service: Efectuarea verificărilor din domeniul protecția plantelor
 **E-Service Available:** No
 
 **Service Description:**
@@ -8172,7 +8172,7 @@ Se supun verificărilor operatori care practică activitatea aferentă în domen
 
 ---
 
-## Service: Eliberarea autorizațiilor pentru desfășurarea activității în Portul Internațional Liber Giurgiulești
+# Categorie: Service: Eliberarea autorizațiilor pentru desfășurarea activității în Portul Internațional Liber Giurgiulești
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -8193,7 +8193,7 @@ Rezidentul Portului Internațional, activează pe teritoriul Portului în temeiu
 
 ---
 
-## Service: Eliberarea certificatelor de origine preferențială
+# Categorie: Service: Eliberarea certificatelor de origine preferențială
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -8208,7 +8208,7 @@ Originea mărfurilor se confirmă prin dovada originii sub formă de: certificat
 
 ---
 
-## Service: Evaluarea corespunderii cerințelor în domeniul apărării împotriva incendiilor la obiective, construcții, sisteme și instalații
+# Categorie: Service: Evaluarea corespunderii cerințelor în domeniul apărării împotriva incendiilor la obiective, construcții, sisteme și instalații
 **E-Service Available:** No
 
 **Service Description:**
@@ -8232,7 +8232,7 @@ Sistemul de apărare împotriva incendiilor reprezintă ansamblul de activităţ
 
 ---
 
-## Service: Expertiza stării fitosanitare a loturilor de producere
+# Categorie: Service: Expertiza stării fitosanitare a loturilor de producere
 **E-Service Available:** No
 
 **Service Description:**
@@ -8248,7 +8248,7 @@ Se supun verificărilor operatori care practică activitatea aferentă în domen
 
 ---
 
-## Service: Extras din Registrul de stat al persoanelor juridice și al întreprinzătorilor individuali
+# Categorie: Service: Extras din Registrul de stat al persoanelor juridice și al întreprinzătorilor individuali
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -8271,7 +8271,7 @@ Extras din Registrul de stat conține date privind denumirea  persoanei juridi
 
 ---
 
-## Service: Extras din registrele de stat ce conțin date despre profesiile juridice coordonate sau supravegheate de minister
+# Categorie: Service: Extras din registrele de stat ce conțin date despre profesiile juridice coordonate sau supravegheate de minister
 **E-Service Available:** No
 
 **Service Description:**
@@ -8287,7 +8287,7 @@ Obținerea extrasului din registrele de stat ce conțin date despre profesiile j
 
 ---
 
-## Service: Legitimație de expert judiciar, interpret şi/sau traducător
+# Categorie: Service: Legitimație de expert judiciar, interpret şi/sau traducător
 **E-Service Available:** No
 
 **Service Description:**
@@ -8304,7 +8304,7 @@ Obținerea legitimației de expert judiciar, interpret şi/sau traducător
 
 ---
 
-## Service: Licenţă pentru desfășurarea activității de notar
+# Categorie: Service: Licenţă pentru desfășurarea activității de notar
 **E-Service Available:** No
 
 **Service Description:**
@@ -8325,7 +8325,7 @@ Obținerea licenței pentru desfășurarea activității de notar
 
 ---
 
-## Service: Licenţă pentru exercitarea activității de executor judecătoresc
+# Categorie: Service: Licenţă pentru exercitarea activității de executor judecătoresc
 **E-Service Available:** No
 
 **Service Description:**
@@ -8343,7 +8343,7 @@ Obținerea licenței pentru exercitarea activității de executor judecătoresc
 
 ---
 
-## Service: Licenţă pentru exercitarea profesiei de avocat
+# Categorie: Service: Licenţă pentru exercitarea profesiei de avocat
 **E-Service Available:** No
 
 **Service Description:**
@@ -8362,7 +8362,7 @@ Obținerea licenței pentru exercitarea activității de avocat
 
 ---
 
-## Service: Licență pentru activitatea de producere, distribuție și furnizare a energiei termice
+# Categorie: Service: Licență pentru activitatea de producere, distribuție și furnizare a energiei termice
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -8399,7 +8399,7 @@ Act permisiv, emis în condițiile legii de autoritatea competentă, prin care s
 
 ---
 
-## Service: Licență pentru fabricarea alcoolului etilic, a berii și a producției alcoolice, cu excepția vinului, produselor obținute pe bază de must și a produselor vitivinicole aromatizate în sensul Legii viei și vinului nr. 57/2006, și/sau păstrarea, comercializarea angro a alcoolului etilic, a berii și a producției alcoolice, cu excepția vinului, produselor obținute pe bază de must și a produselor vitivinicole aromatizate în sensul Legii viei și vinului nr. 57/2006, produse de producătorii autohtoni
+# Categorie: Service: Licență pentru fabricarea alcoolului etilic, a berii și a producției alcoolice, cu excepția vinului, produselor obținute pe bază de must și a produselor vitivinicole aromatizate în sensul Legii viei și vinului nr. 57/2006, și/sau păstrarea, comercializarea angro a alcoolului etilic, a berii și a producției alcoolice, cu excepția vinului, produselor obținute pe bază de must și a produselor vitivinicole aromatizate în sensul Legii viei și vinului nr. 57/2006, produse de producătorii autohtoni
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -8438,7 +8438,7 @@ Document, emis în condițiile legii de autoritatea competentă, prin care se at
 
 ---
 
-## Service: Perfecționarea profesională a unui utilizator profesionist de produse de uz fitosanitar din categoriile de pericol 1 și 2 de toxicitate acută orală/dermală
+# Categorie: Service: Perfecționarea profesională a unui utilizator profesionist de produse de uz fitosanitar din categoriile de pericol 1 și 2 de toxicitate acută orală/dermală
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -8458,7 +8458,7 @@ Document, emis în condițiile legii de autoritatea competentă, prin care se at
 
 ---
 
-## Service: Permis de zbor
+# Categorie: Service: Permis de zbor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -8485,7 +8485,7 @@ Act permisiv, emis de Autoritatea Aeronautică Civilă, pentru aeronave care nu 
 
 ---
 
-## Service: Radierea din Registrul de stat al persoanelor juridice şi al întreprinzătorilor individuali
+# Categorie: Service: Radierea din Registrul de stat al persoanelor juridice şi al întreprinzătorilor individuali
 **E-Service Available:** No
 
 **Service Description:**
@@ -8505,7 +8505,7 @@ Decizia, lichidării persoanei juridice sau întrepinzătorului individual. Ceri
 
 ---
 
-## Service: Verificarea și rezervarea denumirii persoanei juridice
+# Categorie: Service: Verificarea și rezervarea denumirii persoanei juridice
 **E-Service Available:** No
 
 **Service Description:**
@@ -8525,7 +8525,7 @@ Confirmare de constatare că denumirea persoanei juridice corespunde prevederilo
 
 ---
 
-## Service: Înregistrarea operatorului din domeniul fitosanitar
+# Categorie: Service: Înregistrarea operatorului din domeniul fitosanitar
 **E-Service Available:** No
 
 **Service Description:**
@@ -8552,7 +8552,7 @@ Confirmare de constatare că denumirea persoanei juridice corespunde prevederilo
 
 ---
 
-## Service: Înregistrarea în calitate de rezident al Portului Internaţional Liber Giurgiuleşti
+# Categorie: Service: Înregistrarea în calitate de rezident al Portului Internaţional Liber Giurgiuleşti
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -8579,7 +8579,7 @@ Rezident al Portului Internațional, poate fi orice persoană fizică sau juridi
 
 ---
 
-## Service: Aplicarea apostilei pe actele oficiale eliberate pe numele şi în interesul persoanelor fizice şijuridice
+# Categorie: Service: Aplicarea apostilei pe actele oficiale eliberate pe numele şi în interesul persoanelor fizice şijuridice
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -8604,7 +8604,7 @@ Apostilarea este o formă de legalizare a actelor care este necesară cetățeni
 
 ---
 
-## Service: Efectuarea înscrisurilor pe acte
+# Categorie: Service: Efectuarea înscrisurilor pe acte
 **E-Service Available:** No
 
 **Service Description:**
@@ -8620,7 +8620,7 @@ Efectuarea înscrisurilor pe acte
 
 ---
 
-## Service: Eliberarea informaţiei sau documentelor cerute de birourile notariale în favoarea clientului
+# Categorie: Service: Eliberarea informaţiei sau documentelor cerute de birourile notariale în favoarea clientului
 **E-Service Available:** No
 
 **Service Description:**
@@ -8637,7 +8637,7 @@ Eliberarea informaţiei sau documentelor cerute de birourile notariale în favoa
 
 ---
 
-## Service: Imprimarea şi eliberarea textului actului juridic din Registrul de stat al actelor juridice al Republicii Moldova
+# Categorie: Service: Imprimarea şi eliberarea textului actului juridic din Registrul de stat al actelor juridice al Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -8656,7 +8656,7 @@ Imprimarea şi eliberarea textului actului juridic din Registrul de stat al acte
 
 ---
 
-## Service: Supralegalizarea consulară a unui document eliberat de autoritățile Republicii Moldova și destinat utilizării în străinătate, pentru persoane fizice/persoane juridice
+# Categorie: Service: Supralegalizarea consulară a unui document eliberat de autoritățile Republicii Moldova și destinat utilizării în străinătate, pentru persoane fizice/persoane juridice
 **E-Service Available:** No
 
 **Service Description:**
@@ -8677,7 +8677,7 @@ Un set de servicii sau evenimente de viață legate de beneficiile de care pot b
 
 ---
 
-## Service: <p>Înregistrarea temporară/permanentă în Registrul de stat al navelor al Republicii Moldova a navelor de navigație internă, exploatate pe căile de navigație internă ale Republicii Moldova </p>
+# Categorie: Service: <p>Înregistrarea temporară/permanentă în Registrul de stat al navelor al Republicii Moldova a navelor de navigație internă, exploatate pe căile de navigație internă ale Republicii Moldova </p>
 **E-Service Available:** No
 
 **Service Description:**
@@ -8695,7 +8695,7 @@ Atribuirea naționalității navei și extinderii asupra ei a jurisdicției stat
 
 ---
 
-## Service: Act privind înregistrarea garanției maritime
+# Categorie: Service: Act privind înregistrarea garanției maritime
 **E-Service Available:** No
 
 **Service Description:**
@@ -8714,7 +8714,7 @@ Act care certifică garantarea răspunderii proprietarului navei pentru eventual
 
 ---
 
-## Service: Act privind înregistrarea/transferul/achitarea gajului navei
+# Categorie: Service: Act privind înregistrarea/transferul/achitarea gajului navei
 **E-Service Available:** No
 
 **Service Description:**
@@ -8731,7 +8731,7 @@ Emiterea certificatului care confirmă înregistrarea/ transferul/ achitarea ga
 
 ---
 
-## Service: Brevetarea efectivului de comandă/certificarea personalului navigant
+# Categorie: Service: Brevetarea efectivului de comandă/certificarea personalului navigant
 **E-Service Available:** No
 
 **Service Description:**
@@ -8750,7 +8750,7 @@ Evaluarea cunoștințelor teoretice și competențelor practice ale solicitantul
 
 ---
 
-## Service: Certificat de bună stare de navigabilitate a navei
+# Categorie: Service: Certificat de bună stare de navigabilitate a navei
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -8784,7 +8784,7 @@ Certificatul de bună stare de navigabilitate constituie documentul Agenției Na
 
 ---
 
-## Service: Certificat de clasă
+# Categorie: Service: Certificat de clasă
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -8809,7 +8809,7 @@ Certificatul de clasă este un document prin care se confirmă, că elementele n
 
 ---
 
-## Service: Certificat de scutire pentru navele convenționale
+# Categorie: Service: Certificat de scutire pentru navele convenționale
 **E-Service Available:** No
 
 **Service Description:**
@@ -8827,7 +8827,7 @@ Act ce confirmă o scutire de la respectarea unei cerințe speciale formulate î
 
 ---
 
-## Service: Certificat privind existența/lipsa impedimentelor
+# Categorie: Service: Certificat privind existența/lipsa impedimentelor
 **E-Service Available:** No
 
 **Service Description:**
@@ -8845,7 +8845,7 @@ Eliberarea documentului care confirmă/ infirmă lipsa creanței de gaj asupra n
 
 ---
 
-## Service: Confirmarea anuală a înregistrării  navelor în Registrul de stat al navelor al Republicii Moldova
+# Categorie: Service: Confirmarea anuală a înregistrării  navelor în Registrul de stat al navelor al Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -8862,7 +8862,7 @@ Eliberarea certificatelor de pavilion care confirmă înregistrarea navei în Re
 
 ---
 
-## Service: Confirmarea autenticității eliberării brevetelor marinarilor străini,  angajați pe navele care navighează sub pavilionul Republicii Moldova
+# Categorie: Service: Confirmarea autenticității eliberării brevetelor marinarilor străini,  angajați pe navele care navighează sub pavilionul Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -8880,7 +8880,7 @@ Verificarea în Registrele internaționale și confirmarea autenticității brev
 
 ---
 
-## Service: Eliberarea certificatelor, extraselor, demersurilor etc.
+# Categorie: Service: Eliberarea certificatelor, extraselor, demersurilor etc.
 **E-Service Available:** No
 
 **Service Description:**
@@ -8898,7 +8898,7 @@ Examinarea informației din registrele deținute și eliberarea documentelor de 
 
 ---
 
-## Service: Expertiza  podurilor plutitoare
+# Categorie: Service: Expertiza  podurilor plutitoare
 **E-Service Available:** No
 
 **Service Description:**
@@ -8918,7 +8918,7 @@ Examinarea la bord a stării tehnice a podului plutitor și emiterea certificatu
 
 ---
 
-## Service: Expertiza la confecționarea materialelor, articolelor și reparația capitală a motoarelor diesel și a echipamentelor de la bordul navelor de navigație interioară
+# Categorie: Service: Expertiza la confecționarea materialelor, articolelor și reparația capitală a motoarelor diesel și a echipamentelor de la bordul navelor de navigație interioară
 **E-Service Available:** No
 
 **Service Description:**
@@ -8941,7 +8941,7 @@ Expertizarea și avizarea documentației tehnice pentru confecționarea material
 
 ---
 
-## Service: Pilotarea navei pe căile navigabile interne și în acvatoriul Complexului portuar Giurgiulești
+# Categorie: Service: Pilotarea navei pe căile navigabile interne și în acvatoriul Complexului portuar Giurgiulești
 **E-Service Available:** No
 
 **Service Description:**
@@ -8961,7 +8961,7 @@ Conducerea navelor ce fac escală în portul maritim de către pilot pe căile 
 
 ---
 
-## Service: Radierea ambarcațiunii din Catalogul naval al Republicii Moldova
+# Categorie: Service: Radierea ambarcațiunii din Catalogul naval al Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -8979,7 +8979,7 @@ Retragerea dreptului de a naviga sub pavilionul Republicii Moldova și introduce
 
 ---
 
-## Service: Schimbarea numelui navei și eliberarea actului respectiv
+# Categorie: Service: Schimbarea numelui navei și eliberarea actului respectiv
 **E-Service Available:** No
 
 **Service Description:**
@@ -8997,7 +8997,7 @@ Operarea modificărilor în Registrul de Stat al Navelor al Republicii Moldova �
 
 ---
 
-## Service: Înregistrarea ambarcațiunilor în Catalogul naval al Republicii Moldova
+# Categorie: Service: Înregistrarea ambarcațiunilor în Catalogul naval al Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -9021,7 +9021,7 @@ Atribuirea naționalității navei de tonaj mic  prin introducerea datelor des
 
 ---
 
-## Service: Înregistrarea mașinilor și utilajelor agricole agregatate la tractor
+# Categorie: Service: Înregistrarea mașinilor și utilajelor agricole agregatate la tractor
 **E-Service Available:** No
 
 **Service Description:**
@@ -9035,7 +9035,7 @@ Serviciul de înregistrare a mașinilor și utilajelor agricole agregatate la t
 
 ---
 
-## Service: Înregistrarea temporară/permanentă în Registrul de stat al navelor al Republicii Moldova a navelor maritime, de tip râu-mare și a navelor de navigație internă (convenționale/nonconvenționale), exploatate pe căile internaționale de navigație
+# Categorie: Service: Înregistrarea temporară/permanentă în Registrul de stat al navelor al Republicii Moldova a navelor maritime, de tip râu-mare și a navelor de navigație internă (convenționale/nonconvenționale), exploatate pe căile internaționale de navigație
 **E-Service Available:** No
 
 **Service Description:**
@@ -9055,7 +9055,7 @@ Atribuirea naționalității navei și extinderii asupra ei a jurisdicției stat
 
 ---
 
-## Service: <p>Furnizarea materialelor topogeodezice şi cartografice din Fondul Naţional de Date Geospaţiale.</p>
+# Categorie: Service: <p>Furnizarea materialelor topogeodezice şi cartografice din Fondul Naţional de Date Geospaţiale.</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9078,7 +9078,7 @@ Materiale din Fondul National de Date Geospaţiale pot fi tilizate în scopuri p
 
 ---
 
-## Service: <p>Program de Vouchere pentru Electrocasnice</p>
+# Categorie: Service: <p>Program de Vouchere pentru Electrocasnice</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9098,7 +9098,7 @@ Programul de Vouchere pentru Electrocasnice este un program național ambițios,
 
 ---
 
-## Service: Acord de mediu (în cadrul procedurii de evaluare a impactului asupra mediului)
+# Categorie: Service: Acord de mediu (în cadrul procedurii de evaluare a impactului asupra mediului)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9122,7 +9122,7 @@ Act permisiv care stabilește condițiile și măsurile pentru prevenirea și re
 
 ---
 
-## Service: Acord pentru exportul animalelor sălbatice
+# Categorie: Service: Acord pentru exportul animalelor sălbatice
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9145,7 +9145,7 @@ Act ce acordă deținătorului permisiunea pentru a exporta obiecte ale regnului
 
 ---
 
-## Service: Acord pentru exportul de plante
+# Categorie: Service: Acord pentru exportul de plante
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9168,7 +9168,7 @@ Act ce acordă deținătorului permisiunea pentru a exporta obiecte ale regnului
 
 ---
 
-## Service: Acord pentru folosința obiectelor regnului vegetal proprietate publică în scopuri științifice, cu sau fără extragerea obiectelor regnului vegetal și a părților acestora din mediul lor de creștere
+# Categorie: Service: Acord pentru folosința obiectelor regnului vegetal proprietate publică în scopuri științifice, cu sau fără extragerea obiectelor regnului vegetal și a părților acestora din mediul lor de creștere
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9185,7 +9185,7 @@ Acord pentru folosința obiectelor regnului vegetal proprietate publică în sco
 
 ---
 
-## Service: Acord pentru folosința obiectelor regnului vegetal în scopuri culturale, educaționale, turistice, de ameliorare a sănătății, recreative, estetice și sportive
+# Categorie: Service: Acord pentru folosința obiectelor regnului vegetal în scopuri culturale, educaționale, turistice, de ameliorare a sănătății, recreative, estetice și sportive
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9202,7 +9202,7 @@ Acord pentru folosința obiectelor regnului vegetal în scopuri culturale, educa
 
 ---
 
-## Service: Acord pentru importul animalelor și/sau plantelor sălbatice
+# Categorie: Service: Acord pentru importul animalelor și/sau plantelor sălbatice
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9222,7 +9222,7 @@ Act ce acordă deținătorului permisiunea pentru a efectua activități de impo
 
 ---
 
-## Service: Acord pentru strămutarea, aclimatizarea și încrucișarea animalelor
+# Categorie: Service: Acord pentru strămutarea, aclimatizarea și încrucișarea animalelor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9239,7 +9239,7 @@ Acord pentru strămutarea, aclimatizarea și încrucișarea animalelor
 
 ---
 
-## Service: Act de confirmare a perimetrului minier
+# Categorie: Service: Act de confirmare a perimetrului minier
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9267,7 +9267,7 @@ Acord pentru strămutarea, aclimatizarea și încrucișarea animalelor
 
 ---
 
-## Service: Autorizația de emisie a poluanților în atmosferă de la surse fixe
+# Categorie: Service: Autorizația de emisie a poluanților în atmosferă de la surse fixe
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9285,7 +9285,7 @@ Act permisiv eliberat de Agenția de Mediu persoanelor fizice și juridice, care
 
 ---
 
-## Service: Autorizația pentru importul, exportul sau reexportul substanțelor care distrug stratul de ozon, al produselor și al echipamentului care conțin asemenea substanțe
+# Categorie: Service: Autorizația pentru importul, exportul sau reexportul substanțelor care distrug stratul de ozon, al produselor și al echipamentului care conțin asemenea substanțe
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9306,7 +9306,7 @@ Autorizația pentru importul, exportul sau reexportul substanțelor care distrug
 
 ---
 
-## Service: Autorizație de folosință specială a apei
+# Categorie: Service: Autorizație de folosință specială a apei
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9336,7 +9336,7 @@ Este documentul care atestă dreptul de folosință a apelor pentru următoarele
 
 ---
 
-## Service: Autorizație de pescuit de control
+# Categorie: Service: Autorizație de pescuit de control
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9353,7 +9353,7 @@ Autorizație de pescuit de control
 
 ---
 
-## Service: Autorizație pentru cazurile excepționale de vânătoare în scopuri științifice, cultural-educative și estetice în termenele și locurile interzise pentru vânătoare sau a animalelor a căror dobândire este limitată, precum și întreținerea acestora în captivitate pentru scopurile menționate
+# Categorie: Service: Autorizație pentru cazurile excepționale de vânătoare în scopuri științifice, cultural-educative și estetice în termenele și locurile interzise pentru vânătoare sau a animalelor a căror dobândire este limitată, precum și întreținerea acestora în captivitate pentru scopurile menționate
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9370,7 +9370,7 @@ Autorizație de pescuit de control
 
 ---
 
-## Service: Autorizație pentru dobândirea animalelor care nu constituie obiecte ale vânatului și pescuitului (melci, broaște, șopârle, șerpi)
+# Categorie: Service: Autorizație pentru dobândirea animalelor care nu constituie obiecte ale vânatului și pescuitului (melci, broaște, șopârle, șerpi)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9392,7 +9392,7 @@ Act permisiv care oferă posibilitatea persoanelor fizice și juridice de a dob�
 
 ---
 
-## Service: Autorizație pentru folosința specială a animalelor sau a plantelor incluse în Cartea Roșie a Republicii Moldova în scopuri științifice, de selecție, inclusiv de reproducere, răspândire, cultivare/creștere, aclimatizare a fiecărui reprezentant în parte, în scopuri culturale (circ, expoziții zoologice, acvarii etc.), precum și în caz de epizootii
+# Categorie: Service: Autorizație pentru folosința specială a animalelor sau a plantelor incluse în Cartea Roșie a Republicii Moldova în scopuri științifice, de selecție, inclusiv de reproducere, răspândire, cultivare/creștere, aclimatizare a fiecărui reprezentant în parte, în scopuri culturale (circ, expoziții zoologice, acvarii etc.), precum și în caz de epizootii
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9407,7 +9407,7 @@ Autorizație pentru folosința specială a animalelor sau a plantelor incluse î
 
 ---
 
-## Service: Autorizație pentru pescuitul reproducătorilor
+# Categorie: Service: Autorizație pentru pescuitul reproducătorilor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9424,7 +9424,7 @@ Autorizație pentru pescuitul reproducătorilor
 
 ---
 
-## Service: Autorizație pentru pescuitul în scopuri științifice
+# Categorie: Service: Autorizație pentru pescuitul în scopuri științifice
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9441,7 +9441,7 @@ Autorizație pentru pescuitul în scopuri științifice
 
 ---
 
-## Service: Aviz de coordonare a Programului de realizare a evaluării impactului asupra mediului al activității planificate
+# Categorie: Service: Aviz de coordonare a Programului de realizare a evaluării impactului asupra mediului al activității planificate
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9458,7 +9458,7 @@ Aviz de coordonare a Programului de realizare a evaluării impactului asupra med
 
 ---
 
-## Service: Aviz de evaluare plealabilă
+# Categorie: Service: Aviz de evaluare plealabilă
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9474,7 +9474,7 @@ Aviz de coordonare a Programului de realizare a evaluării impactului asupra med
 
 ---
 
-## Service: Aviz de mediu la coordonarea actului de selectare a terenului la schimbarea destinației terenului
+# Categorie: Service: Aviz de mediu la coordonarea actului de selectare a terenului la schimbarea destinației terenului
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9490,7 +9490,7 @@ Aviz de mediu la coordonarea actului de selectare a terenului la schimbarea dest
 
 ---
 
-## Service: Aviz de mediu la eliberarea autorizației de schimbare a destinației construcțiilor și amenajărilor
+# Categorie: Service: Aviz de mediu la eliberarea autorizației de schimbare a destinației construcțiilor și amenajărilor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9506,7 +9506,7 @@ Aviz de mediu la eliberarea autorizației de schimbare a destinației construcț
 
 ---
 
-## Service: Aviz de mediu pentru coordonarea schemei de amplasare a imobilului, terenului și a rețelelor edilitare la elaborarea certificatului de urbanism pentru proiectare
+# Categorie: Service: Aviz de mediu pentru coordonarea schemei de amplasare a imobilului, terenului și a rețelelor edilitare la elaborarea certificatului de urbanism pentru proiectare
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9523,7 +9523,7 @@ Aviz de mediu pentru coordonarea schemei de amplasare a imobilului, terenului ș
 
 ---
 
-## Service: Certificat de înregistrare a colecțiilor de plante și animale din flora și fauna sălbatică
+# Categorie: Service: Certificat de înregistrare a colecțiilor de plante și animale din flora și fauna sălbatică
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9540,7 +9540,7 @@ Certificat de înregistrare a colecțiilor de plante și animale din flora și f
 
 ---
 
-## Service: Coordonarea normativelor pierderilor de substanţe minerale la extragere
+# Categorie: Service: Coordonarea normativelor pierderilor de substanţe minerale la extragere
 **E-Service Available:** No
 
 **Service Description:**
@@ -9561,7 +9561,7 @@ Coordonarea normativelor pierderilor de substanţe minerale la extragere
 
 ---
 
-## Service: Decizie pentru efectuarea evaluării prealabile a impactului asupra mediului al activităților planificate
+# Categorie: Service: Decizie pentru efectuarea evaluării prealabile a impactului asupra mediului al activităților planificate
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9578,7 +9578,7 @@ Decizie pentru efectuarea evaluării prealabile a impactului asupra mediului al 
 
 ---
 
-## Service: Decizie pentru importul, exportul, strămutarea, întreținerea în captivitate, reproducerea, aclimatizarea și încrucișarea animalelor în scopuri economice și de cercetări științifice
+# Categorie: Service: Decizie pentru importul, exportul, strămutarea, întreținerea în captivitate, reproducerea, aclimatizarea și încrucișarea animalelor în scopuri economice și de cercetări științifice
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9595,7 +9595,7 @@ Decizie pentru importul, exportul, strămutarea, întreținerea în captivitate,
 
 ---
 
-## Service: Decizie pentru introducerea de specii alohtone, intervențiile asupra speciilor invazive, precum și reintroducerea speciilor indigene
+# Categorie: Service: Decizie pentru introducerea de specii alohtone, intervențiile asupra speciilor invazive, precum și reintroducerea speciilor indigene
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9612,7 +9612,7 @@ Decizie pentru introducerea de specii alohtone, intervențiile asupra speciilor 
 
 ---
 
-## Service: Evaluarea corespunderii cerințelor în domeniul apărării împotriva incendiilor la obiective, construcții, sisteme și instalații
+# Categorie: Service: Evaluarea corespunderii cerințelor în domeniul apărării împotriva incendiilor la obiective, construcții, sisteme și instalații
 **E-Service Available:** No
 
 **Service Description:**
@@ -9636,7 +9636,7 @@ Sistemul de apărare împotriva incendiilor reprezintă ansamblul de activităţ
 
 ---
 
-## Service: Permis de pescuit sportiv, amator și de agrement
+# Categorie: Service: Permis de pescuit sportiv, amator și de agrement
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9653,7 +9653,7 @@ Permis de pescuit sportiv, amator și de agrement
 
 ---
 
-## Service: Permis pentru fotografierea, filmarea video sau cinematografică a animalelor în perioada de reproducere (de la 1 martie până la 31 iunie) în apropierea cuiburilor, vizuinilor, bârlogurilor etc., precum și în locurile de hibernare
+# Categorie: Service: Permis pentru fotografierea, filmarea video sau cinematografică a animalelor în perioada de reproducere (de la 1 martie până la 31 iunie) în apropierea cuiburilor, vizuinilor, bârlogurilor etc., precum și în locurile de hibernare
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9670,7 +9670,7 @@ Permis pentru fotografierea, filmarea video sau cinematografică a animalelor î
 
 ---
 
-## Service: Permis pentru prinderea păsărilor și aflarea lângă cuib în scopul inelării
+# Categorie: Service: Permis pentru prinderea păsărilor și aflarea lângă cuib în scopul inelării
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9686,7 +9686,7 @@ Permis pentru prinderea păsărilor și aflarea lângă cuib în scopul inelări
 
 ---
 
-## Service: Permis pentru reproducerea în captivitate a speciilor de animale de interes vânătoresc în gospodăria cinegetică complexă
+# Categorie: Service: Permis pentru reproducerea în captivitate a speciilor de animale de interes vânătoresc în gospodăria cinegetică complexă
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9702,7 +9702,7 @@ Permis pentru reproducerea în captivitate a speciilor de animale de interes vâ
 
 ---
 
-## Service: Permis/certificat CITES (Convenția privind comerțul internațional cu specii de faună și floră sălbatică pe cale de dispariție)
+# Categorie: Service: Permis/certificat CITES (Convenția privind comerțul internațional cu specii de faună și floră sălbatică pe cale de dispariție)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9725,7 +9725,7 @@ Act permisiv eliberat pentru importul, exportul, reexportul și tranzitul obiect
 
 ---
 
-## Service: Subvenții pentru dezvoltarea agriculturii și mediului rural
+# Categorie: Service: Subvenții pentru dezvoltarea agriculturii și mediului rural
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9744,7 +9744,7 @@ Gestionarea resurselor financiare destinate pentru susținearea producătorilor 
 
 ---
 
-## Service: Certificat de atestare tehnico-profesională a specialiştilor din construcţii
+# Categorie: Service: Certificat de atestare tehnico-profesională a specialiştilor din construcţii
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9781,7 +9781,7 @@ Act permisiv, ce confirmă dreptul titularului de a exercita activități în co
 
 ---
 
-## Service: Certificat privind valoarea bunului imobil
+# Categorie: Service: Certificat privind valoarea bunului imobil
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9808,7 +9808,7 @@ Certificatul privind valoarea bunului imobil este o informaţie privind valoarea
 
 ---
 
-## Service: Certificat privind înscrierile în Registrul bunurilor imobile
+# Categorie: Service: Certificat privind înscrierile în Registrul bunurilor imobile
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9836,7 +9836,7 @@ Certificatul despre înscrierile în Registrul bunurilor imobile este o informa�
 
 ---
 
-## Service: Efectuarea notărilor în Registrul bunurilor imobile
+# Categorie: Service: Efectuarea notărilor în Registrul bunurilor imobile
 **E-Service Available:** No
 
 **Service Description:**
@@ -9863,7 +9863,7 @@ Notarea în Registrul bunurilor imobile a drepturilor de creanţă, faptelor jur
 
 ---
 
-## Service: Eliberarea documentelor ce confirmă dreptul de proprietate asupra imobilului ca rezultat al desfacerii benevole a tranzacţiei sau a declarării ei nule pe baza deciziei judecătoreşti
+# Categorie: Service: Eliberarea documentelor ce confirmă dreptul de proprietate asupra imobilului ca rezultat al desfacerii benevole a tranzacţiei sau a declarării ei nule pe baza deciziei judecătoreşti
 **E-Service Available:** No
 
 **Service Description:**
@@ -9879,7 +9879,7 @@ Eliberarea documentelor ce confirmă dreptul de proprietate asupra imobilului ca
 
 ---
 
-## Service: Extras din Registrul bunurilor imobile
+# Categorie: Service: Extras din Registrul bunurilor imobile
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9904,7 +9904,7 @@ Extrasul din Registrul bunurilor imobile este informaţia oficială care confirm
 
 ---
 
-## Service: Extras și/sau fotocopii din registrul actelor notariale
+# Categorie: Service: Extras și/sau fotocopii din registrul actelor notariale
 **E-Service Available:** No
 
 **Service Description:**
@@ -9921,7 +9921,7 @@ Obținerea extrasului și/sau fotocopii din registrul actelor notariale
 
 ---
 
-## Service: Informație despre bunurile ce aparțin unei persoane fizice/juridice din banca centrală de date, drepturi active
+# Categorie: Service: Informație despre bunurile ce aparțin unei persoane fizice/juridice din banca centrală de date, drepturi active
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9946,7 +9946,7 @@ Cerinţe faţă de solicitanţi: Titularul dreptului de proprietate asupra bunur
 
 ---
 
-## Service: Informație despre bunurile ce aparțin unei persoane fizice/juridice din banca centrală de date, pentru Programul de stat „Prima casă”
+# Categorie: Service: Informație despre bunurile ce aparțin unei persoane fizice/juridice din banca centrală de date, pentru Programul de stat „Prima casă”
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9972,7 +9972,7 @@ Cerinţe faţă de solicitanţi: Titularul dreptului de proprietate asupra bunur
 
 ---
 
-## Service: Informație despre bunurile ce aparțin unei persoane fizice/juridice din banca centrală de date, toate drepturile
+# Categorie: Service: Informație despre bunurile ce aparțin unei persoane fizice/juridice din banca centrală de date, toate drepturile
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -9999,7 +9999,7 @@ Cerinţe faţă de solicitanţi: Titularul dreptului de proprietate asupra bunur
 
 ---
 
-## Service: Plan cadastral al locului de parcare
+# Categorie: Service: Plan cadastral al locului de parcare
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10025,7 +10025,7 @@ Plan cadastral locului de parcare se furnizează pe suport de hârtie şi/sau �
 
 ---
 
-## Service: Plan cadastral al terenului cu/fără construcție
+# Categorie: Service: Plan cadastral al terenului cu/fără construcție
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10053,7 +10053,7 @@ Plan cadastral al terenului cu/fără construcție se furnizează pe suport de h
 
 ---
 
-## Service: Plan cadastral al încăperii izolate
+# Categorie: Service: Plan cadastral al încăperii izolate
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10081,7 +10081,7 @@ Plan cadastral al încăperii izolate se furnizează pe suport de hârtie şi/sa
 
 ---
 
-## Service: Plan cadastral pentru fiecare sector ulterior
+# Categorie: Service: Plan cadastral pentru fiecare sector ulterior
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10110,7 +10110,7 @@ Serviciul este acordat exclusiv, în cazul, dacă se solicită cu serviciul de e
 
 ---
 
-## Service: Plan cadastral pentru primul sector cadastral
+# Categorie: Service: Plan cadastral pentru primul sector cadastral
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10139,7 +10139,7 @@ Planul cadastral la nivel de sector cadastral este reprezentare grafică a teri
 
 ---
 
-## Service: Recepția lucrărilor cadastrale
+# Categorie: Service: Recepția lucrărilor cadastrale
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10153,7 +10153,7 @@ Recepţiei sunt supuse toate lucrările cadastrale executate de întreprinderi d
 
 ---
 
-## Service: Titlul de autentificare a dreptului deţinătorului de teren
+# Categorie: Service: Titlul de autentificare a dreptului deţinătorului de teren
 **E-Service Available:** No
 
 **Service Description:**
@@ -10169,7 +10169,7 @@ Titlul de autentificare a dreptului deţinătorului de teren, este documentul ce
 
 ---
 
-## Service: Înregistrarea altor drepturi reale precum ipoteca, superficia, uzufructul, uzul, abitaţia, servitutea, dreptul de folosinţă asupra terenului statului sau unităţii administrativ-teritoriale, concesiunea, gestiunea economică, etc.
+# Categorie: Service: Înregistrarea altor drepturi reale precum ipoteca, superficia, uzufructul, uzul, abitaţia, servitutea, dreptul de folosinţă asupra terenului statului sau unităţii administrativ-teritoriale, concesiunea, gestiunea economică, etc.
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10204,7 +10204,7 @@ Titlul de autentificare a dreptului deţinătorului de teren, este documentul ce
 
 ---
 
-## Service: Înregistrarea curentă a dreptului de proprietate
+# Categorie: Service: Înregistrarea curentă a dreptului de proprietate
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10226,7 +10226,7 @@ Titlul de autentificare a dreptului deţinătorului de teren, este documentul ce
 
 ---
 
-## Service: Înregistrarea dreptului de proprietate asupra bunului imobil nou format
+# Categorie: Service: Înregistrarea dreptului de proprietate asupra bunului imobil nou format
 **E-Service Available:** No
 
 **Service Description:**
@@ -10253,7 +10253,7 @@ Titlul de autentificare a dreptului deţinătorului de teren, este documentul ce
 
 ---
 
-## Service: Înregistrarea primară selectivă a dreptului de proprietate
+# Categorie: Service: Înregistrarea primară selectivă a dreptului de proprietate
 **E-Service Available:** No
 
 **Service Description:**
@@ -10286,7 +10286,7 @@ Un set de servicii sau evenimente de viață legate de  declararea taxelor/impoz
 
 ---
 
-## Service: Certificat privind sumele TVA nerestituite pentru mărfurile exportate
+# Categorie: Service: Certificat privind sumele TVA nerestituite pentru mărfurile exportate
 **E-Service Available:** No
 
 **Service Description:**
@@ -10307,7 +10307,7 @@ Confirmarea ca deținătorul certificatului nu a beneficiat de restituirea TVA a
 
 ---
 
-## Service: Comanda seriei și diapazonului de numere pentru documentele primare
+# Categorie: Service: Comanda seriei și diapazonului de numere pentru documentele primare
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10324,7 +10324,7 @@ Asigurarea contribuabililor cu serie și diapazon de numere pentru imprimarea de
 
 ---
 
-## Service: Formulare tipizate de documente primare cu regim special
+# Categorie: Service: Formulare tipizate de documente primare cu regim special
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10342,7 +10342,7 @@ Asigurarea contribuabililor de către Serviciul Fiscal de Stat cu formulare tipi
 
 ---
 
-## Service: Oferirea accesului la serviciile fiscale electronice și interacțiunea cu contribuabilii în mediul online
+# Categorie: Service: Oferirea accesului la serviciile fiscale electronice și interacțiunea cu contribuabilii în mediul online
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10372,7 +10372,7 @@ Asigurarea contribuabililor de către Serviciul Fiscal de Stat cu formulare tipi
 
 ---
 
-## Service: Înregistrarea activității de prelucrare și/sau fabricare a mărfurilor supuse accizelor
+# Categorie: Service: Înregistrarea activității de prelucrare și/sau fabricare a mărfurilor supuse accizelor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10393,7 +10393,7 @@ Asigurarea contribuabililor de către Serviciul Fiscal de Stat cu formulare tipi
 
 ---
 
-## Service: Înregistrarea și sigilarea echipamentelor de casă și de control
+# Categorie: Service: Înregistrarea și sigilarea echipamentelor de casă și de control
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10420,7 +10420,7 @@ Un set de servicii sau evenimente de viață legate de  obținerea actelor de st
 
 ---
 
-## Service: Aviz privind anularea şi/sau modificarea actului de stare civilă
+# Categorie: Service: Aviz privind anularea şi/sau modificarea actului de stare civilă
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10450,7 +10450,7 @@ Avizul privind anularea şi/sau modificarea actului de stare civilă reprezintă
 
 ---
 
-## Service: Buletin de identitate electronic al cetățeanului Republicii Moldova
+# Categorie: Service: Buletin de identitate electronic al cetățeanului Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -10470,7 +10470,7 @@ Buletinul de identitate electronic este actul de identitate de uz intern, care s
 
 ---
 
-## Service: Certificat explicativ
+# Categorie: Service: Certificat explicativ
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10499,7 +10499,7 @@ Serviciul de eliberare a certificatului explicativ face parte din categoria serv
 
 ---
 
-## Service: Certificat/duplicat al certificatului de schimbare a numelui şi/sau prenumelui
+# Categorie: Service: Certificat/duplicat al certificatului de schimbare a numelui şi/sau prenumelui
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10530,7 +10530,7 @@ Certificatul de schimbare a numelui şi/sau prenumelui Prin certificatul de schi
 
 ---
 
-## Service: Extras de pe actul de schimbare a numelui şi/sau prenumelui
+# Categorie: Service: Extras de pe actul de schimbare a numelui şi/sau prenumelui
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10560,7 +10560,7 @@ Prin extrasul de pe actul de schimbare a numelui şi/sau prenumelui se înţeleg
 
 ---
 
-## Service: Acordarea dreptului de repatriere
+# Categorie: Service: Acordarea dreptului de repatriere
 **E-Service Available:** No
 
 **Service Description:**
@@ -10585,7 +10585,7 @@ Repatriere – reîntoarcere benevolă în patrie a persoanelor care s
 
 ---
 
-## Service: Eliberarea titlului de călătorie
+# Categorie: Service: Eliberarea titlului de călătorie
 **E-Service Available:** No
 
 **Service Description:**
@@ -10605,7 +10605,7 @@ Titlul de călătorie este documentul de călătorie provizoriu eliberat pentru 
 
 ---
 
-## Service: Viză electronică pentru Republica Moldova
+# Categorie: Service: Viză electronică pentru Republica Moldova
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10621,7 +10621,7 @@ Viza electronică este autorizația care permite deținătorului acesteia dreptu
 
 ---
 
-## Service: Autorizaţia de import/export al substanţelor stupefiante, psihotrope şi al precursorilor
+# Categorie: Service: Autorizaţia de import/export al substanţelor stupefiante, psihotrope şi al precursorilor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10644,7 +10644,7 @@ Permisiunea de a importa și /sau exporta substanţe stupefiante, psihotrope şi
 
 ---
 
-## Service: Atestarea mandatarilor / modificarea datelor înscrise în Registrul național al mandatarilor autorizați în domeniul proprietății intelectuale
+# Categorie: Service: Atestarea mandatarilor / modificarea datelor înscrise în Registrul național al mandatarilor autorizați în domeniul proprietății intelectuale
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10682,7 +10682,7 @@ Dobîndirea calităţii de Mandatar autorizat sau modificarea datelor înscrise 
 
 ---
 
-## Service: Atestarea/reatestarea în calitate de evaluator al obiectelor de proprietate intelectuală
+# Categorie: Service: Atestarea/reatestarea în calitate de evaluator al obiectelor de proprietate intelectuală
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10722,7 +10722,7 @@ Dobândirea calității de evaluator al obiectelor de proprietate intelectuală/
 
 ---
 
-## Service: Depunerea cererii divizionare, inclusiv examinarea formală și publicarea cererii
+# Categorie: Service: Depunerea cererii divizionare, inclusiv examinarea formală și publicarea cererii
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10799,7 +10799,7 @@ Dobândirea calității de evaluator al obiectelor de proprietate intelectuală/
 
 ---
 
-## Service: Depunerea unei contestații împotriva deciziei adoptate în cadrul examinării
+# Categorie: Service: Depunerea unei contestații împotriva deciziei adoptate în cadrul examinării
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10852,7 +10852,7 @@ Contestarea unui act defavorabil Orice persoană fizică sau juridică (părţi 
 
 ---
 
-## Service: Depunerea unei observaţii
+# Categorie: Service: Depunerea unei observaţii
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10884,7 +10884,7 @@ După publicarea cererii în BOPI în termen de 3 luni, orice persoană interesa
 
 ---
 
-## Service: Depunerea unei opoziții
+# Categorie: Service: Depunerea unei opoziții
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -10940,7 +10940,7 @@ După publicarea cererii în BOPI în termen de 3 luni, orice persoană interesa
 
 ---
 
-## Service: Eliberarea, la solicitare a extrasului legalizat din registru, copiei echivalente a titlului de protecție, copiei certificate de pe un document din dosarul OPI, sau a unei adeverințe, copiei pe hârtie de pe documentele din dosarul OPI sau din Baza de Date, duplicatului adeverinței privind înscrierea obiectelor dreptului de autor şi ale drepturilor conexe, unui document oficial cu privire la obiectele de proprietate industrială, titlului de protecție în cazul transmiterii drepturilor.
+# Categorie: Service: Eliberarea, la solicitare a extrasului legalizat din registru, copiei echivalente a titlului de protecție, copiei certificate de pe un document din dosarul OPI, sau a unei adeverințe, copiei pe hârtie de pe documentele din dosarul OPI sau din Baza de Date, duplicatului adeverinței privind înscrierea obiectelor dreptului de autor şi ale drepturilor conexe, unui document oficial cu privire la obiectele de proprietate industrială, titlului de protecție în cazul transmiterii drepturilor.
 **E-Service Available:** No
 
 **Service Description:**
@@ -10966,7 +10966,7 @@ Serviciul permite eliberarea, la solicitare a extrasului legalizat din registru,
 
 ---
 
-## Service: Examinarea și înregistrarea Regulamentului de utilizare a mărcii colective/de certificare și publicarea informației privind aceasta
+# Categorie: Service: Examinarea și înregistrarea Regulamentului de utilizare a mărcii colective/de certificare și publicarea informației privind aceasta
 **E-Service Available:** No
 
 **Service Description:**
@@ -10992,7 +10992,7 @@ Examinarea şi înregistrarea Regulamentului de utilizare a mărcii colective.
 
 ---
 
-## Service: Limitarea protecției a obiectului protejat prin brevet
+# Categorie: Service: Limitarea protecției a obiectului protejat prin brevet
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -11033,7 +11033,7 @@ Examinarea şi înregistrarea Regulamentului de utilizare a mărcii colective.
 
 ---
 
-## Service: Modificarea titularului drepturilor patrimoniale (inclusiv înscrierea în Registru), pentru un obiect al dreptului de autor sau al drepturilor conexe şi eliberarea adeverinţei de modificare a titularului de drepturi patrimoniale
+# Categorie: Service: Modificarea titularului drepturilor patrimoniale (inclusiv înscrierea în Registru), pentru un obiect al dreptului de autor sau al drepturilor conexe şi eliberarea adeverinţei de modificare a titularului de drepturi patrimoniale
 **E-Service Available:** No
 
 **Service Description:**
@@ -11058,7 +11058,7 @@ Solicitantul sau reprezentantul acestuia depune o cerere de modificare a titular
 
 ---
 
-## Service: Obținerea marcajelor de control pentru exemplare de opere sau fonograme şi a adeverinţei privind eliberarea marcajelor de control
+# Categorie: Service: Obținerea marcajelor de control pentru exemplare de opere sau fonograme şi a adeverinţei privind eliberarea marcajelor de control
 **E-Service Available:** No
 
 **Service Description:**
@@ -11083,7 +11083,7 @@ Persoana înregistrată în Registrul de stat al titularilor marcajelor de contr
 
 ---
 
-## Service: Obținerea protecției asupra unui soi de plante
+# Categorie: Service: Obținerea protecției asupra unui soi de plante
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -11158,7 +11158,7 @@ Orice persoană fizică sau juridică poate solicita un brevet pentru soi de pla
 
 ---
 
-## Service: Organizarea arbitrajului
+# Categorie: Service: Organizarea arbitrajului
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -11191,7 +11191,7 @@ Soluţionarea litigiilor ce apar între persoanele fizice şi/sau juridice în d
 
 ---
 
-## Service: Recepționarea, verificarea, examinarea și transmiterea cererii conform procedurilor de înregistrare internațională, cu excepția invențiilor
+# Categorie: Service: Recepționarea, verificarea, examinarea și transmiterea cererii conform procedurilor de înregistrare internațională, cu excepția invențiilor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -11249,7 +11249,7 @@ Cererea internațională poate fi depusă de orice persoană fizică sau juridic
 
 ---
 
-## Service: Repunerea în termenul omis / prelungirea termenului de procedură
+# Categorie: Service: Repunerea în termenul omis / prelungirea termenului de procedură
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -11323,7 +11323,7 @@ Cererea internațională poate fi depusă de orice persoană fizică sau juridic
 
 ---
 
-## Service: Restabilirea/repunerea în drepturi
+# Categorie: Service: Restabilirea/repunerea în drepturi
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -11369,7 +11369,7 @@ Solicitantul sau titularul unui obiect de proprietate industrială, sau orice al
 
 ---
 
-## Service: Retragerea totală/parţială a cererii de înregistrare/brevetare a obiectului de proprietate intelectuală, retragerea opoziţiei, retragerea contestaţiei depuse împotriva deciziei examinării, renunţarea la titlul de protecţie al obiectului de proprietate intelectuală
+# Categorie: Service: Retragerea totală/parţială a cererii de înregistrare/brevetare a obiectului de proprietate intelectuală, retragerea opoziţiei, retragerea contestaţiei depuse împotriva deciziei examinării, renunţarea la titlul de protecţie al obiectului de proprietate intelectuală
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -11403,7 +11403,7 @@ Retragerea totală/parţială a cererii de înregistrare/brevetare a obiectului 
 
 ---
 
-## Service: Reînnoirea valabilității certificatului de înregistrare a desenului şi modelului industrial
+# Categorie: Service: Reînnoirea valabilității certificatului de înregistrare a desenului şi modelului industrial
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -11460,7 +11460,7 @@ Retragerea totală/parţială a cererii de înregistrare/brevetare a obiectului 
 
 ---
 
-## Service: Reînnoirea valabilității certificatului de înregistrare a mărcii
+# Categorie: Service: Reînnoirea valabilității certificatului de înregistrare a mărcii
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -11520,7 +11520,7 @@ Retragerea totală/parţială a cererii de înregistrare/brevetare a obiectului 
 
 ---
 
-## Service: Substituirea mărcii naționale cu o înregistrare internațională
+# Categorie: Service: Substituirea mărcii naționale cu o înregistrare internațională
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -11565,7 +11565,7 @@ Dacă o marcă face concomitent obiectul unei înregistrări naționale în Repu
 
 ---
 
-## Service: Transformarea formei de protecție a invenției
+# Categorie: Service: Transformarea formei de protecție a invenției
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -11607,7 +11607,7 @@ Cererea de brevet de invenţie poate fi transformată, printr
 
 ---
 
-## Service: Înregistrarea contractului de cesiune, gaj, licență sau franciză pentru un obiect al proprietății industriale
+# Categorie: Service: Înregistrarea contractului de cesiune, gaj, licență sau franciză pentru un obiect al proprietății industriale
 **E-Service Available:** No
 
 **Service Description:**
@@ -11640,7 +11640,7 @@ Dobîndirea dreptului de proprietate/utilizare/gaj asupra obiectelor de propriet
 
 ---
 
-## Service: Înregistrarea desenului şi modelului industrial
+# Categorie: Service: Înregistrarea desenului şi modelului industrial
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -11703,7 +11703,7 @@ Dobîndirea dreptului de proprietate/utilizare/gaj asupra obiectelor de propriet
 
 ---
 
-## Service: Înregistrarea indicaţiei geografice, denumirii de origine, specialităţii tradiţionale garantate
+# Categorie: Service: Înregistrarea indicaţiei geografice, denumirii de origine, specialităţii tradiţionale garantate
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -11770,7 +11770,7 @@ Dobîndirea dreptului de proprietate/utilizare/gaj asupra obiectelor de propriet
 
 ---
 
-## Service: Înregistrarea mărcii
+# Categorie: Service: Înregistrarea mărcii
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -11833,7 +11833,7 @@ Dobîndirea dreptului de proprietate/utilizare/gaj asupra obiectelor de propriet
 
 ---
 
-## Service: Înregistrarea titularului marcajelor de control în Registrul de stat al titularilor marcajelor de control şi eliberarea certificatului de înregistrare a titularului marcajelor de control
+# Categorie: Service: Înregistrarea titularului marcajelor de control în Registrul de stat al titularilor marcajelor de control şi eliberarea certificatului de înregistrare a titularului marcajelor de control
 **E-Service Available:** No
 
 **Service Description:**
@@ -11858,7 +11858,7 @@ Dobîndirea dreptului de proprietate/utilizare/gaj asupra obiectelor de propriet
 
 ---
 
-## Service: Înscrierea modificării /radierii informatiei privind contractele de licenţă, franchising si gaj
+# Categorie: Service: Înscrierea modificării /radierii informatiei privind contractele de licenţă, franchising si gaj
 **E-Service Available:** No
 
 **Service Description:**
@@ -11890,7 +11890,7 @@ Eliberarea deciziilor de modificare a contractelor de licenţă, franchising şi
 
 ---
 
-## Service: Înscrierea unui obiect al dreptului de autor sau al drepturilor conexe şi eliberarea adeverinţei privind înscrierea obiectelor dreptului de autor şi ale drepturilor conexe
+# Categorie: Service: Înscrierea unui obiect al dreptului de autor sau al drepturilor conexe şi eliberarea adeverinţei privind înscrierea obiectelor dreptului de autor şi ale drepturilor conexe
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -11918,7 +11918,7 @@ Eliberarea deciziilor de modificare a contractelor de licenţă, franchising şi
 
 ---
 
-## Service: Întroducerea modificărilor/rectificarea unor erori în documentele cererilor/titlurilor de protecţie referitoare la obiectele de proprietate industrială (OPI)
+# Categorie: Service: Întroducerea modificărilor/rectificarea unor erori în documentele cererilor/titlurilor de protecţie referitoare la obiectele de proprietate industrială (OPI)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -11961,7 +11961,7 @@ Un set de servicii sau evenimente de viață legate de activitatea individuală 
 
 ---
 
-## Service: Autorizaţie a staţiilor de radiocomunicaţii ale navelor maritime şi fluviale
+# Categorie: Service: Autorizaţie a staţiilor de radiocomunicaţii ale navelor maritime şi fluviale
 **E-Service Available:** No
 
 **Service Description:**
@@ -11977,7 +11977,7 @@ Autorizaţia staţiilor de radiocomunicaţii ale navelor maritime şi fluviale r
 
 ---
 
-## Service: Autorizație de desfășurare a activităților de instalare, operare, gestionare, mentenanță și/sau lichidare a rețelelor de comunicații electronice la frontiera de stat
+# Categorie: Service: Autorizație de desfășurare a activităților de instalare, operare, gestionare, mentenanță și/sau lichidare a rețelelor de comunicații electronice la frontiera de stat
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12002,7 +12002,7 @@ Actul care atestă dreptul de desfășurare a activităților în zona de fronti
 
 ---
 
-## Service: Licența de utilizare a resurselor de numerotare în scopul furnizării rețelelor și/sau serviciilor de comunicații electronice
+# Categorie: Service: Licența de utilizare a resurselor de numerotare în scopul furnizării rețelelor și/sau serviciilor de comunicații electronice
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12026,7 +12026,7 @@ Resursele de numerotare, resurse limitate aflate în proprietatea publică a sta
 
 ---
 
-## Service: Adeverință de recrut
+# Categorie: Service: Adeverință de recrut
 **E-Service Available:** No
 
 **Service Description:**
@@ -12046,7 +12046,7 @@ Obținerea adeverinței de recrut
 
 ---
 
-## Service: Atestat de colecționar
+# Categorie: Service: Atestat de colecționar
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12065,7 +12065,7 @@ Document, emis în condițiile legii de autoritatea competentă, prin care o per
 
 ---
 
-## Service: Avizarea proiectelor sistemelor de alarmare
+# Categorie: Service: Avizarea proiectelor sistemelor de alarmare
 **E-Service Available:** No
 
 **Service Description:**
@@ -12097,7 +12097,7 @@ Avizarea proiectelor sistemelor de alarmare Inspectoratul național de securitat
 
 ---
 
-## Service: Cazier judiciar/ detaliat/ contravenţional pentru persoanele fizice și juridice (de pe teritoriul RM)
+# Categorie: Service: Cazier judiciar/ detaliat/ contravenţional pentru persoanele fizice și juridice (de pe teritoriul RM)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12118,7 +12118,7 @@ Acum puteţi depune cererea pentru obţinerea cazierului judiciar, detaliat sau 
 
 ---
 
-## Service: Certificat de deținător de armă care face obiectul declarării pentru persoana juridică
+# Categorie: Service: Certificat de deținător de armă care face obiectul declarării pentru persoana juridică
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12134,7 +12134,7 @@ Obținerea certificatului de deținător de armă care face obiectul declarării
 
 ---
 
-## Service: Duplicat de permis de armă, valabil numai în exercițiul atribuțiilor de serviciu declarat pierdut, sustras, deteriorat
+# Categorie: Service: Duplicat de permis de armă, valabil numai în exercițiul atribuțiilor de serviciu declarat pierdut, sustras, deteriorat
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12153,7 +12153,7 @@ Obținerea duplicatului de permis de armă, valabil numai în exercițiul atribu
 
 ---
 
-## Service: Permis de armă, valabil numai în exercițiul atribuțiilor de serviciu
+# Categorie: Service: Permis de armă, valabil numai în exercițiul atribuțiilor de serviciu
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12173,7 +12173,7 @@ Document, emis în condițiile legii de autoritatea competentă, prin care o per
 
 ---
 
-## Service: Permis de procurare a armei de către persoane fizice
+# Categorie: Service: Permis de procurare a armei de către persoane fizice
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12203,7 +12203,7 @@ Document, emis în condițiile legii de autoritatea competentă, prin care se at
 
 ---
 
-## Service: Permis de procurare a armei de către persoane juridice
+# Categorie: Service: Permis de procurare a armei de către persoane juridice
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12224,7 +12224,7 @@ Document, emis în condițiile legii de autoritatea competentă, prin care se at
 
 ---
 
-## Service: Permis de reparare a armei
+# Categorie: Service: Permis de reparare a armei
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12244,7 +12244,7 @@ Act permisiv, ce confirmă dreptul titularului de a întreprinde activități cu
 
 ---
 
-## Service: Permis de transfer pentru scoaterea definitivă de pe teritoriul Republicii Moldova a armelor și munițiilor
+# Categorie: Service: Permis de transfer pentru scoaterea definitivă de pe teritoriul Republicii Moldova a armelor și munițiilor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12264,7 +12264,7 @@ Document, eliberat de autoritățile competente, prin care se permite efectuarea
 
 ---
 
-## Service: Vizarea/prelungirea, o dată la 3 ani, a permisului de armă, valabil numai în exercițiul atribuțiilor de serviciu
+# Categorie: Service: Vizarea/prelungirea, o dată la 3 ani, a permisului de armă, valabil numai în exercițiul atribuțiilor de serviciu
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12280,7 +12280,7 @@ Vizarea/prelungirea, o dată la 3 ani, a permisului de armă, valabil numai în 
 
 ---
 
-## Service: Efectuarea înscrisurilor pe acte
+# Categorie: Service: Efectuarea înscrisurilor pe acte
 **E-Service Available:** No
 
 **Service Description:**
@@ -12296,7 +12296,7 @@ Efectuarea înscrisurilor pe acte
 
 ---
 
-## Service: Eliberarea informaţiei sau documentelor cerute de birourile notariale în favoarea clientului
+# Categorie: Service: Eliberarea informaţiei sau documentelor cerute de birourile notariale în favoarea clientului
 **E-Service Available:** No
 
 **Service Description:**
@@ -12313,7 +12313,7 @@ Eliberarea informaţiei sau documentelor cerute de birourile notariale în favoa
 
 ---
 
-## Service: Informaţia privind achitarea/neachitarea contribuţiilor de asigurări sociale de stat
+# Categorie: Service: Informaţia privind achitarea/neachitarea contribuţiilor de asigurări sociale de stat
 **E-Service Available:** No
 
 **Service Description:**
@@ -12329,7 +12329,7 @@ Obținerea informației de către persoanele fizice, cu domiciliul în Republica
 
 ---
 
-## Service: Informație/certificat privind salariul mediu pe economie, nivelul inflației, minimul de existență
+# Categorie: Service: Informație/certificat privind salariul mediu pe economie, nivelul inflației, minimul de existență
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12346,7 +12346,7 @@ Obținerea informației de către persoanele fizice, cu domiciliul în Republica
 
 ---
 
-## Service: Legitimație de expert judiciar, interpret şi/sau traducător
+# Categorie: Service: Legitimație de expert judiciar, interpret şi/sau traducător
 **E-Service Available:** No
 
 **Service Description:**
@@ -12363,7 +12363,7 @@ Obținerea legitimației de expert judiciar, interpret şi/sau traducător
 
 ---
 
-## Service: Prestarea serviciilor cu corecții diferențiale de înaltă precizie de la Sistemul Național de Poziționare MOLDPOS.
+# Categorie: Service: Prestarea serviciilor cu corecții diferențiale de înaltă precizie de la Sistemul Național de Poziționare MOLDPOS.
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12385,7 +12385,7 @@ Sistemul Naţional de Poziţionare (în continuare – MOLDPOS) reprezintă un 
 
 ---
 
-## Service: Supralegalizarea consulară a unui document eliberat de autoritățile unui stat străin sau cu participarea acestora, destinat utilizării în Republica Moldova, pentru persoane fizice și persoane juridice
+# Categorie: Service: Supralegalizarea consulară a unui document eliberat de autoritățile unui stat străin sau cu participarea acestora, destinat utilizării în Republica Moldova, pentru persoane fizice și persoane juridice
 **E-Service Available:** No
 
 **Service Description:**
@@ -12398,9 +12398,9 @@ Supralegalizarea reprezintă procedura care se aplică actelor cu elemente de ex
 
 ---
 
-## Activitate antreprenorială
+# Categorie: Activitate antreprenorială
 
-## Service: Carnet ATA pentru admitere temporară a mărfurilor
+# Categorie: Service: Carnet ATA pentru admitere temporară a mărfurilor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12422,7 +12422,7 @@ Obținerea carnetului ATA pentru admitere temporara a marfurilor. Pentru a obţi
 
 ---
 
-## Service: Certificat privind lipsa sau existența restanțelor față de buget
+# Categorie: Service: Certificat privind lipsa sau existența restanțelor față de buget
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12441,13 +12441,13 @@ Constatarea situației relațiilor contribuabilului cu bugetul public național 
 
 ---
 
-## Achiziții publice și parteneriate
+# Categorie: Achiziții publice și parteneriate
 
 
 
-## Taxe și impozite
+# Categorie: Taxe și impozite
 
-## Service: Licenţă pentru importul/exportul produselor din tutun şi/sau al produselor conexe; importul şi/sau prelucrarea industrială a tutunului nefermentat şi/sau a tutunului fermentat; fabricarea produselor din tutun şi/sau a produselor conexe şi/sau comercializarea angro a produselor din tutun şi/sau a produselor conexe, şi/sau a tutunului nefermentat, şi/sau a tutunului fermentat
+# Categorie: Service: Licenţă pentru importul/exportul produselor din tutun şi/sau al produselor conexe; importul şi/sau prelucrarea industrială a tutunului nefermentat şi/sau a tutunului fermentat; fabricarea produselor din tutun şi/sau a produselor conexe şi/sau comercializarea angro a produselor din tutun şi/sau a produselor conexe, şi/sau a tutunului nefermentat, şi/sau a tutunului fermentat
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12486,7 +12486,7 @@ Act permisiv, emis în condițiile legii de autoritatea competentă, prin care s
 
 ---
 
-## Service: Licența pentru activitatea de broker vamal
+# Categorie: Service: Licența pentru activitatea de broker vamal
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12520,7 +12520,7 @@ Document, emis în condițiile legii de autoritatea competentă, prin care se at
 
 ---
 
-## Service: Licență pentru importul şi păstrarea alcoolului etilic; importul, păstrarea şi comercializarea angro a producţiei alcoolice şi/sau a berii importate
+# Categorie: Service: Licență pentru importul şi păstrarea alcoolului etilic; importul, păstrarea şi comercializarea angro a producţiei alcoolice şi/sau a berii importate
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12559,7 +12559,7 @@ Document, emis în condițiile legii de autoritatea competentă, prin care se at
 
 ---
 
-## Service: Eliberarea  informațiilor din  Fondul de stat de informații privind subsolul
+# Categorie: Service: Eliberarea  informațiilor din  Fondul de stat de informații privind subsolul
 **E-Service Available:** No
 
 **Service Description:**
@@ -12581,7 +12581,7 @@ Eliberarea informațiilor privind structura geologică a teritoriilor şi a raio
 
 ---
 
-## Service: <p><span style="color: black;">Certificat de atestare în calitate de plătitor TVA</span></p>
+# Categorie: Service: <p><span style="color: black;">Certificat de atestare în calitate de plătitor TVA</span></p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12595,7 +12595,7 @@ Certificatul de atestare în calitate de plătitor TVA se eliberează contribuab
 
 ---
 
-## Service: Autorizarea centrelor de asistență tehnică pentru mașinile de casă și de control/imprimantele fiscale
+# Categorie: Service: Autorizarea centrelor de asistență tehnică pentru mașinile de casă și de control/imprimantele fiscale
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12619,7 +12619,7 @@ Obținerea Certificatului de înregistrare în calitate de centru de asistență
 
 ---
 
-## Service: Autorizație de utilizator final
+# Categorie: Service: Autorizație de utilizator final
 **E-Service Available:** No
 
 **Service Description:**
@@ -12639,7 +12639,7 @@ Beneficiere de scutirea de accize a distilatelor obținute pe bază de vin
 
 ---
 
-## Service: Certificat de atribuire a codului fiscal
+# Categorie: Service: Certificat de atribuire a codului fiscal
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12662,7 +12662,7 @@ Certificat de atribuire a codului fiscal – document care confirmă luarea la e
 
 ---
 
-## Service: Certificat privind impozitul pe venit achitat de nerezident în Republica Moldova
+# Categorie: Service: Certificat privind impozitul pe venit achitat de nerezident în Republica Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -12687,7 +12687,7 @@ Pentru impozitele reţinute la sursă în Republica Moldova, autoritatea compete
 
 ---
 
-## Service: Confirmarea privind reluarea prezentării dărilor de seamă fiscale
+# Categorie: Service: Confirmarea privind reluarea prezentării dărilor de seamă fiscale
 **E-Service Available:** No
 
 **Service Description:**
@@ -12701,7 +12701,7 @@ Confirmarea eliberată privind reluarea prezentării dărilor de seamă
 
 ---
 
-## Service: Confirmarea privind veniturile obținute în Republica Moldova de persoanele fizice cetățeni ai Republicii Moldova
+# Categorie: Service: Confirmarea privind veniturile obținute în Republica Moldova de persoanele fizice cetățeni ai Republicii Moldova
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12719,7 +12719,7 @@ Confirmarea privind veniturile obținute se eliberează persoanelor fizice cetă
 
 ---
 
-## Service: Eliberarea certificatului privind atestarea impozitului pe venit achitat de nerezident în Republica Moldova
+# Categorie: Service: Eliberarea certificatului privind atestarea impozitului pe venit achitat de nerezident în Republica Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -12744,7 +12744,7 @@ Atestarea impozitului pe venit achitat de nerezident în Republica Moldova
 
 ---
 
-## Service: Eliberarea/prelungirea patentei de întreprinzător
+# Categorie: Service: Eliberarea/prelungirea patentei de întreprinzător
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12765,7 +12765,7 @@ Eliberarea/prelungirea patentelor pentru desfășurarea în cadrul legii a activ
 
 ---
 
-## Service: Înregistrarea on-line a contribuabililor
+# Categorie: Service: Înregistrarea on-line a contribuabililor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12784,7 +12784,7 @@ Luarea la evidență fiscală a contribuabililor
 
 ---
 
-## Service: Înregistrarea subdiviziunilor/obiectelor impozabile
+# Categorie: Service: Înregistrarea subdiviziunilor/obiectelor impozabile
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12802,7 +12802,7 @@ Luarea la evidență fiscală a contribuabililor
 
 ---
 
-## Service: Efectuarea examinării balistice a armelor dezactivate
+# Categorie: Service: Efectuarea examinării balistice a armelor dezactivate
 **E-Service Available:** No
 
 **Service Description:**
@@ -12828,7 +12828,7 @@ Efectuarea examinării balistice a armelor dezactivate
 
 ---
 
-## Service: Efectuarea tragerii experimentale din armele de foc și marcarea armelor
+# Categorie: Service: Efectuarea tragerii experimentale din armele de foc și marcarea armelor
 **E-Service Available:** No
 
 **Service Description:**
@@ -12849,9 +12849,9 @@ Efectuarea tragerii experimentale
 
 ---
 
-## Registru și evidență
+# Categorie: Registru și evidență
 
-## Service: Alocaţie lunară pentru merite deosebite faţă de stat
+# Categorie: Service: Alocaţie lunară pentru merite deosebite faţă de stat
 **E-Service Available:** No
 
 **Service Description:**
@@ -12871,7 +12871,7 @@ Acordarea unui drept bănesc soţiei/soţului, sau mamei/tatălui, a/al persoane
 
 ---
 
-## Service: Autorizație de exploatare a emițătoarelor radio
+# Categorie: Service: Autorizație de exploatare a emițătoarelor radio
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -12900,7 +12900,7 @@ Act permisiv, emis în condițiile legii de autoritatea competentă, ce confirm�
 
 ---
 
-## Service: Avizarea construcţiilor, instalaţiilor şi echipamentelor în zonele supuse servituţii aeronautice
+# Categorie: Service: Avizarea construcţiilor, instalaţiilor şi echipamentelor în zonele supuse servituţii aeronautice
 **E-Service Available:** No
 
 **Service Description:**
@@ -12920,7 +12920,7 @@ Servitute aeronautică – condiţii, restricţii naţionale şi/sau internaţio
 
 ---
 
-## Service: Certificat de valoare biologică
+# Categorie: Service: Certificat de valoare biologică
 **E-Service Available:** No
 
 **Service Description:**
@@ -12938,7 +12938,7 @@ Certificat de valoare biologică – act care confirmă că, cel puțin pe segme
 
 ---
 
-## Service: Decizia privind emiterea informației tarifare obligatorii
+# Categorie: Service: Decizia privind emiterea informației tarifare obligatorii
 **E-Service Available:** No
 
 **Service Description:**
@@ -12960,7 +12960,7 @@ Decizia privind emiterea informației tarifare obligatorii (în continuare ITO) 
 
 ---
 
-## Service: Eliberare informație/extras din Registrul dosarelor succesorale și testament (RDST)
+# Categorie: Service: Eliberare informație/extras din Registrul dosarelor succesorale și testament (RDST)
 **E-Service Available:** No
 
 **Service Description:**
@@ -12980,7 +12980,7 @@ Eliberarea informației privind deschiderea dosarelor succesorale
 
 ---
 
-## Service: Eliberarea informațiilor din arhiva Ministerului Afacerilor Interne
+# Categorie: Service: Eliberarea informațiilor din arhiva Ministerului Afacerilor Interne
 **E-Service Available:** No
 
 **Service Description:**
@@ -13006,7 +13006,7 @@ Eliberarea informațiilor din arhiva Ministerului Afacerilor Interne
 
 ---
 
-## Service: Act privind modificarea caracteristicilor principale ale navei
+# Categorie: Service: Act privind modificarea caracteristicilor principale ale navei
 **E-Service Available:** No
 
 **Service Description:**
@@ -13025,7 +13025,7 @@ Emiterea certificatului de naționalitate și actului de navigație conținând 
 
 ---
 
-## Service: Act privind transferul dreptului de proprietate asupra navei
+# Categorie: Service: Act privind transferul dreptului de proprietate asupra navei
 **E-Service Available:** No
 
 **Service Description:**
@@ -13041,7 +13041,7 @@ Eliberarea certificatului de proprietate asupra navei și certificatului de na
 
 ---
 
-## Service: Certificat privind înregistrarea grevărilor asupra mijloacelor plutitoare în Registrul de stat a navelor și catalogul naval
+# Categorie: Service: Certificat privind înregistrarea grevărilor asupra mijloacelor plutitoare în Registrul de stat a navelor și catalogul naval
 **E-Service Available:** No
 
 **Service Description:**
@@ -13058,7 +13058,7 @@ Obținerea certificatului privind înregistrarea grevărilor asupra mijloacelor 
 
 ---
 
-## Service: Radierea temporară/definitivă a navei din Registrul de stat al navelor al Republicii Moldova
+# Categorie: Service: Radierea temporară/definitivă a navei din Registrul de stat al navelor al Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -13077,7 +13077,7 @@ Retragerea dreptului de a naviga sub pavilionul RM și introducerea în Registru
 
 ---
 
-## Service: Perfectarea actelor de studii pentru absolvenții din raioanele de est ale RM și or. Bender
+# Categorie: Service: Perfectarea actelor de studii pentru absolvenții din raioanele de est ale RM și or. Bender
 **E-Service Available:** No
 
 **Service Description:**
@@ -13093,7 +13093,7 @@ Retragerea dreptului de a naviga sub pavilionul RM și introducerea în Registru
 
 ---
 
-## Service: Aplicarea concluziei în procesele-verbale de recepție la terminarea lucrărilor la obiectele finanțate din bugetul de stat sau bugetele locale
+# Categorie: Service: Aplicarea concluziei în procesele-verbale de recepție la terminarea lucrărilor la obiectele finanțate din bugetul de stat sau bugetele locale
 **E-Service Available:** No
 
 **Service Description:**
@@ -13125,7 +13125,7 @@ Serviciul pentru procedura de recepție presupune confirmarea faptului că execu
 
 ---
 
-## Service: Aplicarea concluziei în procesul verbal de recepție finală a lucrărilor la obiectele finanțate din bugetul de stat sau bugetele locale.
+# Categorie: Service: Aplicarea concluziei în procesul verbal de recepție finală a lucrărilor la obiectele finanțate din bugetul de stat sau bugetele locale.
 **E-Service Available:** No
 
 **Service Description:**
@@ -13158,7 +13158,7 @@ Serviciul pentru procedura de recepție presupune confirmarea faptului că execu
 
 ---
 
-## Service: Conferirea/modificarea adresei unui bun imobil
+# Categorie: Service: Conferirea/modificarea adresei unui bun imobil
 **E-Service Available:** No
 
 **Service Description:**
@@ -13173,7 +13173,7 @@ Conferirea/ modificarea adresei pentru o clădire sau încăpere izolată nou c
 
 ---
 
-## Service: Eliberarea extrasului din Registrul de stat al unităților administrativ-teritoriale și al adreselor
+# Categorie: Service: Eliberarea extrasului din Registrul de stat al unităților administrativ-teritoriale și al adreselor
 **E-Service Available:** No
 
 **Service Description:**
@@ -13193,7 +13193,7 @@ Extrasul din Registrul de stat al unităților administrativ
 
 ---
 
-## Service: Extras din Registrul patrimoniului public
+# Categorie: Service: Extras din Registrul patrimoniului public
 **E-Service Available:** No
 
 **Service Description:**
@@ -13211,7 +13211,7 @@ Obținerea extrasului din Registrul patrimoniului public
 
 ---
 
-## Service: Participarea în calitate de membru al comisiei de recepție la obiectele finanțate din mijloace financiare proprietate privată - blocuri locative ce depășesc 5 niveluri și hoteluri
+# Categorie: Service: Participarea în calitate de membru al comisiei de recepție la obiectele finanțate din mijloace financiare proprietate privată - blocuri locative ce depășesc 5 niveluri și hoteluri
 **E-Service Available:** No
 
 **Service Description:**
@@ -13247,7 +13247,7 @@ Serviciul pentru participarea în calitate de membru al comisiei de recepție de
 
 ---
 
-## Service: Prelungirea vizelor pentru străini
+# Categorie: Service: Prelungirea vizelor pentru străini
 **E-Service Available:** No
 
 **Service Description:**
@@ -13269,7 +13269,7 @@ Viza de scurtă şedere se eliberează pentru o perioadă determinată, cu una s
 
 ---
 
-## Service: Atestarea și legitimarea donatorului voluntar permanent de sânge
+# Categorie: Service: Atestarea și legitimarea donatorului voluntar permanent de sânge
 **E-Service Available:** No
 
 **Service Description:**
@@ -13287,7 +13287,7 @@ Atestarea și legitimarea donatorului voluntar permanent de sânge
 
 ---
 
-## Service: Înregistrarea produselor biocide
+# Categorie: Service: Înregistrarea produselor biocide
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13311,7 +13311,7 @@ Act administrativ prin care produsul biocid este înregistrat pentru plasare pe 
 
 ---
 
-## Service: Autorizarea generală de furnizare a rețelelor și/sau serviciilor de comunicaţii electronice
+# Categorie: Service: Autorizarea generală de furnizare a rețelelor și/sau serviciilor de comunicaţii electronice
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13339,7 +13339,7 @@ Autorizarea generală reprezintă regimul juridic care conferă persoanelor fizi
 
 ---
 
-## Service: Ajutor material anual pentru persoanele asimilate participanţilor la război din rândul categoriilor specificate la art.7 alin.(2) pct.2) lit.a), c) şi e) din Legea nr.190/2003 cu privire la veterani şi pentru persoanele antrenate de autorităţile administraţiei publice locale la strângerea muniţiilor şi a tehnicii militare, la deminarea teritoriului şi a obiectelor în anii Celui de-al Doilea Război Mondial
+# Categorie: Service: Ajutor material anual pentru persoanele asimilate participanţilor la război din rândul categoriilor specificate la art.7 alin.(2) pct.2) lit.a), c) şi e) din Legea nr.190/2003 cu privire la veterani şi pentru persoanele antrenate de autorităţile administraţiei publice locale la strângerea muniţiilor şi a tehnicii militare, la deminarea teritoriului şi a obiectelor în anii Celui de-al Doilea Război Mondial
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13369,7 +13369,7 @@ De dreptul la ajutor material anual beneficiază: Persoanele asimilate participa
 
 ---
 
-## Service: Ajutor material anual pentru persoanele cu dizabilităţi de pe urma acţiunilor de luptă pentru apărarea integrităţii teritoriale şi a independenţei Republicii Moldova şi pentru membrii familiilor participanţilor căzuţi la datorie în acţiunile de luptă pentru apărarea integrităţii teritoriale şi a independenţei Republicii Moldova (soţi şi unul dintre părinţi)
+# Categorie: Service: Ajutor material anual pentru persoanele cu dizabilităţi de pe urma acţiunilor de luptă pentru apărarea integrităţii teritoriale şi a independenţei Republicii Moldova şi pentru membrii familiilor participanţilor căzuţi la datorie în acţiunile de luptă pentru apărarea integrităţii teritoriale şi a independenţei Republicii Moldova (soţi şi unul dintre părinţi)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13388,7 +13388,7 @@ De dreptul la ajutor material anual beneficiază persoanele cu dizabilităţi de
 
 ---
 
-## Service: Ajutor material anual pentru persoanele cu dizabilităţi de pe urma participării la acţiunile de luptă din Afganistan şi pentru membrii familiilor participanţilor căzuţi la datorie în acţiunile de luptă din Afganistan (soţi şi unul dintre părinţi)
+# Categorie: Service: Ajutor material anual pentru persoanele cu dizabilităţi de pe urma participării la acţiunile de luptă din Afganistan şi pentru membrii familiilor participanţilor căzuţi la datorie în acţiunile de luptă din Afganistan (soţi şi unul dintre părinţi)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13406,7 +13406,7 @@ De dreptul la ajutor material anual beneficiază persoanele cu dizabilităţi de
 
 ---
 
-## Service: Ajutor material anual pentru soţii supravieţuitori ai participanţilor la Cel de-al Doilea Război Mondial căzuţi la datorie sau ai persoanelor cu dizabilităţi de pe urma celui de-al Doilea Război Mondial decedate
+# Categorie: Service: Ajutor material anual pentru soţii supravieţuitori ai participanţilor la Cel de-al Doilea Război Mondial căzuţi la datorie sau ai persoanelor cu dizabilităţi de pe urma celui de-al Doilea Război Mondial decedate
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13425,7 +13425,7 @@ De dreptul la ajutor material anual beneficiază soţii supravieţuitori ai part
 
 ---
 
-## Service: Ajutor material anual pentru victimele represiunilor politice, care au fost reabilitate, din anii 1917–1990
+# Categorie: Service: Ajutor material anual pentru victimele represiunilor politice, care au fost reabilitate, din anii 1917–1990
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13442,7 +13442,7 @@ De dreptul la ajutor material anual beneficiază victimele represiunilor politic
 
 ---
 
-## Service: Certificat de deținător de armă care face obiectul declarării pentru persoana fizică
+# Categorie: Service: Certificat de deținător de armă care face obiectul declarării pentru persoana fizică
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13461,7 +13461,7 @@ Document, emis în condițiile legii de autoritatea competentă, prin care se do
 
 ---
 
-## Service: Contracte privind Registrul Garanțiilor Reale Mobiliare (RGRM)
+# Categorie: Service: Contracte privind Registrul Garanțiilor Reale Mobiliare (RGRM)
 **E-Service Available:** No
 
 **Service Description:**
@@ -13478,7 +13478,7 @@ Conectarea la Registrul Garanțiilor Reale Mobiliare, acordarea accesului activ/
 
 ---
 
-## Service: Eliberare informație/extras din Registrul garanțiilor reale mobiliare (RGRM)
+# Categorie: Service: Eliberare informație/extras din Registrul garanțiilor reale mobiliare (RGRM)
 **E-Service Available:** No
 
 **Service Description:**
@@ -13496,7 +13496,7 @@ Eliberarea informației din Registrul Garantiilor Reale Mobiliare RGRM printr
 
 ---
 
-## Service: Eliberarea certificatelor și adeverințelor de export
+# Categorie: Service: Eliberarea certificatelor și adeverințelor de export
 **E-Service Available:** No
 
 **Service Description:**
@@ -13517,7 +13517,7 @@ Certificatul de export pentru bunurile culturale mobile se emite la cerere, în 
 
 ---
 
-## Service: Eliberarea notificărilor de import, inclusiv pentru automobile de colecție
+# Categorie: Service: Eliberarea notificărilor de import, inclusiv pentru automobile de colecție
 **E-Service Available:** No
 
 **Service Description:**
@@ -13539,7 +13539,7 @@ Notificările de import se emit la cererea scrisă a persoanelor fizice și juri
 
 ---
 
-## Service: Expertizarea bunurilor culturale mobile
+# Categorie: Service: Expertizarea bunurilor culturale mobile
 **E-Service Available:** No
 
 **Service Description:**
@@ -13556,9 +13556,9 @@ Expertizarea bunurilor culturale se face la cerere, în următoarele situații: 
 
 ---
 
-## Drepturi și justiție
+# Categorie: Drepturi și justiție
 
-## Service: Indemnizația viageră antrenorilor sportivilor de performanță.
+# Categorie: Service: Indemnizația viageră antrenorilor sportivilor de performanță.
 **E-Service Available:** No
 
 **Service Description:**
@@ -13580,7 +13580,7 @@ Antrenorii cetățeni și rezidenți ai Republicii Moldova care au pregătit spo
 
 ---
 
-## Service: Autorizație de import al motorinei
+# Categorie: Service: Autorizație de import al motorinei
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13613,7 +13613,7 @@ Act permisiv, emis în condițiile legii de autoritatea competentă, prin care s
 
 ---
 
-## Service: Autorizație pentru exploatarea spațiilor de depozitare pentru antrepozitarea vamală
+# Categorie: Service: Autorizație pentru exploatarea spațiilor de depozitare pentru antrepozitarea vamală
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13631,7 +13631,7 @@ Act permisiv ce confirmă dreptul titularului de a întreprinde activități de 
 
 ---
 
-## Service: Certificat privind luare la evidenţă în calitate de plătitor la bugetul asigurărilor sociale de stat
+# Categorie: Service: Certificat privind luare la evidenţă în calitate de plătitor la bugetul asigurărilor sociale de stat
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13647,7 +13647,7 @@ Eliberarea certificatului privind înregistrarea în calitate de plătitor la bu
 
 ---
 
-## Service: Licență pentru activitatea de operare cu tichetele de masă, inclusiv de emitere şi rambursare a valorii acestora
+# Categorie: Service: Licență pentru activitatea de operare cu tichetele de masă, inclusiv de emitere şi rambursare a valorii acestora
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13680,7 +13680,7 @@ Act permisiv, emis în condițiile legii de autoritatea competentă, prin care s
 
 ---
 
-## Service: Licență pentru desfășurarea activității farmaceutice
+# Categorie: Service: Licență pentru desfășurarea activității farmaceutice
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13696,7 +13696,7 @@ Document, emis în condițiile legii de autoritatea competentă, prin care se at
 
 ---
 
-## Service: Licență pentru furnizarea serviciului public de alimentare cu apă și/sau de canalizare la nivel de regiune, raion, municipiu, oraș și, după caz, sat, comună
+# Categorie: Service: Licență pentru furnizarea serviciului public de alimentare cu apă și/sau de canalizare la nivel de regiune, raion, municipiu, oraș și, după caz, sat, comună
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13729,7 +13729,7 @@ Act permisiv, emis în condițiile legii de autoritatea competentă, prin care s
 
 ---
 
-## Service: Înregistrarea mișcării animalelor
+# Categorie: Service: Înregistrarea mișcării animalelor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13750,7 +13750,7 @@ Document oficial, eliberat de autoritatea competentă, care permite mișcarea ș
 
 ---
 
-## Service: Autentificarea contractului, cu excepția contractului de înstrăinare a bunurilor imobile și a contractului de gaj
+# Categorie: Service: Autentificarea contractului, cu excepția contractului de înstrăinare a bunurilor imobile și a contractului de gaj
 **E-Service Available:** No
 
 **Service Description:**
@@ -13764,7 +13764,7 @@ Autentificarea contractului, cu excepția contractului de înstrăinare a bunuri
 
 ---
 
-## Service: Duplicat al actului notarial, întocmit de misiunea diplomatică sau de oficiul consular
+# Categorie: Service: Duplicat al actului notarial, întocmit de misiunea diplomatică sau de oficiul consular
 **E-Service Available:** No
 
 **Service Description:**
@@ -13779,7 +13779,7 @@ Eliberarea duplicatului actului notarial care a fost întocmit de misiunea diplo
 
 ---
 
-## Service: Serviciul pentru participare la concursul pentru obținerea dreptului de folosință asupra sectoarelor de subsol pentru prospecțiuni și explorări sau pentru extragerea substanțelor minerale utile
+# Categorie: Service: Serviciul pentru participare la concursul pentru obținerea dreptului de folosință asupra sectoarelor de subsol pentru prospecțiuni și explorări sau pentru extragerea substanțelor minerale utile
 **E-Service Available:** No
 
 **Service Description:**
@@ -13798,7 +13798,7 @@ Concursul se organizează în scopul selectării beneficiarului la folosirea sec
 
 ---
 
-## Service: Aviz pentru participare la licitațiile publice în domeniul executării lucrărilor de construcții
+# Categorie: Service: Aviz pentru participare la licitațiile publice în domeniul executării lucrărilor de construcții
 **E-Service Available:** No
 
 **Service Description:**
@@ -13820,7 +13820,7 @@ Serviciul de obținere a avizului pentru participare la licitațiile publice în
 
 ---
 
-## Service: Acordarea dreptului de aflare
+# Categorie: Service: Acordarea dreptului de aflare
 **E-Service Available:** No
 
 **Service Description:**
@@ -13844,7 +13844,7 @@ Drept de aflare
 
 ---
 
-## Service: Acordarea protecției internaționale
+# Categorie: Service: Acordarea protecției internaționale
 **E-Service Available:** No
 
 **Service Description:**
@@ -13862,7 +13862,7 @@ Protecție internațională
 
 ---
 
-## Service: Acordarea tolerării rămânerii pe teritoriul Republicii Moldova
+# Categorie: Service: Acordarea tolerării rămânerii pe teritoriul Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -13878,7 +13878,7 @@ Tolerarea rămânerii pe teritoriul Republicii Moldova reprezintă permisiunea a
 
 ---
 
-## Service: Licență pentru desfășurarea activității farmaceutice
+# Categorie: Service: Licență pentru desfășurarea activității farmaceutice
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13894,7 +13894,7 @@ Document, emis în condițiile legii de autoritatea competentă, prin care se at
 
 ---
 
-## Service: Licența de utilizare a canalelor sau frecvențelor radio în scopul furnizării rețelelor și/sau serviciilor de comunicații electronice
+# Categorie: Service: Licența de utilizare a canalelor sau frecvențelor radio în scopul furnizării rețelelor și/sau serviciilor de comunicații electronice
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13926,7 +13926,7 @@ Canalele şi frecvenţele radio sunt resurse limitate aflate în proprietatea pu
 
 ---
 
-## Service: Permis tehnic pentru utilizarea staţiilor de radiocomunicaţii
+# Categorie: Service: Permis tehnic pentru utilizarea staţiilor de radiocomunicaţii
 **E-Service Available:** No
 
 **Service Description:**
@@ -13959,7 +13959,7 @@ Un set de servicii sau evenimente de viață legate de  obținerea adeverinței 
 
 ---
 
-## Service: Autorizarea de funcționare a tirului de trageri
+# Categorie: Service: Autorizarea de funcționare a tirului de trageri
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13976,7 +13976,7 @@ Autorizarea de funcționare a tirului de trageri
 
 ---
 
-## Service: Autorizație pentru activitatea particulară de pază.
+# Categorie: Service: Autorizație pentru activitatea particulară de pază.
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -13992,7 +13992,7 @@ Document emis în condițiile legii de autoritatea competentă, prin care atest�
 
 ---
 
-## Service: Înregistrarea dactiloscopică benevolă
+# Categorie: Service: Înregistrarea dactiloscopică benevolă
 **E-Service Available:** No
 
 **Service Description:**
@@ -14017,7 +14017,7 @@ Dactiloscopierea persoanelor
 
 ---
 
-## Service: Efectuarea analizelor de arbitraj şi de control ale metalelor preţioase în orice formă şi în orice stare şi ale articolelor din ele, precum şi ale resturilor şi deşeurilor lor, la cererea organelor de drept, vamale şi a altor autorităţi
+# Categorie: Service: Efectuarea analizelor de arbitraj şi de control ale metalelor preţioase în orice formă şi în orice stare şi ale articolelor din ele, precum şi ale resturilor şi deşeurilor lor, la cererea organelor de drept, vamale şi a altor autorităţi
 **E-Service Available:** No
 
 **Service Description:**
@@ -14036,7 +14036,7 @@ Efectuarea analizelor de arbitraj şi de control ale metalelor preţioase în or
 
 ---
 
-## Service: Informaţie privind beneficierea/nebeneficierea de prestaţii sociale în sistemul public de asigurări sociale de stat al Republicii Moldova
+# Categorie: Service: Informaţie privind beneficierea/nebeneficierea de prestaţii sociale în sistemul public de asigurări sociale de stat al Republicii Moldova
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -14055,9 +14055,9 @@ Obţinerea informaţiei de către persoanele fizice și instituții competente p
 
 ---
 
-## Cultură, sport și turism
+# Categorie: Cultură, sport și turism
 
-## Service: Eliberarea avizului privind constituirea structurilor sportului
+# Categorie: Service: Eliberarea avizului privind constituirea structurilor sportului
 **E-Service Available:** No
 
 **Service Description:**
@@ -14073,9 +14073,9 @@ Pentru înregistrarea organizațiilor necomerciale cu profil sportiv, este neces
 
 ---
 
-## Relația cu autoritățile
+# Categorie: Relația cu autoritățile
 
-## Service: Eşalonarea stingerii datoriilor majorărilor de întârziere (penalităţilor) faţă de bugetul asigurărilor sociale de stat
+# Categorie: Service: Eşalonarea stingerii datoriilor majorărilor de întârziere (penalităţilor) faţă de bugetul asigurărilor sociale de stat
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -14101,7 +14101,7 @@ Eşalonarea stingerii datoriilor majorărilor de întârziere (penalitățilo
 
 ---
 
-## Service: Restituirea sumelor din bugetul asigurărilor sociale de stat plătitorilor de contribuţii
+# Categorie: Service: Restituirea sumelor din bugetul asigurărilor sociale de stat plătitorilor de contribuţii
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -14120,7 +14120,7 @@ Restituirea la contul bancar al plătitorului de contribuţii la BASS a sumelor 
 
 ---
 
-## Service: Compensaţia unică familiilor ce şi-au pierdut întreţinătorul în urma catastrofei de la C.A.E Cernobîl
+# Categorie: Service: Compensaţia unică familiilor ce şi-au pierdut întreţinătorul în urma catastrofei de la C.A.E Cernobîl
 **E-Service Available:** No
 
 **Service Description:**
@@ -14140,7 +14140,7 @@ Acordarea unui ajutor material familiilor ce şi
 
 ---
 
-## Service: <p>Certificat al evaluatorului bunurilor imobile.</p>
+# Categorie: Service: <p>Certificat al evaluatorului bunurilor imobile.</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -14169,7 +14169,7 @@ Certificarea evaluatorilor bunurilor imobile
 
 ---
 
-## Service: <p>Certificat al inginerului cadastral</p>
+# Categorie: Service: <p>Certificat al inginerului cadastral</p>
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -14198,7 +14198,7 @@ Confirmă faptul că titularul certificatului deține cunoștințele și compete
 
 ---
 
-## Service: Autorizarea activității pentru utilizarea obiectivelor și încăperilor destinate activităților legate de circulația substanțelor stupefiante, psihotrope și a precursorilor
+# Categorie: Service: Autorizarea activității pentru utilizarea obiectivelor și încăperilor destinate activităților legate de circulația substanțelor stupefiante, psihotrope și a precursorilor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -14222,7 +14222,7 @@ Autorizaţia permite solicitantului să întreprindă activități legate de cir
 
 ---
 
-## Service: Autorizaţie de import în regim preferenţial al unor tipuri de zahăr
+# Categorie: Service: Autorizaţie de import în regim preferenţial al unor tipuri de zahăr
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -14243,7 +14243,7 @@ Permisiunea de a desfăşura activităţi de import al zahărului şi produselor
 
 ---
 
-## Service: Autorizație individuală de import al mărfurilor strategice (cu dublă destinație)
+# Categorie: Service: Autorizație individuală de import al mărfurilor strategice (cu dublă destinație)
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -14266,7 +14266,7 @@ Permisiune unică de a importa mărfuri strategice pe teritoriul vamal al Republ
 
 ---
 
-## Service: Aviz de atestare a impedimentului justificator de neexecutare a obligației contractuale
+# Categorie: Service: Aviz de atestare a impedimentului justificator de neexecutare a obligației contractuale
 **E-Service Available:** No
 
 **Service Description:**
@@ -14286,7 +14286,7 @@ Obținerea Avizului de atestare a impedimentului justificator de neexecutare a o
 
 ---
 
-## Service: Certificarea prestatorului de servicii sociale
+# Categorie: Service: Certificarea prestatorului de servicii sociale
 **E-Service Available:** No
 
 **Service Description:**
@@ -14323,7 +14323,7 @@ Acreditarea prestatorilor de servicii sociale se face în scopul determinării, 
 
 ---
 
-## Service: Certificat al organizației de pregătire pentru personalul aeronautic
+# Categorie: Service: Certificat al organizației de pregătire pentru personalul aeronautic
 **E-Service Available:** No
 
 **Service Description:**
@@ -14354,7 +14354,7 @@ Denumirea serviciului este una generică, incluzând 3 tipuri de certificate eli
 
 ---
 
-## Service: Certificat al utilizatorului final
+# Categorie: Service: Certificat al utilizatorului final
 **E-Service Available:** No
 
 **Service Description:**
@@ -14372,7 +14372,7 @@ Document care garantează că mărfurile strategice exportate, reexportate sau i
 
 ---
 
-## Service: Certificat de conformitate a calității fructelor și legumelor proaspete
+# Categorie: Service: Certificat de conformitate a calității fructelor și legumelor proaspete
 **E-Service Available:** No
 
 **Service Description:**
@@ -14393,7 +14393,7 @@ Document care garantează că mărfurile strategice exportate, reexportate sau i
 
 ---
 
-## Service: Certificat de verificare a livrării
+# Categorie: Service: Certificat de verificare a livrării
 **E-Service Available:** No
 
 **Service Description:**
@@ -14414,7 +14414,7 @@ Document care certifică faptul că mărfurile strategice controlate, specificat
 
 ---
 
-## Service: Certificat internațional de import
+# Categorie: Service: Certificat internațional de import
 **E-Service Available:** No
 
 **Service Description:**
@@ -14431,7 +14431,7 @@ Document care certifică faptul că importatorul dispune de autorizație de impo
 
 ---
 
-## Service: Certificatul de calitate a semințelor/buletinul de analiză a semințelor pentru uz intern
+# Categorie: Service: Certificatul de calitate a semințelor/buletinul de analiză a semințelor pentru uz intern
 **E-Service Available:** No
 
 **Service Description:**
@@ -14456,7 +14456,7 @@ Certificat de calitate a semințelor – se eliberează pentru comercializarea p
 
 ---
 
-## Service: Certificatul de înregistrare a agenților economici pentru producerea și/sau prelucrarea și/sau comercializarea semințelor
+# Categorie: Service: Certificatul de înregistrare a agenților economici pentru producerea și/sau prelucrarea și/sau comercializarea semințelor
 **E-Service Available:** No
 
 **Service Description:**
@@ -14475,7 +14475,7 @@ Certificatul de înregistrare a agenților economici – se eliberează solicita
 
 ---
 
-## Service: Clasificarea structurilor de primire turistică cu funcțiuni de cazare și de servire a mesei
+# Categorie: Service: Clasificarea structurilor de primire turistică cu funcțiuni de cazare și de servire a mesei
 **E-Service Available:** No
 
 **Service Description:**
@@ -14502,7 +14502,7 @@ Document emis în baza clasificării, care conține serie, număr, categorie de 
 
 ---
 
-## Service: Eliberarea certificatului privind lipsa sau existența datoriilor la bugetul de stat, compartimentul plăți vamale
+# Categorie: Service: Eliberarea certificatului privind lipsa sau existența datoriilor la bugetul de stat, compartimentul plăți vamale
 **E-Service Available:** No
 
 **Service Description:**
@@ -14519,7 +14519,7 @@ Oferirea informaţiilor privind lipsa sau existenţa datoriilor la bugetul de st
 
 ---
 
-## Service: Evaluarea corespunderii cerințelor în domeniul apărării împotriva incendiilor în vederea obținerii licenței pentru producerea, asamblarea, importul, exportul, reexportul, depozitarea, comercializarea articolelor pirotehnice și/sau prestarea serviciului „spectacole pirotehnice și focuri de artificii” cu articole pirotehnice de divertisment de destinație profesională
+# Categorie: Service: Evaluarea corespunderii cerințelor în domeniul apărării împotriva incendiilor în vederea obținerii licenței pentru producerea, asamblarea, importul, exportul, reexportul, depozitarea, comercializarea articolelor pirotehnice și/sau prestarea serviciului „spectacole pirotehnice și focuri de artificii” cu articole pirotehnice de divertisment de destinație profesională
 **E-Service Available:** No
 
 **Service Description:**
@@ -14548,7 +14548,7 @@ Oferirea informaţiilor privind lipsa sau existenţa datoriilor la bugetul de st
 
 ---
 
-## Service: Obținerea certificatului de calificare al auditorului
+# Categorie: Service: Obținerea certificatului de calificare al auditorului
 **E-Service Available:** No
 
 **Service Description:**
@@ -14575,7 +14575,7 @@ Obținerea certificatului de calificare al auditorului.
 
 ---
 
-## Service: Permisiune pentru obținerea și depozitarea materialelor explozive
+# Categorie: Service: Permisiune pentru obținerea și depozitarea materialelor explozive
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -14616,7 +14616,7 @@ Instituirea unui grad de protecție a intereselor vitale ale persoanei și ale s
 
 ---
 
-## Service: Înregistrare sanitar veterinară
+# Categorie: Service: Înregistrare sanitar veterinară
 **E-Service Available:** No
 
 **Service Description:**
@@ -14640,7 +14640,7 @@ Agenții economici care desfășoară cel puțin una dintre activitățile menț
 
 ---
 
-## Service: Ajutor material unic anual copiilor care au pierdut întreținătorul (de pe urma catastrofei de la C.A.E Cernobîl)
+# Categorie: Service: Ajutor material unic anual copiilor care au pierdut întreținătorul (de pe urma catastrofei de la C.A.E Cernobîl)
 **E-Service Available:** No
 
 **Service Description:**
@@ -14659,7 +14659,7 @@ Acordarea ajutorului material unic anual copiilor care au pierdut întreținăto
 
 ---
 
-## Service: Asigurarea probelor
+# Categorie: Service: Asigurarea probelor
 **E-Service Available:** No
 
 **Service Description:**
@@ -14673,7 +14673,7 @@ Asigurarea probelor are scopul prevenirii dispariției ori imposibilității adm
 
 ---
 
-## Service: Certificarea unor fapte
+# Categorie: Service: Certificarea unor fapte
 **E-Service Available:** No
 
 **Service Description:**
@@ -14688,7 +14688,7 @@ Certificarea unor fapte reprezintă un act procedural prin care se certifică un
 
 ---
 
-## Service: Solicitarea unui act (act de stare civilă, act notarial, cazier judiciar etc.) sau a unei informații din Republica Moldova. Perfectarea și eliberarea unui alt document sau certificat, efectuarea unei alte acțiuni consulare decât cele menționate în compartimentele precedente, dar care sunt solicitate conform legislației statului străin și nu contravin legislației Republicii Moldova sau acordurilor la care ambele state sunt parte
+# Categorie: Service: Solicitarea unui act (act de stare civilă, act notarial, cazier judiciar etc.) sau a unei informații din Republica Moldova. Perfectarea și eliberarea unui alt document sau certificat, efectuarea unei alte acțiuni consulare decât cele menționate în compartimentele precedente, dar care sunt solicitate conform legislației statului străin și nu contravin legislației Republicii Moldova sau acordurilor la care ambele state sunt parte
 **E-Service Available:** No
 
 **Service Description:**
@@ -14703,7 +14703,7 @@ Certificarea unor fapte reprezintă un act procedural prin care se certifică un
 
 ---
 
-## Service: Autentificarea actelor de bord (jurnalelor de bord, registrelor navale, jurnalelor unice de inspectare a navelor etc.)
+# Categorie: Service: Autentificarea actelor de bord (jurnalelor de bord, registrelor navale, jurnalelor unice de inspectare a navelor etc.)
 **E-Service Available:** No
 
 **Service Description:**
@@ -14720,7 +14720,7 @@ Procedură juridică prin care se autentifică jurnalele de bord, jurnalele de m
 
 ---
 
-## Service: Certificat CEMT de corespundere a remorcii/semiremorcii cu cerințele de siguranță
+# Categorie: Service: Certificat CEMT de corespundere a remorcii/semiremorcii cu cerințele de siguranță
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -14738,7 +14738,7 @@ Document ce atestă corespunderea remorcii sau a semiremorcii cu cerințele de s
 
 ---
 
-## Service: Certificat al echipajului minim pentru siguranța navei
+# Categorie: Service: Certificat al echipajului minim pentru siguranța navei
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -14756,7 +14756,7 @@ Certificat al echipajului minim pentru siguranţa navigaţiei este un document c
 
 ---
 
-## Service: Certificat de tonaj
+# Categorie: Service: Certificat de tonaj
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -14779,7 +14779,7 @@ Certificat de tonaj al navei de navigaţie internă determină capacitatea navei
 
 ---
 
-## Service: Document de bord ce atestă starea tehnică a navei de navigație interioară
+# Categorie: Service: Document de bord ce atestă starea tehnică a navei de navigație interioară
 **E-Service Available:** No
 
 **Service Description:**
@@ -14798,7 +14798,7 @@ Examinarea tehnică a navei/ambarcațiunii și eliberarea condițiilor de utiliz
 
 ---
 
-## Service: Expertiza inițială/repetată la proiectarea navei de navigație interioară
+# Categorie: Service: Expertiza inițială/repetată la proiectarea navei de navigație interioară
 **E-Service Available:** No
 
 **Service Description:**
@@ -14816,7 +14816,7 @@ Expertizarea și avizarea inițială/ repetată a proiectului și documentație
 
 ---
 
-## Service: Înregistrarea în Catalogul navelor tonaj mic a unităților plutitoare mici
+# Categorie: Service: Înregistrarea în Catalogul navelor tonaj mic a unităților plutitoare mici
 **E-Service Available:** No
 
 **Service Description:**
@@ -14834,7 +14834,7 @@ Expertizarea și avizarea inițială/ repetată a proiectului și documentație
 
 ---
 
-## Service: Întocmirea documentelor cu privire la plecarea navelor în mare (indiferent de pavilion) și perceperea tarifului naval la chei
+# Categorie: Service: Întocmirea documentelor cu privire la plecarea navelor în mare (indiferent de pavilion) și perceperea tarifului naval la chei
 **E-Service Available:** No
 
 **Service Description:**
@@ -14854,7 +14854,7 @@ Examinarea avizului și documentelor aferente și emiterea permisului de plecare
 
 ---
 
-## Service: Avizarea loturilor de carte intrate în țară cu titlu de ajutor umanitar
+# Categorie: Service: Avizarea loturilor de carte intrate în țară cu titlu de ajutor umanitar
 **E-Service Available:** No
 
 **Service Description:**
@@ -14874,7 +14874,7 @@ Avizarea loturilor de carte se face la cerere, în situaţiile în care acestea 
 
 ---
 
-## Service: Aviz de conformitate a proiectelor de lucru cu reglementările tehnice şi actele normative în vigoare
+# Categorie: Service: Aviz de conformitate a proiectelor de lucru cu reglementările tehnice şi actele normative în vigoare
 **E-Service Available:** No
 
 **Service Description:**
@@ -14895,7 +14895,7 @@ Obținerea avizului de conformitate a proiectelor de lucru cu reglementările te
 
 ---
 
-## Service: Aviz privind existența sau lipsa substanțelor minerale utile pe teritoriul preconizat pentru construcții
+# Categorie: Service: Aviz privind existența sau lipsa substanțelor minerale utile pe teritoriul preconizat pentru construcții
 **E-Service Available:** No
 
 **Service Description:**
@@ -14915,7 +14915,7 @@ Obținerea avizului privind existența sau lipsa substanțelor minerale utile pe
 
 ---
 
-## Service: Demers de executare a lucrărilor de dinamitare sau a lucrărilor cu materiale explozive
+# Categorie: Service: Demers de executare a lucrărilor de dinamitare sau a lucrărilor cu materiale explozive
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -14955,7 +14955,7 @@ Instituirea unui grad de protecție a intereselor vitale ale persoanei și ale s
 
 ---
 
-## Service: Raportarea de către beneficiarul subsolului despre mişcarea rezervelor și folosirea subsolului în scopuri nelegate de extragerea substanţelor minerale utile
+# Categorie: Service: Raportarea de către beneficiarul subsolului despre mişcarea rezervelor și folosirea subsolului în scopuri nelegate de extragerea substanţelor minerale utile
 **E-Service Available:** No
 
 **Service Description:**
@@ -14984,7 +14984,7 @@ Raportarea de către beneficiarul subsolului despre mişcarea rezervelor și fol
 
 ---
 
-## Service: Avizarea documentațiilor de proiect privind edificarea, intervenția sau restaurarea monumentelor de for public
+# Categorie: Service: Avizarea documentațiilor de proiect privind edificarea, intervenția sau restaurarea monumentelor de for public
 **E-Service Available:** No
 
 **Service Description:**
@@ -15023,7 +15023,7 @@ Serviciul este prestat de către Ministerul Culturii, în baza deciziei Consiliu
 
 ---
 
-## Service: Avizarea documentațiilor de proiect privind intervențiile la imobilele cu statut de monument protejat și proiectele de intervenții în zonele construite protejate
+# Categorie: Service: Avizarea documentațiilor de proiect privind intervențiile la imobilele cu statut de monument protejat și proiectele de intervenții în zonele construite protejate
 **E-Service Available:** No
 
 **Service Description:**
@@ -15053,7 +15053,7 @@ Serviciul este prestat de Ministerul Culturii, în baza deciziei Consilului Naț
 
 ---
 
-## Service: Recunoașterea statutului de apatrid
+# Categorie: Service: Recunoașterea statutului de apatrid
 **E-Service Available:** No
 
 **Service Description:**
@@ -15072,7 +15072,7 @@ Apatrid
 
 ---
 
-## Service: Aprobarea modificărilor postautorizare
+# Categorie: Service: Aprobarea modificărilor postautorizare
 **E-Service Available:** No
 
 **Service Description:**
@@ -15089,7 +15089,7 @@ Apatrid
 
 ---
 
-## Service: Autorizarea activității pentru utilizarea obiectivelor și încăperilor destinate activităților legate de circulația substanțelor stupefiante, psihotrope și a precursorilor
+# Categorie: Service: Autorizarea activității pentru utilizarea obiectivelor și încăperilor destinate activităților legate de circulația substanțelor stupefiante, psihotrope și a precursorilor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -15113,7 +15113,7 @@ Autorizaţia permite solicitantului să întreprindă activități legate de cir
 
 ---
 
-## Service: Autorizație sanitară de funcționare a obiectivelor
+# Categorie: Service: Autorizație sanitară de funcționare a obiectivelor
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -15151,7 +15151,7 @@ Autorizarea sanitară de funcționare a obiectivelor este procedura prin care AN
 
 ---
 
-## Service: Aviz sanitar pentru produse cu impact asupra sănătății
+# Categorie: Service: Aviz sanitar pentru produse cu impact asupra sănătății
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -15182,7 +15182,7 @@ Act prin care se confirmă corespunderea sau necorespunderea serviciilor sau pro
 
 ---
 
-## Service: Notificarea suplimentelor alimentare
+# Categorie: Service: Notificarea suplimentelor alimentare
 **E-Service Available:** No
 
 **Service Description:**
@@ -15202,7 +15202,7 @@ Act administrativ prin care suplimentele alimentare sunt notificate pentru plasa
 
 ---
 
-## Service: Înregistrarea produselor alimentare noi
+# Categorie: Service: Înregistrarea produselor alimentare noi
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -15232,7 +15232,7 @@ Act administrativ prin care suplimentele alimentare sau produsele alimentare noi
 
 ---
 
-## Service: Organizarea medierii
+# Categorie: Service: Organizarea medierii
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -15253,7 +15253,7 @@ Organizarea medierii
 
 ---
 
-## Service: Avizarea instalării mijloacelor de semnalizare rutieră și altor dispozitive (privind siguranța traficului rutier) și a măsurilor de restricție a circulației
+# Categorie: Service: Avizarea instalării mijloacelor de semnalizare rutieră și altor dispozitive (privind siguranța traficului rutier) și a măsurilor de restricție a circulației
 **E-Service Available:** No
 
 **Service Description:**
@@ -15272,7 +15272,7 @@ Avizarea instalării mijloacelor de semnalizare rutieră și altor dispozitive (
 
 ---
 
-## Service: Duplicat al certificatului de armă pentru deținere și/sau, după caz, port și folosire a armei neletale, care face obiectul declarării
+# Categorie: Service: Duplicat al certificatului de armă pentru deținere și/sau, după caz, port și folosire a armei neletale, care face obiectul declarării
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -15287,7 +15287,7 @@ Obținerea duplicatului certificatului de armă pentru deținere și/sau, după 
 
 ---
 
-## Service: Duplicat al certificatului de deținere a armei pentru persoana fizică
+# Categorie: Service: Duplicat al certificatului de deținere a armei pentru persoana fizică
 **E-Service Available:** No
 
 **Service Description:**
@@ -15302,7 +15302,7 @@ Obținerea duplicatului certificatului de deținere a armei pentru persoana fizi
 
 ---
 
-## Service: Duplicat al permisului de armă declarat pierdut, sustras, deteriorat
+# Categorie: Service: Duplicat al permisului de armă declarat pierdut, sustras, deteriorat
 **E-Service Available:** No
 
 **Service Description:**
@@ -15319,7 +15319,7 @@ Obținerea duplicatului permisului de armă declarat pierdut, sustras, deteriora
 
 ---
 
-## Service: Duplicat al permisului de armă, în cazul schimbării locului de domiciliu, a posesorului, pentru persoana fizică
+# Categorie: Service: Duplicat al permisului de armă, în cazul schimbării locului de domiciliu, a posesorului, pentru persoana fizică
 **E-Service Available:** No
 
 **Service Description:**
@@ -15335,7 +15335,7 @@ Obținerea duplicatului permisului de armă, în cazul schimbării locului de do
 
 ---
 
-## Service: Permis de aflare în zona de frontieră pentru persoanele fizice și juridice
+# Categorie: Service: Permis de aflare în zona de frontieră pentru persoanele fizice și juridice
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -15350,7 +15350,7 @@ Obținerea duplicatului permisului de armă, în cazul schimbării locului de do
 
 ---
 
-## Service: Permis de armă provizoriu
+# Categorie: Service: Permis de armă provizoriu
 **E-Service Available:** No
 
 **Service Description:**
@@ -15365,7 +15365,7 @@ Obținerea permisului de armă provizoriu
 
 ---
 
-## Service: Vizarea permisului de armă de deținere și, după caz, de port al armei pentru persoana fizică
+# Categorie: Service: Vizarea permisului de armă de deținere și, după caz, de port al armei pentru persoana fizică
 **E-Service Available:** No
 
 **Service Description:**
@@ -15381,7 +15381,7 @@ Vizarea permisului de armă de deținere și, după caz, de port al armei pentru
 
 ---
 
-## Service: Aviz privind importul ajutoarelor umanitare
+# Categorie: Service: Aviz privind importul ajutoarelor umanitare
 **E-Service Available:** No
 
 **Service Description:**
@@ -15399,7 +15399,7 @@ Avizul se elaborează de către Serviciul ajutoare umanitare din cadrul MMPS car
 
 ---
 
-## Service: Certificarea prestatorului de servicii sociale
+# Categorie: Service: Certificarea prestatorului de servicii sociale
 **E-Service Available:** No
 
 **Service Description:**
@@ -15436,7 +15436,7 @@ Acreditarea prestatorilor de servicii sociale se face în scopul determinării, 
 
 ---
 
-## Service: Expertizarea amprentelor semnului de marcare de pe articolele din metale preţioase şi pietre preţioase
+# Categorie: Service: Expertizarea amprentelor semnului de marcare de pe articolele din metale preţioase şi pietre preţioase
 **E-Service Available:** No
 
 **Service Description:**
@@ -15456,7 +15456,7 @@ Expertizarea amprentelor semnului de marcare de pe articolele din metale preţio
 
 ---
 
-## Service: Expertizarea metalelor preţioase şi diagnosticarea pietrelor preţioase, evaluarea lor
+# Categorie: Service: Expertizarea metalelor preţioase şi diagnosticarea pietrelor preţioase, evaluarea lor
 **E-Service Available:** No
 
 **Service Description:**
@@ -15477,7 +15477,7 @@ Expertizarea metalelor preţioase şi diagnosticarea pietrelor preţioase, evalu
 
 ---
 
-## Service: Fabricarea reactivelor de probare, la comanda agenţilor economici care utilizează în activitatea lor metale preţioase
+# Categorie: Service: Fabricarea reactivelor de probare, la comanda agenţilor economici care utilizează în activitatea lor metale preţioase
 **E-Service Available:** No
 
 **Service Description:**
@@ -15496,7 +15496,7 @@ Fabricarea reactivelor de probare, la comanda agenţilor economici care utilizea
 
 ---
 
-## Service: Formularul privind legislaţia aplicabilă în baza prevederilor acordurilor internaţionale
+# Categorie: Service: Formularul privind legislaţia aplicabilă în baza prevederilor acordurilor internaţionale
 **E-Service Available:** No
 
 **Service Description:**
@@ -15515,7 +15515,7 @@ Eliberarea formularului persoanelor privind legislaţia aplicabilă în baza pre
 
 ---
 
-## Service: Formularul privind stagiul de cotizare realizat pe teritoriul Republicii Moldova
+# Categorie: Service: Formularul privind stagiul de cotizare realizat pe teritoriul Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -15534,7 +15534,7 @@ Formularul privind confirmarea stagiului de cotizare realizat pe teritoriul Repu
 
 ---
 
-## Service: Probarea şi marcarea tuturor articolelor din metale preţioase fabricate pe teritoriul Republicii Moldova şi/sau introduse în ţară pentru comercializare
+# Categorie: Service: Probarea şi marcarea tuturor articolelor din metale preţioase fabricate pe teritoriul Republicii Moldova şi/sau introduse în ţară pentru comercializare
 **E-Service Available:** No
 
 **Service Description:**
@@ -15554,7 +15554,7 @@ Probarea şi marcarea tuturor articolelor din metale preţioase fabricate pe ter
 
 ---
 
-## Service: Înregistrarea agenţilor economici, care practică activităţi cu metale preţioase şi pietre preţioase, precum şi a caselor de amanet
+# Categorie: Service: Înregistrarea agenţilor economici, care practică activităţi cu metale preţioase şi pietre preţioase, precum şi a caselor de amanet
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -15574,7 +15574,7 @@ Probarea şi marcarea tuturor articolelor din metale preţioase fabricate pe ter
 
 ---
 
-## Service: Înregistrarea semnelor nominale personale care se aplică pe articolele confecţionate din metale preţioase şi pietre preţioase
+# Categorie: Service: Înregistrarea semnelor nominale personale care se aplică pe articolele confecţionate din metale preţioase şi pietre preţioase
 **E-Service Available:** No
 
 **Service Description:**
@@ -15590,17 +15590,17 @@ Probarea şi marcarea tuturor articolelor din metale preţioase fabricate pe ter
 
 ---
 
-## Ajutor de stat și subvenții
+# Categorie: Ajutor de stat și subvenții
 
 
 
-## Administrație publică locală
+# Categorie: Administrație publică locală
 
 
 
-## Securitate și apărare națională
+# Categorie: Securitate și apărare națională
 
-## Service: Cazier judiciar privind verificarea persoanelor fizice sau juridice peste hotare (CSI)
+# Categorie: Service: Cazier judiciar privind verificarea persoanelor fizice sau juridice peste hotare (CSI)
 **E-Service Available:** No
 
 **Service Description:**
@@ -15615,7 +15615,7 @@ Obținerea cazierului judiciar privind verificarea persoanelor fizice sau juridi
 
 ---
 
-## Servicii neîncadrate automat
+# Categorie: Servicii neîncadrate automat
 
 # Category: Beneficii
 
@@ -15626,7 +15626,7 @@ Un set de servicii sau evenimente de viață legate de oferirea și/sau plata be
 
 ---
 
-## Service: Autentificarea datelor din situațiile financiare
+# Categorie: Service: Autentificarea datelor din situațiile financiare
 **E-Service Available:** No
 
 **Service Description:**
@@ -15643,7 +15643,7 @@ Autentificarea datelor din situațiile financiare
 
 ---
 
-## Service: Eliberarea adeverinței privind renunțarea la cetățenia Republicii Moldova
+# Categorie: Service: Eliberarea adeverinței privind renunțarea la cetățenia Republicii Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -15659,7 +15659,7 @@ Persoanele care au renunțat la cetățenia Republicii Moldova pot solicita emit
 
 ---
 
-## Service: Autentificarea procurii
+# Categorie: Service: Autentificarea procurii
 **E-Service Available:** No
 
 **Service Description:**
@@ -15674,7 +15674,7 @@ Procura este actul notarial prin care o persoană (mandantu
 
 ---
 
-## Service: Autentificarea testamentului
+# Categorie: Service: Autentificarea testamentului
 **E-Service Available:** No
 
 **Service Description:**
@@ -15687,7 +15687,7 @@ Testamentul este actul unilateral, personal și revocabil prin care o persoană,
 
 ---
 
-## Service: Legalizarea autenticităţii semnăturii judecătorului şi a ştampilei instanţei judecătoreşti pe deciziile judiciare
+# Categorie: Service: Legalizarea autenticităţii semnăturii judecătorului şi a ştampilei instanţei judecătoreşti pe deciziile judiciare
 **E-Service Available:** No
 
 **Service Description:**
@@ -15705,7 +15705,7 @@ Legalizarea consulara se aplica actelor care urmeaza sa fie prezentate pe terito
 
 ---
 
-## Service: Autorizație pentru vânătoare
+# Categorie: Service: Autorizație pentru vânătoare
 **E-Service Available:** No
 
 **Service Description:**
@@ -15723,7 +15723,7 @@ Obținerea autorizației pentru vânătoare
 
 ---
 
-## Service: Aviz privind protecția apelor subterane la amplasarea în zona III de protecție sanitară a prizelor de apă subterană a obiectelor care pot provoca pericol de contaminare chimică a apelor subterane
+# Categorie: Service: Aviz privind protecția apelor subterane la amplasarea în zona III de protecție sanitară a prizelor de apă subterană a obiectelor care pot provoca pericol de contaminare chimică a apelor subterane
 **E-Service Available:** No
 
 **Service Description:**
@@ -15743,7 +15743,7 @@ Obținerea a vizului privind protecția apelor subterane la amplasarea în zona 
 
 ---
 
-## Service: Coordonarea documentației tehnice privind forarea sondelor arteziene
+# Categorie: Service: Coordonarea documentației tehnice privind forarea sondelor arteziene
 **E-Service Available:** No
 
 **Service Description:**
@@ -15762,7 +15762,7 @@ Coordonarea forării sondelor arteziene
 
 ---
 
-## Service: Coordonarea documentației tehnice privind lichidarea sondelor arteziene
+# Categorie: Service: Coordonarea documentației tehnice privind lichidarea sondelor arteziene
 **E-Service Available:** No
 
 **Service Description:**
@@ -15781,7 +15781,7 @@ Coordonarea documentației tehnice privind lichidarea sondelor arteziene
 
 ---
 
-## Service: Coordonarea proiectării sondelor arteziene
+# Categorie: Service: Coordonarea proiectării sondelor arteziene
 **E-Service Available:** No
 
 **Service Description:**
@@ -15801,7 +15801,7 @@ Coordonarea proiectării sondelor arteziene
 
 ---
 
-## Service: Eliberarea certificatului de rezidență
+# Categorie: Service: Eliberarea certificatului de rezidență
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -15833,7 +15833,7 @@ Atestarea rezidenței în Republica Moldova
 
 ---
 
-## Service: Autorizarea emigrării străinilor cu domiciliul permanent în Republica Moldova
+# Categorie: Service: Autorizarea emigrării străinilor cu domiciliul permanent în Republica Moldova
 **E-Service Available:** No
 
 **Service Description:**
@@ -15848,7 +15848,7 @@ Autorizarea emigrării – permisiune oficială a autorităţilor Republicii Mol
 
 ---
 
-## Service: Efectuarea expertizelor extra-judiciare balistice a armelor și munițiilor
+# Categorie: Service: Efectuarea expertizelor extra-judiciare balistice a armelor și munițiilor
 **E-Service Available:** No
 
 **Service Description:**
@@ -15867,7 +15867,7 @@ Efectuarea expertizelor extra
 
 ---
 
-## Service: Legitimație de participant la lichidarea consecințelor catastrofei de la C.A.E. Cernobîl
+# Categorie: Service: Legitimație de participant la lichidarea consecințelor catastrofei de la C.A.E. Cernobîl
 **E-Service Available:** No
 
 **Service Description:**
@@ -15886,7 +15886,7 @@ Obținerea legitimației de participant la lichidarea consecinţelor catastrofei
 
 ---
 
-## Service: Legitimație de veteran al serviciului militar
+# Categorie: Service: Legitimație de veteran al serviciului militar
 **E-Service Available:** No
 
 **Service Description:**
@@ -15901,7 +15901,7 @@ Perfectarea și eliberarea legitimației de veteran al serviciului militar
 
 ---
 
-## Service: Livretul militar
+# Categorie: Service: Livretul militar
 **E-Service Available:** No
 
 **Service Description:**
@@ -15919,7 +15919,7 @@ Obținerea livretului militar
 
 ---
 
-## Service: Permis de dezactivare a armei
+# Categorie: Service: Permis de dezactivare a armei
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -15933,7 +15933,7 @@ Obținerea permisului de dezactivare a armei
 
 ---
 
-## Service: Atestarea laboratoarelor de încercări
+# Categorie: Service: Atestarea laboratoarelor de încercări
 **E-Service Available:** No
 
 **Service Description:**
@@ -15958,7 +15958,7 @@ Atestarea
 
 ---
 
-## Service: Legalizarea autenticităţii semnăturii notarului şi a ştampilei acestuia pe actele persoanelor fizice şi juridice
+# Categorie: Service: Legalizarea autenticităţii semnăturii notarului şi a ştampilei acestuia pe actele persoanelor fizice şi juridice
 **E-Service Available:** No
 
 **Service Description:**
@@ -15976,7 +15976,7 @@ Legalizarea consulara se aplica actelor care urmeaza sa fie prezentate pe terito
 
 ---
 
-## Service: Prezentarea informațiilor individuale și generalizate din situațiile financiare
+# Categorie: Service: Prezentarea informațiilor individuale și generalizate din situațiile financiare
 **E-Service Available:** Yes
 
 **Service Description:**
@@ -15994,7 +15994,7 @@ Prezentarea informațiilor individuale și generalizate din situațiile financia
 
 ---
 
-## Service: Primirea documentelor la păstrare
+# Categorie: Service: Primirea documentelor la păstrare
 **E-Service Available:** No
 
 **Service Description:**
@@ -16010,7 +16010,7 @@ Persoana care desfășoară activitate notarială primește la păstrare documen
 
 ---
 
-## Service: Traducerea și legalizarea traducerii documentelor și a extraselor din ele
+# Categorie: Service: Traducerea și legalizarea traducerii documentelor și a extraselor din ele
 **E-Service Available:** No
 
 **Service Description:**
@@ -16026,7 +16026,7 @@ Transpunerea certificată a unui text scris dintr
 
 ---
 
-## Service: Întocmirea actului privind protestele de mare
+# Categorie: Service: Întocmirea actului privind protestele de mare
 **E-Service Available:** No
 
 **Service Description:**
